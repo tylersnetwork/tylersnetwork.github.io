@@ -1,0 +1,293 @@
+# jemdoc: menu{MENU}{publications.html}
+= Tyler Derr - Publications
+
+Ramit Sawhney, Shivam Agarwal, Arnav Wadhwa, *Tyler Derr*, Rajiv
+Shah. \n
+Stock Selection via Spatiotemporal Hypergraph Attention Network: A
+Learning to Rank Approach. \n
+In Proceedings of the 35th AAAI Conference on Artificial Intelligence
+(AAAI), Virtual Conference, February 2-9, 2021. \n
+Preprint and code coming soon!
+
+Wei Jin, *Tyler Derr*, Yiqi Wang, Yao Ma, Zitao Liu, Jiliang Tang. \n
+Node Similarity Preserving Graph Convolutional Networks. \n
+In Proceedings of the 14th ACM International Conference on Web Search
+and Data Mining (WSDM), Jerusalem, Israel, March 8-12, 2021. \n
+\[Local copy [papers/wsdm21-node_similarity_preserving_gcn.pdf pdf]]\
+\[Code [https://github.com/ChandlerBang/SimP-GCN repo]\]
+
+Wenqi Fan, *Tyler Derr*, Xiangyu Zhao,Yao Ma,Hui Liu, Jianping Wang,
+Jiliang Tang, Qing Li. \n
+CopyAttack: Attacking Black-box Recommendations via Copying
+Cross-domain User Profiles. \n
+In Proceedings of the IEEE 37th International Conference on Data
+Engineering (ICDE), Chania, Greece, April 19-22, 2021. \n
+\[Local copy [papers/icde21-recsys_crossdomain_user_copy_attack.pdf
+pdf]\]
+
+Hamid Karimi, Kaitlin T. Torphy, *Tyler Derr*, Kenneth A. Frank, and
+Jiliang Tang. \n
+Understanding and Promoting Teacher Connections in Online Social
+Media: A Case Study on Pinterest. \n
+In Proceedings of the IEEE International Conference on Teaching,
+Assessment, and Learning for Engineering (TALE), Takamatsu, Japan,
+December 8-11, 2020. \n
+\[Local copy [papers/tale20-promoting_teacher_connections_online.pdf pdf]\]
+
+Yu Rong, Tingyang Xu, Junzhou Huang, Wenbing Huang, Hong Cheng, Yao
+Ma, Yiqi Wang, *Tyler Derr*, Lingfei Wu, Tengfei Ma. \n
+Deep Graph Learning: Foundations, Advances and Applications. \n
+Proceedings of the 26th ACM SIGKDD International Conference on
+Knowledge Discovery & Data Mining (KDD), San Diego, USA, August 22-27,
+2020. \n
+\[Tutorial site
+[https://ai.tencent.com/ailab/ml/KDD-Deep-Graph-Learning.html link]\]\[Local copy [papers/kdd2020-gnn_tutorial.pdf pdf] \]
+
+Wentao Wang, *Tyler Derr*, Yao Ma, Suhang Wang, Hui Liu, Zitao Liu, and
+Jiliang Tang. \n
+Learning from Incomplete Labeled Data via Adversarial Data
+Generation. \n
+In Proceedings of the 18th International Conference on Data Mining
+(ICDM), Sorrento, Italy, November 17-20,
+2020. \n
+Preprint coming soon!
+
+*Tyler Derr*, Hamid Karimi (co-first authors), Jiangtao Huang, and
+Jiliang Tang. \n
+Online Academic Course Performance Prediction using Relational Graph
+Convolutional Neural Network.\n In Proceedings of 13th International
+Conference on Educational Data Mining (EDM), Ifrane, Morocco, July 10-13, 2020. \n
+\[Local copy [papers/edm20-online_course_prediction_gnn.pdf pdf]\]
+
+Hamid Karimi, Kaitlin T. Torphy, *Tyler Derr*, Kenneth A. Frank, and
+Jiliang Tang. \n
+Characterizing Teacher Connections in Online Social Media: A Case Study on Pinterest.\n
+(Work-in-Progress) In Proceedings of the 7th Learning@ Scale (L@S),
+Atlanta, USA, August 12-14, 2020. \n
+\[Local copy [papers/lats20-teacher_connections_on_pinterest.pdf
+pdf]\]
+
+Hamid Karimi, *Tyler Derr*, Kaitlin T. Torphy, Kenneth A. Frank, and
+Jiliang Tang. \n
+Towards Improving Sample Representativeness of Teachers on Online
+Social Media: A Case Study on Pinterest.\n
+In Proceedings of the 21st International Conference on Artificial
+Intelligence in Education (AIED), Ifran, Morocco, July 6-10, 2020. \n
+\[Local copy
+[papers/aied20-improving_teacher_representativeness_online.pdf pdf]\]
+
+*Tyler Derr*, Zhiwei Wang, Jamell Dacon, and Jiliang Tang. \n
+Link and Interaction Polarity Predictions in Signed Networks. \n
+Social Network Analysis and Mining. 10(18). 2020. \n
+\[Springer
+[https://link.springer.com/article/10.1007%2Fs13278-020-0630-6 pdf]\]
+\[Local copy [papers/snam20-link_interaction_polarity_prediction.pdf pdf]\] \n
+
+Amin Javari, *Tyler Derr*, Pouya Esmalian, Jiliang Tang, and Kevin Chen-Chuan Chang. \n
+ROSE: Role-based Signed Network Embedding. \n
+In Proceedings of the 29th International Conference on The World Wide
+Web (WWW), Taipei, Taiwan, April 20-24, 2020. \n
+\[Local copy [papers/www20-rolebased_signed_embedding.pdf pdf]\]
+
+Hamid Karimi, Jiangtao Huang (co-first author), *Tyler Derr*. \n
+A Deep Model for Predicting Online Course Performance. \n
+Workshop on Artificial Intelligence for Education (AI4EDU) at the 34th AAAI
+Conference on Artificial Intelligence (AAAI), New York, USA, February
+7-12, 2020. \n
+\[Local copy
+[papers/aaai-ai4edu2020-predicting_online_course_performance.pdf pdf]\]
+
+*Tyler Derr*, Yao Ma, Wenqi Fan, Xiarui Liu, Charu Aggarwal, and Jiliang Tang.\n
+/Epidemic Graph Convolutional Network/.\n
+In Proceedings of the 13th ACM International Conference on Web Search
+and Data Mining (WSDM)/, Houston, USA, February 3-7, 2020. \n
+\[ACM [https://dl.acm.org/doi/10.1145/3336191.3371807 pdf]\] \[Local copy
+[papers/wsdm20-epidemic_gcn.pdf pdf]\] \[Code
+[https://github.com/tylersnetwork/EpidemicGCN repo]\]
+
+*Tyler Derr*.\n
+/Network Analysis with Negative Links/.\n
+In Proceedings of the 13th ACM International Conference on Web Search
+and Data Mining (WSDM)/, Houston, USA, February 3-7, 2020. \n
+\[ACM [https://dl.acm.org/doi/10.1145/3336191.3372188 pdf]\] \[Local copy
+[papers/wsdm20-network_analysis_with_negative_links.pdf pdf]\]\n
+\[Dataset
+[https://github.com/tylersnetwork/awesome-signed-network-datasets repository]\]\n
+
+*Tyler Derr*, Cassidy Johnson, Yi Chang, and Jiliang Tang.\n
+/Balance in Signed Bipartite Networks/.\n
+/In Proceedings of the 28th ACM International Conference on
+Information and Knowledge Management (CIKM)/, Beijing, China,
+November 3-7, 2019. \n
+\[Local copy
+[papers/cikm2019-signed_bipartite_networks.pdf pdf]\] \[Code
+[https://github.com/tylersnetwork/signed_bipartite_networks repo]\]
+
+*Tyler Derr*, Hamid Karimi (co-first authors), Aaron Brookhouse, and Jiliang Tang.\n
+/Multi-Factor Congressional Vote Prediction/.\n
+In Proceedings of the 2019 IEEE/ACM International Conference on
+Advances in Social Networks Analysis and Mining (ASONAM), Vancouver,
+Canada, August 27-30, 2019. \n
+\[Local copy
+[papers/asonam19-congressional_vote_prediction.pdf pdf]\]\n
+Code coming soon!\n
+
+Wenqi Fan, *Tyler Derr*, Yao Ma, Qing Li, Jiliang Tang, and Jianping Wang.\n
+/Deep Adversarial Social Recommendation/.\n
+In Proceedings of the 28th International Joint Conference on
+Artificial Intelligence (IJCAI), Macao, China, August 10-16,
+2019. \n
+\[Local copy [papers/ijcai19-adversarial_social_recommendation.pdf pdf]\]\n
+
+Hamid Karimi, *Tyler Derr*, Kaitlin T. Torphy, Kenneth A. Frank, and Jiliang Tang.\n
+/A Roadmap for Incorporating Online Social Media in Educational
+Research/.\n
+In Teachers College Record Volume 121 Number 14, 2019.
+\[TCR [https://www.tcrecord.org/Content.asp?ContentId=23045 pdf]\]
+
+*Tyler Derr*, Yao Ma, and Jiliang Tang.\n
+/Signed Graph Convolutional Networks/.\n
+In Proceedings of the 18th International Conference on Data Mining
+(ICDM), Singapore, November 17-20,
+2018. \n
+\[IEEE [https://ieeexplore.ieee.org/abstract/document/8594922
+ pdf]\] \[Local copy [papers/icdm18-signed_gcn.pdf pdf]\] \[Extended version
+[papers/icdm18-signed_graph_convolutional.pdf pdf]\] \[[code/SGCN.zip
+ code]\] \[[https://github.com/benedekrozemberczki/SGCN 3rd party code]\]
+
+*Tyler Derr* and Jiliang Tang.\n
+/Congresional Vote Analysis Using Signed Networks/.\n
+In Proceedings of the 18th International Conference on Data Mining
+Workshops (ICDMW), Singapore, November 17-20, 2018. \n
+\[IEEE
+[https://ieeexplore.ieee.org/abstract/document/8637421 pdf]\] \[Local
+copy [papers/icdmw218-congressional_analysis_signed_networks.pdf pdf]\].\n
+
+*Tyler Derr*, Charu Aggarwal, and Jiliang Tang.\n
+/Signed Network Modeling Based on
+Structural Balance Theory/.\n
+/In Proceedings of the 27th ACM International Conference on
+Information and Knowledge Management (CIKM)/, Turin, Italy,
+October 22-26, 2018.\n
+\[ACM [https://dl.acm.org/citation.cfm?id=3271746
+pdf]\] \[Arxiv [https://arxiv.org/abs/1710.09485 pdf]\]
+
+*Tyler Derr*, Zhiwei Wang, and Jiliang Tang.\n
+/Opinions Power Opinions: Joint Link and Interaction
+Polarity Predictions in Signed Networks/.\n
+In Proceedings of the 2018 IEEE/ACM International Conference on Advances
+in Social Networks Analysis and Mining (ASONAM), Barcelona, Spain,
+August 28-31, 2018.\n
+\[IEEE [https://ieeexplore.ieee.org/abstract/document/8508263 pdf]\]
+\[Local copy (Coming Soon)\]
+
+*Tyler Derr*, Chenxing Wang, Suhang Wang, and Jiliang Tang.\n
+/Relevance Measurements in Online Signed Social Networks/.\n
+KDD 14th International Workshop on Mining and Learning
+with Graphs (MLG), London, United Kingdom, August 20, 2018. \[[papers/mlg18-signed_relevance_measurements.pdf pdf]\]
+
+Zhiwei Wang, *Tyler Derr*, Dawei Yin, and Jiliang Tang.\n
+/Understanding and Predicting Weight Loss with Mobile Social Networking
+Data/.\n
+/Proceedings of the 26th ACM International Conference on
+Information and Knowledge Management (CIKM)/,
+2017. \[ACM [https://dl.acm.org/citation.cfm?id=3132847.3133019 pdf]\]
+\[Local copy [papers/cikm17-weightloss.pdf pdf]\]
+
+
+
+
+
+= Preprints and Submissions
+
+
+*Tyler Derr*, Aaron Brookhouse (co-first author), Hamid Karimi
+(co-first author),
+H. Russell Bernard, and Jiliang Tang. \n
+Road to the White House: Analyzing the Relations Between
+Mainstream and Social Media During the U.S. Presidential Primaries. \n
+\[[https://arxiv.org/pdf/2009.09307.pdf pdf]\]
+
+Wei Jin, *Tyler Derr*, Haochen Liu, Yiqi Wang, Suhang Wang, Zitao Liu,
+and Jiliang Tang. \n
+Self-supervised Learning on Graphs: Deep Insights and New
+Directions.\n
+\[[papers/self_supervised_learning_on_graphs.pdf pdf]\]\n
+
+*Tyler Derr*, Yi Chang, Charu Aggarwal, and Jiliang Tang. \n
+Deep Centrality Measurement for Signed Networks. \n
+
+Hamid Karimi, *Tyler Derr*, Jiliang Tang. \n
+Explaining the Behavior of Deep Neural Networks Through the Lens of
+Decision Boundary. \n
+
+Yao Ma, Suhang Wang, *Tyler Derr*, Lingfei Wu, and Jiliang Tang. \n
+Attacking Graph Convolutional Networks via Rewiring.\n
+\[[papers/attacking_gcns_via_rewiring.pdf pdf]\]\n
+
+Haochen Liu, Zhiwei Wang, *Tyler Derr*, Zitao Liu, and Jiliang Tang. \n
+Chat as Expected: Manipulating Black-box Neural Dialogue Models. \n
+\[[papers/manipulating_dialogue_models.pdf pdf]\]\n
+
+Jamell Dacon, *Tyler Derr*, and Jiliang Tang. \n
+Cross-Domain Recommender System: A Survey on Online Platforms and New
+Perspectives \n
+
+Jiangtao Huang, *Tyler Derr*, Hamid Karimi, and Jiliang Tang. \n
+A Survey of Computational Methods in Massive Open Online Courses. \n
+
+*Tyler Derr*, Hamid Karimi, Xiaorui Liu, Jiejun Xu, and Jiliang Tang. \n
+Deep Adversarial Network Alignment.\n
+\[[papers/deep_adversarial_network_alignment.pdf pdf] \]\n
+
+#Wenqi Fan, Yao Ma, *Tyler Derr*, Jianping Wang, Yulong Gu, Shuaiqiang
+#Wang, Dawei Yin, Jiliang Tang, and Qing Li. \n
+#Zero-shot Recommendations with Knowledge Graph.
+
+Haochen Liu, *Tyler Derr*, Zitao Liu, and Jiliang Tang. \n
+Say What I Want: Towards the Dark Side of Neural Dialogue Models. \n
+\[[papers/dialogue_model_dark_side.pdf pdf]\]\n
+
+Hamid Karimi, *Tyler Derr*, and Jiliang Tang. \n
+Characterizing the Decision Boundary of Deep Neural
+Networks.\n
+\[[papers/decision_boundary_dnn.pdf pdf]\]\n
+
+#Wenqi Fan, *Tyler Derr*, Yao Ma, Jianping Wang, Jiliang Tang, and Qing
+#Li. \n
+#Deep Customer-to-Customer Recommendations. \n
+
+
+
+
+
+
+#Haochen Liu, *Tyler Derr*, Zitao Liu, Jiliang Tang.\n
+#/Say What I Want: Towards the Dark Side of Neural Dialogue Models/.\n
+#arXiv preprint arXiv:1909.06044
+#2019. \n
+
+#Yao Ma, Suhang Wang, *Tyler Derr*, Lingfei Wu, Jiliang Tang.\n
+#/Attacking Graph Convolutional Networks via Rewiring/.\n
+#arXiv preprint arXiv:1906.03750
+#2019. \n
+
+#*Tyler Derr*, Hamid Karimi, Xiaorui Liu, Jiejun Xu, and Jiliang Tang.\n
+#/Deep Adversarial Network Alignment/.\n
+#arXiv preprint arXiv:1902.10307
+#2019. \n
+
+
+
+#*Tyler Derr*, Charu Aggarwal, and Jiliang Tang.\n
+#[https://arxiv.org/abs/1710.09485 Signed Network Modeling Based on
+#Structural Balance Theory.]\n
+#/arXiv preprint arXiv:1710.09485 \[cs.SI\]/, 2017.\n
+#(Submitted for publication and under review)
+
+#*Tyler Derr*, Chenxing Wang, Suhang Wang, and Jiliang Tang.\n
+#[https://arxiv.org/abs/1710.07236v2 Signed Node Relevance
+#Measurements. ]\n
+#/arXiv preprint arXiv:1710.07236v2 \[cs.SI\]/, 2017.\n
+#(Submitted for publication and under review)
+

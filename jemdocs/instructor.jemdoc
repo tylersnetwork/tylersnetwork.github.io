@@ -1,0 +1,16 @@
+# jemdoc: menu{MENU}{teaching_assistant.html}
+= Tyler Derr - Instructor Experience
+
+== Vanderbilt University: Instructor
+
+=== CS 3891/5981-06: Social Network Analysis
+*Fall 2020* \n
+*Course Description:* \n
+Explores recent research on the analysis of social networks and on
+models and algorithms that are used to abstract their properties and
+make predictions. Key topics covered in this course are: Graph models;
+Network centrality measurements; Computational methods of link
+prediction, clustering and classification on graphs, and network
+diffusion; Deep learning on graphs including network embedding and
+graph neural network models and applications; Case studies in signed
+networks and knowledge graphs. 
