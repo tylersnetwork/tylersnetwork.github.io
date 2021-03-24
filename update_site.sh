@@ -28,7 +28,7 @@ gsed -i "${line}i <script type=\"text/javascript\" id=\"clustrmaps\" src=\"//cdn
 gsed -i "${line}i <script type=\"text/javascript\" id=\"clustrmaps\" src=\"//cdn.clustrmaps.com/map_v2.js?d=leIDuRwlUzsESOVq6m32RqbgLChp2xkZYp22IZ7\QInU&cl=ffffff&w=a\"></script>" openings.html
 
 # Adding the recruiting line
-line=76
+line=77
 gsed -i "${line}i <p><b><font color=\"red\">[Open positions]</font><br> I am recruiting</b> PhD students to work with me on topics in my general research interests (seen below). Master's and undergraduate students within VU and visiting scholars are also welcome. Please feel free to email me. <br><b>Please see <a href=\"openings.html\">here</a> for position details.</b></p>" index.html
 
 # Adding Twitter link
