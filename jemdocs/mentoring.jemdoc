@@ -1,37 +1,56 @@
 # jemdoc: menu{MENU}{mentoring.html}
 = Tyler Derr - Mentoring Experience
 
-== Data Science and Engineering Lab, Michigan State University
+= Network and Data Science Lab (As advisor), Vanderbilt University
 
-=== Namratha Shah, M.S. in Computer Science
-*5/2020 - Present* \n
-Ongoing project on social media and mental health
+Note for more details regarding students mentored in NDS please see our lab [http://my.vanderbilt.edu/nds website].
 
-=== Hua Liu, Ph.D. in Mathematics (Shandong University)
-*11/2019 - Present* \n
-Ongoing project in signed network analysis
+== Ph.D. Students
 
+=== Nate Hishon, Ph.D. in Computer Science
+*1/2021 - Present* \n
+
+=== Yu Wang, Ph.D. in Computer Science
+*1/2021 - Present* \n
+
+== M.S. Students
+
+=== Kayla Johnson, M.S. in Data Science
+*2/2021 - Present* \n
+
+=== Cole Sawyer, M.S. in Computer Science
+*8/2020 - Present* \n
+
+== B.S. Students
+
+=== Chet Weissberg, B.S. Computer Science
+*2/2021 - Present* \n
+=== Udit Malik, B.S. Computer Science
+*12/2020 - Present* \n
+=== Jack O'Keefe, B.S. Computer Science and Economics
+*12/2020 - Present* \n
+=== Trevor Pillow, B.S. Computer Science
+*12/2020 - Present* \n
+=== Ben Van Sleen, B.S. Computer Engineering and Economics
+*12/2020 - Present* \n
+
+
+= Data Science and Engineering Lab (Not as advisor, but as senior PhD student), Michigan State University
+ 
 === Wei Jin, Ph.D. in Computer Science
 *11/2019 - Present* \n
+Co-authored "Node Similarity Preserving Graph Convolutional Networks" WSDM'21
 Co-authored "Self-supervised Learning on Graphs: Deep
 Insights and New Directions" \n
 Ongoing project in graph neural networks
-
-
-=== Andrew McDonald, B.S. in Computer Science, B.S. Mathematics & B.S. Statistics
-*3/2019 - Present* \n
-MSU Alumni Distinguished Scholar \n
-Mentoring through the Graduate Women in Science Mentor Program \n
-Work accepted to Undergraduate Consortium at AAAI 2020
-
 
 === Jamell Dacon, Ph.D. Computer Science
 *8/2018 - Present* \n
 MSU Enrichment Fellowship (UEF) \n
 Co-authored "Link and Interaction Polarity Predictions in Signed
 Networks" \n
-Survey paper under review \n
-
+Survey paper under review at ACM CSUR \n
+Ongoing project on Black Lives Matter in Social Media
 
 === Aaron Brookhouse, B.S. Electrical Engineering
 *8/2018 - Present* \n
@@ -40,6 +59,20 @@ Co-authored "Multi-Factor Congressional Vote Prediction" accepted at
 ASONAM 2019 \n
 Poster presentation of our work at MID-SURE 2019 \n
 Two ongoing projects \n
+
+=== Hua Liu, Ph.D. in Mathematics (Shandong University)
+*11/2019 - 11/2020* \n
+Project in signed network analysis
+
+=== Namratha Shah, M.S. in Computer Science
+*5/2020 - 8/2020* \n
+Project on social media and mental health
+
+=== Andrew McDonald, B.S. in Computer Science, B.S. Mathematics & B.S. Statistics
+*3/2019 - 8/2020* \n
+MSU Alumni Distinguished Scholar \n
+Mentoring through the Graduate Women in Science Mentor Program \n
+Work accepted to Undergraduate Consortium at AAAI 2020
 
 === Haochen Liu, Ph.D. Computer Science
 *1\/2019 - 12\/2019* \n
@@ -83,7 +116,7 @@ Co-authored "Relevance Measurements in Online Signed Social
 Networks" accepted at MLG 2018 \n
 Now Computer Science Ph.D. student at IUPUI
 
-== Yue Lab, The Pennsylvania State University College of Medicine
+= Yue Lab (Not as advisor, but as MS student), The Pennsylvania State University College of Medicine
 
 === Simon Kuang, High School student
 *6\/2014 - 4\/2015* \n
