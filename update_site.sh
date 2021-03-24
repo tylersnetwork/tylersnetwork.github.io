@@ -32,7 +32,7 @@ line=76
 gsed -i "${line}i <p><b><font color=\"red\">[Open positions]</font><br> I am recruiting</b> PhD students to work with me on topics in my general research interests (seen below). Master's and undergraduate students within VU and visiting scholars are also welcome. Please feel free to email me. <br><b>Please see <a href=\"openings.html\">here</a> for position details.</b></p>" index.html
 
 # Adding Twitter link
-line=57
+line=58
 gsed -i "${line}i <a href=\"https://twitter.com/tylersnetwork?ref_src=twsrc%5Etfw\" class=\"twitter-follow-button\" data-show-count=\"true\">Follow @tylersnetwork</a><script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>" index.html
 
 # Deleting ~ files
