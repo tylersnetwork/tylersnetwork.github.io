@@ -1,6 +1,12 @@
 # jemdoc: menu{MENU}{symposiums.html}
 = Tyler Derr - Symposiums
 
+- Wei Jin, *Tyler Derr*, Haochen Liu, Yiqi Wang, Suhang Wang, Zitao Liu,
+and Jiliang Tang. \n
+Self-supervised Learning on Graphs: Deep Insights and New
+Directions. The Workshop on Self-Supervised Learning for the Web @ WWW, Presentation and poster, 2020.\n
+\[[papers/self_supervised_learning_on_graphs.pdf pdf]\]\n
+
 - Tyler Derr. Network Analysis with Negative Links. Michigan AI Symposium - AI For Society, Poster, 2019.
 
 - Tyler Derr. Network Analysis with Negative Links. International Conference on Data Mining (SDM19) Doctoral Forum, SIAM,
