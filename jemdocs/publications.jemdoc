@@ -1,6 +1,13 @@
 # jemdoc: menu{MENU}{publications.html}
 = Tyler Derr - Publications
 
+Yao Ma, Suhang Wang, *Tyler Derr*, Lingfei Wu, and Jiliang Tang. \n
+Graph Adversarial Attack via Rewiring. \n
+In Proceedings of the 27th ACM SIGKDD International Conference on
+Knowledge Discovery & Data Mining (KDD), Singapore (Virtual Conference), August 14-18,
+2021. \n
+Preprint and code coming soon!
+
 Ramit Sawhney, Shivam Agarwal, Arnav Wadhwa, *Tyler Derr*, Rajiv
 Shah. \n
 Stock Selection via Spatiotemporal Hypergraph Attention Network: A
