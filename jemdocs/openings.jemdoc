@@ -19,7 +19,7 @@ via email:
 
 Please...
 - Use a subject line as follows: {$position} Open Position {$YourName}
--- where {$position} should be ``PhD'', ``MS'', ``BS'', or
+-- where {$position} should be ``Postdoc'', ``PhD'', ``MS'', ``BS'', or
 ``Visiting''
 -- e.g., If I were applying for a PhD position I would use the subject
 ``PhD Open Position Tyler Derr''

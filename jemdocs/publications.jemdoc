@@ -6,7 +6,8 @@ Graph Adversarial Attack via Rewiring. \n
 In Proceedings of the 27th ACM SIGKDD International Conference on
 Knowledge Discovery & Data Mining (KDD), Singapore (Virtual Conference), August 14-18,
 2021. \n
-Preprint and code coming soon!
+\[Arxiv version [https://arxiv.org/pdf/1906.03750.pdf pdf]\]
+Code coming soon!
 
 Ramit Sawhney, Shivam Agarwal, Arnav Wadhwa, *Tyler Derr*, Rajiv
 Shah. \n
@@ -14,7 +15,7 @@ Stock Selection via Spatiotemporal Hypergraph Attention Network: A
 Learning to Rank Approach. \n
 In Proceedings of the 35th AAAI Conference on Artificial Intelligence
 (AAAI), Virtual Conference, February 2-9, 2021. \n
-Preprint and code coming soon!
+\[Local copy [papers/aaai21-hypergraph_attention_stock_selection.pdf]\]
 
 Wei Jin, *Tyler Derr*, Yiqi Wang, Yao Ma, Zitao Liu, Jiliang Tang. \n
 Node Similarity Preserving Graph Convolutional Networks. \n
@@ -49,6 +50,7 @@ Knowledge Discovery & Data Mining (KDD), San Diego, USA, August 22-27,
 2020. \n
 \[Tutorial site
 [https://ai.tencent.com/ailab/ml/KDD-Deep-Graph-Learning.html link]\]\[Local copy [papers/kdd2020-gnn_tutorial.pdf pdf] \]
+\[Local copy [papers/kdd20-gnn_tutorial.pdf]\]
 
 Wentao Wang, *Tyler Derr*, Yao Ma, Suhang Wang, Hui Liu, Zitao Liu, and
 Jiliang Tang. \n
@@ -57,7 +59,7 @@ Generation. \n
 In Proceedings of the 18th International Conference on Data Mining
 (ICDM), Sorrento, Italy, November 17-20,
 2020. \n
-Preprint coming soon!
+\[Local copy [papers/icdm20-incomplete_labeled_data_learning.pdf pdf]\]
 
 *Tyler Derr*, Hamid Karimi (co-first authors), Jiangtao Huang, and
 Jiliang Tang. \n

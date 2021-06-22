@@ -29,7 +29,7 @@ gsed -i "${line}i <script type=\"text/javascript\" id=\"clustrmaps\" src=\"//cdn
 
 # Adding the recruiting line
 line=77
-gsed -i "${line}i <p><b><font color=\"red\">[Open positions]</font><br> I am recruiting</b> PhD students to work with me on topics in my general research interests (seen below). Master's and undergraduate students within VU and visiting scholars are also welcome. Please feel free to email me. <br><b>Please see <a href=\"openings.html\">here</a> for position details.</b></p>" index.html
+gsed -i "${line}i <p><b><font color=\"red\">[Open positions]</font><br> I am recruiting</b> a Postdoc to work with me on topics in my general research interests (seen below) with special emphasis on autism research applications. I am also recruiting PhD students to work with me on topics in my general research interests (seen below). Master's and undergraduate students within VU and visiting scholars are also welcome. Please feel free to email me. <br><b>Please see <a href=\"openings.html\">here</a> for position details.</b></p>" index.html
 
 # Adding Twitter link
 line=58
