@@ -1,0 +1,218 @@
+# jemdoc: menu{MENU}{news.html}
+= Tyler Derr - Professional Services
+
+== News Before Joining Vanderbilt University in Fall 2020
+
+- 8/2020: *I joined Vanderbilt University and established the Network
+and Data Science (NDS) Lab*
+ - 7/2020: I *successfully defended my PhD Dissertation*
+ [papers/TylerDerr_PhdDissertation_NetworkAnalysisWithNegativeLinks.pdf ``Network
+ Analysis with Negative Links'']!
+- 7/2020: Invited to serve as a *reviewer* for NeurIPS2020.
+- 6/2020: Preprint [papers/self_supervised_learning_on_graphs.pdf
+``Self-supervised Learning on Graphs: Deep Insights and New
+Directions'']
+- 6/2020: Nominated Graduate Panelist for MSU's Office of
+Undergraduate Research and Creativite Activity's ``Grad Chat'' summer series
+- 6/2020: Awarded free registration and selected as a *volunteer* for ICML2020
+- 6/2020: Invited to serve as *reviewer* for Nature Communications Physics
+- 5/2020: Preprint [papers/manipulating_dialogue_models.pdf ``Chat as Expected: Manipulating Black-box Neural Dialogue Models'']
+- 5/2020: Invited to serve as *PC member* for
+[https://deep-learning-graphs.bitbucket.io/dlg-kdd20/ DLG@KDD2020]
+- 5/2020: Invited to serve as *PC member* for IEEE IRI2020
+- 5/2020: Our tutorial
+[https://ai.tencent.com/ailab/ml/KDD-Deep-Graph-Learning.html ``Graph Neural Networks: Foundations, Models,
+and Applications''] has been accepted at *KDD2020*
+- 5/2020: Preprint [papers/attacking_recsys_copying_crossdomain.pdf
+``Attacking Black-box Recommendations via Copying Cross-domain User Profiles''] 
+- 5/2020: Invited to serve as *PC member* for ICWSM2021
+- 5/2020: Our paper ``Online Academic Course Performance Prediction
+using Relational Graph Convolutional Neural Network'' is accepted at
+*EDM2020* ([https://twitter.com/tylersnetwork/status/1258085718460686339
+Twitter])
+- 4/2020: Our paper ``Towards Improving Sample Representativeness of
+Teachers on Online Social Media: A Case Study on Pinterest'' is
+accepted at *AIED2020*
+([https://twitter.com/hamidkarimi65/status/1253159650150604800
+Twitter])
+- 4/2020: Our WIP paper ``Characterizing Teacher Connections in Online
+Social Media: A Case Study on Pinterest'' is
+accepted at *L@S2020*
+- 4/2020: Invited to serve as *PC member* for [https://dshealthkdd.github.io/dshealth-2020/ DSHealth@KDD2020]
+- 4/2020: Invited to serve as *PC member* for IEEE BigData2020
+- 3/2020: Invited to serve as *reviewer* for IEEE Transactions on Knowledge and Data Engineering (TKDE)
+- 2/2020: Invited to serve as *reviewer* for Data Mining and Knowledge Discovery (DAMI)
+- 2/2020: Our paper
+[https://link.springer.com/article/10.1007%2Fs13278-020-0630-6 ``Link and Interaction Polarity Predictions in
+Signed Networks''] is accepted by Springer's Social Network Analysis
+and Mining (*SNAM*)
+- 2/2020: *Media coverage* in ICER Student Highlights article on my work
+[https://icer.msu.edu/about/announcements/icer-student-highlights-tyler-derr
+``Predicting Friends and Foes Online with Deep Learning Models'']
+- 2/2020: Presented ``Analyzing Negative Relations in Social Media''
+in the Graduate Academic Conference at MSU
+- 1/2020: Our paper [papers/www20-rolebased_signed_embedding.pdf
+``ROSE: Role-based Signed Network Embedding''] is accepted by *The Web
+Conference 2020*
+- 1/2020: *Radio show
+[https://impact89fm.org/87401/podcasts/the-sci-files-01-26-2020-tyler-derr-graphs-and-deep-learning/
+interview with Sci-Files]* about my research
+- 1/2020: Presenting ``Network Analysis with Negative Links'' in the
+MSU CSE Graduate Student Seminar Series
+#- 1/2020: Invited talk "Navigating the Faculty Job Search'' for a MSU Engineering Graduate Lunch and Learn Seminar 
+- 1/2020: Invited to serve as *PC member* for CIKM2020
+~~
+
+~~
+=== 2019
+- 12/2019: Preprint [papers/decision_boundary_dnn.pdf ``Characterizing
+the Decision Boundary of Deep Neural Networks'']
+- 12/2019: Our paper
+[papers/aaai-ai4edu2020-predicting_online_course_performance.pdf ``A
+Deep Model for Predicting Online Course Performance''] is accepted at the
+[http://www.cse.msu.edu/~wangzh65/AI4EDU/index.html AI4EDU@AAAI2020] workshop
+- 12/2019: Invited to serve as *PC member* for WebSci2020
+- 12/2019: Invited to serve as *PC member* for IJCAI2020
+- 12/2019: Awarded *WSDM2020 Student Travel Award* from SIGIR
+- 11/2019: Our paper
+[http://www.cse.msu.edu/~derrtyle/papers/wsdm20-network_analysis_with_negative_links.pdf
+``Network Analysis with Negative Links''] is
+accepted by *WSDM2020 Doctoral Consortium*
+- 11/2019: Invited to serve as PC member for [https://dlg2019.bitbucket.io/aaai20/ DLGMA@AAAI2020]
+- 11/2019: Invited to serve as *session chair* for the ``Network
+Embedding I'' research track at CIKM2019
+- 10/2019: Our paper
+[http://www.cse.msu.edu/~derrtyle/papers/wsdm20-network_analysis_with_negative_links.pdf
+``Epidemic Graph Convolutional Network''] is
+accepted by *WSDM2020* 
+- 10/2019: Awarded the COGS *Professional Development Award* with
+fellowship funding from MSU
+- 10/2019: Awarded the COGS *Conference Award* with fellowship funding from MSU
+- 10/2019: Invited to represent the entire College of Engineering in
+MSU's Teacher-Scholar Award selction committee
+- 10/2019: Invited to serve as *PC member* for [https://nmla-worldcist.github.io/ NMLA@WorldCIST2020]
+- 10/2019: Poster Presenation at the Michigan AI Symposium - ``Network
+Analysis with Negative Links''
+- 9/2019: *Media coverage* in The Register for
+[https://www.theregister.co.uk/2019/09/20/reverse_engineer_an_ai_chatbot/
+``Say What I Want:
+Towards the Dark Side of Neural Dialogue Models'']
+([https://twitter.com/dse_msu/status/1177758019582451712 Twitter])
+- 9/2019: Preprint
+[http://www.cse.msu.edu/~derrtyle/papers/dialogue_model_manipulation.pdf Say What I Want:
+Towards the Dark Side of Neural Dialogue Models]
+([https://twitter.com/dse_msu/status/1177758019582451712 Twitter])
+- 9/2019: Awarded *CIKM2019 Student Travel Award* from SIGIR
+- 8/2019: Our paper [papers/cikm2019-signed_bipartite_networks.pdf
+"Balance in Signed Bipartite Networks"] is accepted
+by *CIKM2019*
+([https://twitter.com/tylersnetwork/status/1173705827456176128 Twitter])
+- 8/2019: Invited to serve as *session chair* for both the ``Network
+Embedding'' and ``Network Algorithms'' research tracks at ASONAM2019
+- 8/2019: Invited to serve as *PC member* for [http://gta3.ccni.hrl.com/ GTA3@BigData2019]
+- 7/2019: Invited to serve as *PC member* for AAAI2020
+- 7/2019: Awarded the MSU Engineering *Graduate Leadership Fellowship*
+- 6/2019: Preprint
+[http://www.cse.msu.edu/~derrtyle/papers/attacking_gcns_via_rewiring.pdf
+Attacking Graph Convolutional Networks via Rewiring]
+- 6/2019: Our paper [papers/asonam19-congressional_vote_prediction.pdf
+"Multi-Factor Congressional Vote Prediction"] is
+accepted by *ASONAM2019*
+- 6/2019: Won a *Best Revewier Award* at *ICWSM2019* ([https://twitter.com/tylersnetwork/status/1138865372604403713 Twitter])
+- 6/2019: Invited to serve as *PC member* for [https://dshealthkdd.github.io/dshealth-2019/ DSHealth@KDD2019]
+- 6/2019: Awarded the MSU Education Opportunity *Fellowship*
+- 5/2019: Started my *internship at [http://www.hrl.com/laboratories/issl HRL
+Laboratories]* working with [http://jiejunxu.github.io/ Dr. Jiejun Xu]
+and Dr. Kang-Yu (Connie) Ni
+- 5/2019: Won *Best Student Poster Award* at *SDM2019* ([https://twitter.com/tylersnetwork/status/1142604766918262784 Twitter])
+- 5/2019: Our paper [papers/ijcai19-adversarial_social_recommendation.pdf "Deep Adversarial Social Recommendation"] is
+accepted by *IJCAI2019* ([https://twitter.com/dse_msu/status/1140094036071440384 Twitter])
+- 5/2019: Invited to serve as *PC member* for ICWSM2020
+- 5/2019: Invited to serve as *PC member* for CIKM2019
+- 5/2019: Invited to serve as *PC member* for ICANN2019
+- 4/2019: *Workshop co-organizer* as Publicity Chair for
+[https://www.cse.msu.edu/~derrtyle/dglma "Deep Graph Learning: Methodologies and Applications" DGLMA'19] @ IEEE BigData 
+- 4/2019: Our workshop is accepted by IEEE BigData 2019
+- 4/2019: Volunteered at [https://sciencefestival.msu.edu/about MSU Science Festival] for K-5 students ([https://twitter.com/tylersnetwork/status/1117162906800414720 Twitter])
+- 3/2019: Awarded *SDM2019 Student Travel Award* with funds from SIAM
+- 3/2019: *SDM2019 Doctoral Forum* accepted ``Network Analysis with
+Negative Links'' 
+#- 3/2019: I was accepted to participate in the *SDM2019 Doctoral
+#Forum* where I will discuss my work in ‘‘Network Analysis with
+#Negative Links’’
+- 3/2019: My advisor [http://www.cse.msu.edu/~tangjili Dr. Jiliang
+Tang] was awarded the *NSF CAREER award
+based on my research* for signed networks
+([https://www.nsf.gov/awardsearch/showAward?AWD_ID=1845081&HistoricalAwards=false
+Details],
+[https://twitter.com/tylersnetwork/status/1109106806939418624 Twitter])
+- 3/2019: Invited to serve as *PC member* for IEEE BigData2019
+- 3/2019: Activity leader for the
+[https://midmichigan.wixsite.com/gwis/girlsmathscienceday Girls Math & Science Day]
+at MSU ([https://twitter.com/tylersnetwork/status/1102329457363292164 Twitter])
+- 2/2019: I joined the
+[https://www.teachersinsocialmedia.com/who-we-are Teachers in Social Media Project] at Michigan
+State University focused on harnessing online social
+media data for educational research
+- 2/2019: Preprint [https://arxiv.org/abs/1902.10307 Deep Adversarial
+Network Alignment]
+- 2/2019: Won *"People's Choice" award* in the Graduate
+Academic Conference *3 Minute Thesis Competition* at MSU
+([https://twitter.com/tylersnetwork/status/1096939352570109952
+Twitter])
+- 1/2019: Introduced artificial intelligence to *K-12* students at
+local elementary\/middle school
+([https://twitter.com/tylersnetwork/status/1094125048812707840 Twitter])
+~~
+
+~~
+=== 2018
+- Fall 2018: Invited to serve as *session chair* for the ICDM2018 PhD Forum.
+- Fall 2018: Awarded *ICDM2018 Student Travel Award*
+- Fall 2018: Invited to serve as *PC member* for ICWSM2019
+- Fall 2018: Invited to serve as *PC member* for IEEE BigData2018
+- Fall 2018: *ICDM2018 PhD Forum* accepted ``Congressional Vote Analysis using
+Signed Networks''
+- Fall 2018: Won *2nd prize* for my presentation at the *Southeast Michigan
+Postdoctoral Symposium* from the University of Michigan Postdoctoral Association
+#- Fall 2018: Abstract accepted for poster and presentation at the Southeast Michigan Postdoctoral Symposium held at University of Michigan
+- Fall 2018: Awarded *CIKM2018 Student Travel Award* from SIGIR
+- Summer 2018: Our paper ``Signed Graph Convolutional Network'' is accepted by
+*ICDM2018* (preprint [papers/icdm18-signed_graph_convolutional.pdf
+here] and code [code/SGCN.zip here])
+- Summer 2018: Our paper ``Signed Network Modeling Based on Structural Balance
+Theory'' is accepted by *CIKM2018* (preprint [papers/cikm18-signed_network_modeling.pdf here])
+- Summer 2018: Our paper [papers/asonam18-opinions_power_opinions.pdf ``Opinions Power Opinions: Joint Link and Interaction
+Polarity Predictions in Signed Networks''] is accepted by *ASONAM2018*
+\n
+with an extended version found [papers/opinions_power_opinions_extended.pdf here]
+- Summer 2018: Our paper [papers/mlg18-signed_relevance_measurements.pdf ``Relevance Measurements in Online Signed Social
+Networks''] is accepted by *MLG2018*
+- Summer 2018: Invited to serve as *session chair* for both the ``Ranking &
+Centrality'' and ``Modeling II'' research tracks at ASONAM2018
+- Summer 2018: Invited as a *reviewer* for ACM Transactions on Knowledge Discovery
+from Data (TKDD)
+- Summer 2018: Awarded MSU CSE Summer *Fellowship* 2018
+#- Fall 2017: Preprint [https://arxiv.org/abs/1710.09485 Signed Network Modeling Based on
+#Structural Balance Theory.]
+~~
+
+~~
+=== 2017 
+- Fall 2017: Preprint [https://arxiv.org/abs/1710.07236v2 Signed Node Relevance Measurements. ]
+- Summer 2017: Our paper [papers/cikm17-weightloss.pdf ``Understanding and Predicting Weight Loss with Mobile Social
+Networking Data''] is accepted by *CIKM2017*
+- Summer 2017: Awarded *KDD2017 Student Travel Award*
+- Summer 2017: Awarded MSU CSE Summer *Fellowship* 2017
+- Spring 2017: Poster Presentation at the 2017 MSU Graduate Research Symposium
+\nTitle: Opinions Power Opinions: Joint Link and Interaction Polarity
+Prediction in Signed Networks
+- Spring 2017: Awarded *SDM2017 Student Travel Award* from SIAM
+- Spring 2017: *SDM2017 Doctoral Forum* accepted ``Opinions Power Opinions: Joint Link and Interaction Polarity Predictions in Signed Networks''
+- Spring 2017: Invited lecture for the Department of Education at MSU
+on ``Signed Network Analysis: Community Detection &
+Link Prediction''
+- Spring 2017: Invited lecture for the CSE881 Data Mining course at
+MSU on ``Similarity Search''
+- Spring 2017: *I joined the Data Science and Engineering (DSE) Lab*
+~~
