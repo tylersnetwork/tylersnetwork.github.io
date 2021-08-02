@@ -1,0 +1,71 @@
+# jemdoc: menu{MENU}{symposiums.html}
+= Tyler Derr - Symposiums
+
+- Yu Wang and *Tyler Derr*. \n
+Tackling Over-squashing in Graph Neural Networks via Higher-orderNeighborhood Disentanglement. International Conference on Data Mining (SDM21) Doctoral Forum, SIAM, Poster, 2021.
+
+- Wei Jin, *Tyler Derr*, Haochen Liu, Yiqi Wang, Suhang Wang, Zitao Liu,
+and Jiliang Tang. \n
+Self-supervised Learning on Graphs: Deep Insights and New
+Directions. The Workshop on Self-Supervised Learning for the Web @ WWW, Presentation and poster, 2020.\n
+\[[papers/self_supervised_learning_on_graphs.pdf pdf]\]\n
+
+- Tyler Derr. Network Analysis with Negative Links. Michigan AI Symposium - AI For Society, Poster, 2019.
+
+- Tyler Derr. Network Analysis with Negative Links. International Conference on Data Mining (SDM19) Doctoral Forum, SIAM,
+Poster, 2019.
+-- *Best Poster Award*
+
+- Aaron Brookhouse\*, Tyler Derr, Hamid Karimi, and Jiliang Tang. Why
+	    Do People Unfollow on Twitter. Mid-Michigan Symposium for
+	    Undergraduate Research (MID-SURE), Poster. 2019
+	    -- *\Undergraduate student mentored
+
+- Tyler Derr, Yao Ma, and Jiliang Tang. Signed Graph Convolutional
+			 Networks. Michigan State University
+			 Engineering Graduate Research Symposium,
+			 Poster, 2019.
+- Tyler Derr, Hamid Karimi, and Jiliang Tang. Multi-Factor
+			 Congressional Vote Prediction. Michigan State
+			 University Graduate Academic Conference -
+			 Three-Minute Thesis Competition,
+			 Presentation, 2019
+			 -- *``People's Choice'' Award*
+
+- Tyler Derr, Hamid Karimi, and Jiliang Tang. Deep Congressional Vote
+		       Prediction. Southeast Michigan Postdoctoral
+		       Symposium, Presentation, 2018.
+		       -- *2nd Prize* Awarded by University of Michigan's Postdoctoral Association
+
+- Tyler Derr and Jiliang Tang. Congressional Vote Analysis using Signed
+Networks. IEEE International Conference on Data Mining (ICDM18) Ph.D. Forum, Presentation, 2018.
+
+
+- Tyler Derr, Chenxing Wang, Suhang Wang, and Jiliang Tang. Node
+Relevance Measurements in Online Signed Social Networks. Michigan State University Engineering Graduate Research
+Symposium, Poster, 2018.
+
+
+- Tyler Derr. Opinions Power Opinions: Joint Link and Interaction
+Polarity Predictions in Signed Networks. International Conference on
+Data Mining (SDM17) Doctoral Forum, SIAM, Poster, 2017.
+
+
+- Tyler Derr, Zhiwei Wang, and Jiliang Tang. Opinions Power Opinions:
+Joint Link and Interaction Polarity Predictions in Signed
+Networks. Michigan State University Engineering Graduate Research
+Symposium, Poster, 2017.
+
+
+- Tyler Derr, Yanli Wang, and Feng Yue. A Supervised Learning Approach
+to the Prediction of Hi-C Data. ENCODE 2015: Research Applications and
+Users Meeting, Poster and presentation, 2015.
+
+- Yanli Wang, Gal Yaroslavsky, Tyler Derr, and Feng Yue. Visualizing
+three-dimensional organization and long-range interactions of the
+mammalian genome with the 3D Genome Browser. ENCODE 2015: Research
+Applications and Users Meeting, Poster, 2015.
+
+- Tyler Derr. Archimedes and His Approximation of
+sqrt(3). MAA-EPaDel Regional Spring Conference, Student Paper
+Session Talk, 2013.

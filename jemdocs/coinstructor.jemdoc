@@ -1,0 +1,23 @@
+# jemdoc: menu{MENU}{co_instructor.html}
+= Tyler Derr - Co-Instructor Experience
+
+== Michigan State University: Co-instructing (with my advisor)
+
+=== CSE 881: Data Mining (Graduate Level)
+*Spring 2019* \n
+*Course Description:* \n
+Techniques and algorithms for knowledge discovery in databases, from
+data preprocessing and transformation to model validation and
+post-processing. Core concepts include association analysis,
+sequential pattern discovery, anomaly detection, predictive modeling,
+and cluster analysis. Application of data mining to various
+application domains. 
+
+=== CSE 482: Big Data Analysis
+*Fall 2018, 2019* \n
+*Course Description:* \n
+Data collection, storage, and preprocessing, and analysis
+techniques. Programming for large-scale data analysis. Case studies
+and applications.
+
+
