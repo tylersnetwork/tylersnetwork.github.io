@@ -1,11 +1,24 @@
 # jemdoc: menu{MENU}{publications.html}
 = Tyler Derr - Publications
 
+Yu Wang and *Tyler Derr*. \n
+Tree Decomposed Graph Neural Network. \n
+In Proceedings of the 30th ACM International Conference on Information and Knowledge Management (CIKM), Virtual Conference, November 1-5, 2021. \n
+
+*Tyler Derr*, Hamid Karimi, Xiaorui Liu, Jiejun Xu, and Jiliang Tang. \n
+Deep Adversarial Network Alignment.\n
+In Proceedings of the 30th ACM International Conference on Information and Knowledge Management (CIKM), Virtual Conference, November 1-5, 2021. \n
+\[[papers/deep_adversarial_network_alignment.pdf pdf] \]\n
+
+Wei Jin, Xiaorui Liu, Yao Ma, *Tyler Derr*, Charu Aggarwal and Jiliang Tang. \n
+Graph Feature Gating Network. \n
+In Proceedings of the 30th ACM International Conference on Information and Knowledge Management (CIKM), Virtual Conference, November 1-5, 2021. \n
+
 Aaron Brookhouse, *Tyler Derr* (co-first author), Hamid Karimi (co-first author), H. Russell Bernard, and Jiliang Tang. \n
 Road to the White House: Analyzing the Relations Between Mainstream and Social Media During the U.S. Presidential Primaries. \n
 In Proceedings of the 32nd ACM Conference on Hypertext and Social Media, Virtual Conference, August 30 - September 2, 2021. \n
 \[Arxiv version [https://arxiv.org/pdf/2009.09307.pdf pdf]\] \n
-Code and dataset coming soon!
+#Code and dataset coming soon!
 
 Yao Ma, Suhang Wang, *Tyler Derr*, Lingfei Wu, and Jiliang Tang. \n
 Graph Adversarial Attack via Rewiring. \n
@@ -13,7 +26,7 @@ In Proceedings of the 27th ACM SIGKDD International Conference on
 Knowledge Discovery & Data Mining (KDD), Singapore (Virtual Conference), August 14-18,
 2021. \n
 \[Arxiv version [https://arxiv.org/pdf/1906.03750.pdf pdf]\]
-Code coming soon!
+#Code coming soon!
 
 Ramit Sawhney, Shivam Agarwal, Arnav Wadhwa, *Tyler Derr*, Rajiv
 Shah. \n
@@ -230,9 +243,9 @@ Hamid Karimi, *Tyler Derr*, Jiliang Tang. \n
 Explaining the Behavior of Deep Neural Networks Through the Lens of
 Decision Boundary. \n
 
-Yao Ma, Suhang Wang, *Tyler Derr*, Lingfei Wu, and Jiliang Tang. \n
-Attacking Graph Convolutional Networks via Rewiring.\n
-\[[papers/attacking_gcns_via_rewiring.pdf pdf]\]\n
+#Yao Ma, Suhang Wang, *Tyler Derr*, Lingfei Wu, and Jiliang Tang. \n
+#Attacking Graph Convolutional Networks via Rewiring.\n
+#\[[papers/attacking_gcns_via_rewiring.pdf pdf]\]\n
 
 Haochen Liu, Zhiwei Wang, *Tyler Derr*, Zitao Liu, and Jiliang Tang. \n
 Chat as Expected: Manipulating Black-box Neural Dialogue Models. \n
@@ -244,10 +257,6 @@ Perspectives \n
 
 Jiangtao Huang, *Tyler Derr*, Hamid Karimi, and Jiliang Tang. \n
 A Survey of Computational Methods in Massive Open Online Courses. \n
-
-*Tyler Derr*, Hamid Karimi, Xiaorui Liu, Jiejun Xu, and Jiliang Tang. \n
-Deep Adversarial Network Alignment.\n
-\[[papers/deep_adversarial_network_alignment.pdf pdf] \]\n
 
 #Wenqi Fan, Yao Ma, *Tyler Derr*, Jianping Wang, Yulong Gu, Shuaiqiang
 #Wang, Dawei Yin, Jiliang Tang, and Qing Li. \n
