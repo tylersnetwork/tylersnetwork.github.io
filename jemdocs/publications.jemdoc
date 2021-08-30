@@ -4,6 +4,7 @@
 Yu Wang and *Tyler Derr*. \n
 Tree Decomposed Graph Neural Network. \n
 In Proceedings of the 30th ACM International Conference on Information and Knowledge Management (CIKM), Virtual Conference, November 1-5, 2021. \n
+\[[papers/cikm21-tree_decomposed_gnn.pdf pdf] \]\n
 
 *Tyler Derr*, Hamid Karimi, Xiaorui Liu, Jiejun Xu, and Jiliang Tang. \n
 Deep Adversarial Network Alignment.\n
@@ -24,7 +25,7 @@ In Proceedings of the 32nd ACM Conference on Hypertext and Social Media, Virtual
 Xuejiao Tang, Wenbin Zhang, Yi Yu, Kea Turner, *Tyler Derr*, Mengyu Wang, Eirini Ntoutsi. Interpretable Visual Understanding with Cognitive Attention Network. \n
 In Proceedings of the 30th International Conference on Artificial Neural Networks (ICANN), Virtual Conference, September 14-17, 2021. \n
 \[Arxiv version [https://arxiv.org/pdf/2108.02924.pdf pdf]\]
-\[Local [icann21-visual_understanding_cognitive_attention_ntework.pdf pdf]\]
+\[Local [papers/icann21-visual_understanding_cognitive_attention_ntework.pdf pdf]\]
 \[Code [https://github.com/tanjatang/CAN repo]\]
 
 
