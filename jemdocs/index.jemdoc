@@ -82,9 +82,12 @@ mining, machine learning, network measures and models, data science for social g
 
 == News (See past news before joining VU [news.html here])
 ~~
-=== 2021 
+=== 2021
+- 9/2021: Preprint of our survey [papers/ssl_for_gnns.pdf ``Graph Neural Networks: Self-supervised Learning'']
+- 9/2021: Invited to be a judge for VandyHacks 2021 (VU's premier student hackathon)
+- 9/2021: Invited to serve as *PC member* for The Web Conference 2022
 - 8/2021: Invited to serve as *Social Media and Publicity Chair of KDD2022*
-- 8/2021: Invited to serve as *PC member* for [https://gta3.hrl.com/ GTA3@BigData2021] and WSDM2021
+- 8/2021: Invited to serve as *PC member* for [https://gta3.hrl.com/ GTA3@BigData2021] and WSDM2022
 - 8/2021: My PhD student [https://yuwvandy.github.io/ Yu Wang]'s first paper since joining NDS [papers/cikm21-tree_decomposed_gnn.pdf `Tree Decomposed Graph Neural Network'] is accepted at *CIKM2021*
 - 8/2021: Our paper [https://arxiv.org/pdf/2105.04493.pdf `Graph Feature Gating Networks'] is accepted at *CIKM2021*
 - 8/2021: Our paper [https://arxiv.org/pdf/1902.10307.pdf `Deep Adversarial Network Alignment'] is accepted at *CIKM2021*
