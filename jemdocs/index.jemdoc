@@ -49,7 +49,7 @@ and was a member of the Data Science and Engineering (DSE) Lab and Teachers in S
 (2015) in Computer Science at The Pennsylvania State University and
 dual BS (2013) in Computer Science and Mathematical Sciences at The
 Pennsylvania State University. He was the recipient of the Best Reviewer Award at
-ICWSM2019&2021, the Best Student Poster Award at SDM2019, the "People's
+ICWSM 2019 & 2021, the Best Student Poster Award at SDM 2019, the "People's
 Choice" Award for the 3 Minute Thesis Competition at MSU, and the Fall 2020 Teaching Innovation Award from the School of Engineering at Vanderbilt. Tyler also actively serves as
 a reviewer\/program committee member for journals/conferences in his
 research domain.\n
@@ -83,7 +83,8 @@ mining, machine learning, network measures and models, data science for social g
 == News (See past news before joining VU [news.html here])
 ~~
 === 2021
-- 9/2021: Preprint of our survey [papers/ssl_for_gnns.pdf ``Graph Neural Networks: Self-supervised Learning'']
+- 10/2021: Prepring [https://arxiv.org/pdf/2110.12035.pdf ``Distance-wise Prototypical Graph Neural Network for Imbalanced Node Classification'']
+- 9/2021: Preprint of our review on [papers/ssl_for_gnns.pdf ``Graph Neural Networks: Self-supervised Learning'']
 - 9/2021: Invited to be a judge for VandyHacks 2021 (VU's premier student hackathon)
 - 9/2021: Invited to serve as *PC member* for The Web Conference 2022
 - 8/2021: Invited to serve as *Social Media and Publicity Chair of KDD2022*

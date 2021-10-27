@@ -1,6 +1,11 @@
 # jemdoc: menu{MENU}{publications.html}
 = Tyler Derr - Publications
 
+Yu Wang, Wei Jin, and *Tyler Derr*. \n
+Graph Neural Networks: Self-supervised Learning. \n
+In Graph Neural Networks: Foundations, Frontiers, and Applications, Lingfei Wu, Peng Cui, Jian Pei, and Liang Zhao (Eds.). Springer. Chapter 18. \n
+\[[papers/ssl_for_gnns.pdf pdf]\]\n
+
 Yu Wang and *Tyler Derr*. \n
 Tree Decomposed Graph Neural Network. \n
 In Proceedings of the 30th ACM International Conference on Information and Knowledge Management (CIKM), Virtual Conference, November 1-5, 2021. \n
@@ -238,9 +243,9 @@ Information and Knowledge Management (CIKM)/,
 
 = Preprints and Submissions
 
-Yu Wang, Wei Jin, and *Tyler Derr*. \n
-Graph Neural Networks: Self-supervised Learning. \n
-\[[papers/ssl_for_gnns.pdf pdf]\]\n
+Yu Wang, Charu Aggarwal, and *Tyler Derr*. \n
+Distance-wise Prototypical Graph Neural Network for Imbalanced Node Classification. \n
+\[[https://yuwvandy.github.io/paper/dpgnn.pdf pdf]\] \n
 
 Wei Jin, *Tyler Derr*, Haochen Liu, Yiqi Wang, Suhang Wang, Zitao Liu,
 and Jiliang Tang. \n
