@@ -23,7 +23,7 @@ gsed -i "${line}i <script type=\"text/javascript\" id=\"clustrmaps\" src=\"//cdn
 
 # Adding the office and Google Map link
 line=45
-gsed -i "${line}i Office: A4030 <a href=\"https://www.google.com/maps/place/Sony+Building/@36.1407466,-86.7962808,17z/data=!4m5!3m4!1s0x886467f2f83fb7ad:0x776e8cbe25bfd330!8m2!3d36.1406532!4d-86.7956447\">Sony Building</a><br />" index.html
+gsed -i "${line}i Office: 4030 <a href=\"https://www.google.com/maps/place/Sony+Building/@36.1407466,-86.7962808,17z/data=!4m5!3m4!1s0x886467f2f83fb7ad:0x776e8cbe25bfd330!8m2!3d36.1406532!4d-86.7956447\">Sony Building</a><br />" index.html
 
 # Adding the recruiting line
 line=69
