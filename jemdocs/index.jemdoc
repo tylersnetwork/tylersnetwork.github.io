@@ -78,17 +78,22 @@ mining, machine learning, network measures and models, data science for social g
 #- Data Science for Social Good
 #-- Domains such as Education, Health Informatics, and Political Science
 
+== Call for Papers
+- [https://mlog-workshop.github.io/ Machine Learning on Graphs (MLoG) Workshop] at WSDM'22
+-- Submission Deadline: December 18th, 2021
 
 == News (See past news before joining VU [news.html here])
 ~~
-=== 2021 
+=== 2021
+- 11/2021: Invited to serve as *SPC member* for *KDD2022*
 - 11/2021: Our workshop [https://mlog-workshop.github.io/ ``Machine Learning on Graphs (MLoG)''] is accepted at *WSDM2022*
 - 10/2021: Prepring [https://arxiv.org/pdf/2110.12035.pdf ``Distance-wise Prototypical Graph Neural Network for Imbalanced Node Classification'']
 - 9/2021: Preprint of our review on [papers/ssl_for_gnns.pdf ``Graph Neural Networks: Self-supervised Learning'']
 - 9/2021: Invited to be a judge for VandyHacks 2021 (VU's premier student hackathon)
 - 9/2021: Invited to serve as *PC member* for The Web Conference 2022
 - 8/2021: Invited to serve as *Social Media and Publicity Chair of KDD2022*
-- 8/2021: Invited to serve as *PC member* for [https://gta3.hrl.com/ GTA3@BigData2021] and WSDM2022
+- 8/2021: Invited to serve as *PC member* for [https://gta3.hrl.com/ GTA3@BigData2021]
+- 8/2021: Invited to serve as *SPC member* for WSDM2022
 - 8/2021: My PhD student [https://yuwvandy.github.io/ Yu Wang]'s first paper since joining NDS [papers/cikm21-tree_decomposed_gnn.pdf `Tree Decomposed Graph Neural Network'] is accepted at *CIKM2021*
 - 8/2021: Our paper [https://arxiv.org/pdf/2105.04493.pdf `Graph Feature Gating Networks'] is accepted at *CIKM2021*
 - 8/2021: Our paper [https://arxiv.org/pdf/1902.10307.pdf `Deep Adversarial Network Alignment'] is accepted at *CIKM2021*
@@ -98,7 +103,7 @@ mining, machine learning, network measures and models, data science for social g
 - 6/2021: Invited to serve as *PC member* for ICLR2021
 - 5/2021: Out paper [https://arxiv.org/pdf/1906.03750.pdf ``Graph Adversarial Attack via Rewiring'']  is accepted at *KDD2021*
 - 5/2021: Invited to serve as *PC member* for IEEE BigData2021 and CIKM2021
-- 4/2021: Invited to serve as *PC member* for IEEE EMNLP2021, IRI2021, and NeurIPS2021
+- 4/2021: Invited to serve as *PC member* for EMNLP2021, IRI2021, and NeurIPS2021
 - 4/2021: Awarded *SIAM Early Career Travel Award* for SDM2021 supported by NSF
 - 4/2021: Our paper [papers/self_supervised_learning_on_graphs.pdf
 ``Self-supervised Learning on Graphs: Deep Insights and New
