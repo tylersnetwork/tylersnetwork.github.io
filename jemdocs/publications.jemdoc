@@ -243,9 +243,13 @@ Information and Knowledge Management (CIKM)/,
 
 = Preprints and Submissions
 
+Yu Wang, Yuying Zhao, Neil Shah, and *Tyler Derr*. \n
+Imbalaned Graph Classification via Graph-of-Graph Neural Networks. \\
+\[[https://arxiv.org/pdf/2112.00238.pdf pdf]\] \[[https://github.com/YuWVandy/G2GNN code]\] \n
+
 Yu Wang, Charu Aggarwal, and *Tyler Derr*. \n
 Distance-wise Prototypical Graph Neural Network for Imbalanced Node Classification. \n
-\[[https://yuwvandy.github.io/paper/dpgnn.pdf pdf]\] \n
+\[[https://yuwvandy.github.io/paper/dpgnn.pdf pdf]\] \[[https://github.com/YuWVandy/DPGNN code]\] \n
 
 Wei Jin, *Tyler Derr*, Haochen Liu, Yiqi Wang, Suhang Wang, Zitao Liu,
 and Jiliang Tang. \n

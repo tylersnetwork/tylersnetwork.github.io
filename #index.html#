@@ -79,20 +79,9 @@ mining, machine learning, network measures and models, data science for social g
 </p>
 <h2>Call for Papers</h2>
 <ul>
-<li><p><a href="https://mlog-workshop.github.io/">Machine Learning on Graphs (MLoG) Workshop</a> at WSDM&rsquo;22 (Lead workshop organizer)</p>
+<li><p><a href="https://mlog-workshop.github.io/">Machine Learning on Graphs (MLoG) Workshop</a> at WSDM&rsquo;22</p>
 <ul>
-<li><p>Submission Deadline: December 18th, 2021 (Extended to January 8th, 2022)</p>
-</li>
-</ul>
-
-</li>
-</ul>
-<ul>
-<li><p><a href="https://www.frontiersin.org/research-topics/30288/machine-learning-on-complex-graphs">Machine Learning on Complex Graphs</a> - Research Topic in Frontiers - (Topic Editor)</p>
-<ul>
-<li><p>Abstract Submission Deadline: February 6th, 2022</p>
-</li>
-<li><p>Paper Submission Deadline: April 7th, 2022</p>
+<li><p>Submission Deadline: December 18th, 2021</p>
 </li>
 </ul>
 
@@ -103,17 +92,11 @@ mining, machine learning, network measures and models, data science for social g
 <div class="blockcontent">
 <h3>2021</h3>
 <ul>
-<li><p>12/2021: Topic Editor of <a href="https://www.frontiersin.org/research-topics/30288/machine-learning-on-complex-graphs">Machine Learning on Complex Graph</a> Research Topic in Frontiers </p>
-</li>
-<li><p>12/2021: Preprint <a href="https://arxiv.org/pdf/2112.00238.pdf">&lsquo;&lsquo;Imbalanced Graph Classification via Graph-of-Graph Neural Networks&rsquo;&rsquo;</a></p>
-</li>
-<li><p>12/2021: Introduced CS and AI topics to students at <a href="http://www.tisweb.net/">Tohoku International School</a> through <a href="https://www.skypeascientist.com/">Skype a Scientist</a></p>
-</li>
 <li><p>11/2021: Invited to serve as <b>SPC member</b> for KDD2022</p>
 </li>
 <li><p>11/2021: Our workshop <a href="https://mlog-workshop.github.io/">&lsquo;&lsquo;Machine Learning on Graphs (MLoG)&rsquo;&rsquo;</a> is accepted at <b>WSDM2022</b></p>
 </li>
-<li><p>10/2021: Preprint <a href="https://arxiv.org/pdf/2110.12035.pdf">&lsquo;&lsquo;Distance-wise Prototypical Graph Neural Network for Imbalanced Node Classification&rsquo;&rsquo;</a></p>
+<li><p>10/2021: Prepring <a href="https://arxiv.org/pdf/2110.12035.pdf">&lsquo;&lsquo;Distance-wise Prototypical Graph Neural Network for Imbalanced Node Classification&rsquo;&rsquo;</a></p>
 </li>
 <li><p>9/2021: Preprint of our review on <a href="papers/ssl_for_gnns.pdf">&lsquo;&lsquo;Graph Neural Networks: Self-supervised Learning&rsquo;&rsquo;</a></p>
 </li>
@@ -178,8 +161,9 @@ Attention Network: A Learning to Rank Approach&rsquo;&rsquo; is accepted at
 </li>
 <li><p>11/2020: Invited to serve as <b>PC member</b> for KDD2021</p>
 </li>
-<li><p>11/2020: Introduced CS and AI topics to students at <a href="https://www.ardsleyschools.org/hs">Ardsley High
-School</a> through <a href="https://www.skypeascientist.com/">Skype a Scientist</a></p>
+<li><p>11/2020: Gave a talk through <a href="https://www.skypeascientist.com/">Skype
+a Scientist</a> in <a href="https://www.ardsleyschools.org/hs">Ardsley High
+School</a>'s Science Research class</p>
 </li>
 <li><p>11/2020: Panelist on the <a href="https://phd-recruiting.etosch.w3.uvm.edu/">&lsquo;&lsquo;Graduate School is not a Job&rsquo;&rsquo;</a> graduate recruitment event</p>
 </li>
@@ -239,7 +223,7 @@ and Data Science (NDS) Lab</b></p>
 </div></div>
 <div id="footer">
 <div id="footer-text">
-Page generated 2021-12-19 16:15:04 CST, by <a href="http://jemdoc.jaboc.net/">jemdoc</a>.
+Page generated 2021-11-25 00:00:44 CST, by <a href="http://jemdoc.jaboc.net/">jemdoc</a>.
 </div>
 </div>
 </td>

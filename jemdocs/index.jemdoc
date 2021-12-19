@@ -79,15 +79,22 @@ mining, machine learning, network measures and models, data science for social g
 #-- Domains such as Education, Health Informatics, and Political Science
 
 == Call for Papers
-- [https://mlog-workshop.github.io/ Machine Learning on Graphs (MLoG) Workshop] at WSDM'22
--- Submission Deadline: December 18th, 2021
+- [https://mlog-workshop.github.io/ Machine Learning on Graphs (MLoG) Workshop] at WSDM'22 (Lead workshop organizer)
+-- Submission Deadline: December 18th, 2021 (Extended to January 8th, 2022)
+
+- [https://www.frontiersin.org/research-topics/30288/machine-learning-on-complex-graphs Machine Learning on Complex Graphs] - Research Topic in Frontiers - (Topic Editor)
+-- Abstract Submission Deadline: February 6th, 2022
+-- Paper Submission Deadline: April 7th, 2022
 
 == News (See past news before joining VU [news.html here])
 ~~
 === 2021
+- 12/2021: Topic Editor of [https://www.frontiersin.org/research-topics/30288/machine-learning-on-complex-graphs Machine Learning on Complex Graph] Research Topic in Frontiers 
+- 12/2021: Preprint [https://arxiv.org/pdf/2112.00238.pdf ``Imbalanced Graph Classification via Graph-of-Graph Neural Networks'']
+- 12/2021: Introduced CS and AI topics to students at [http://www.tisweb.net/ Tohoku International School] through [https://www.skypeascientist.com/ Skype a Scientist]
 - 11/2021: Invited to serve as *SPC member* for KDD2022
 - 11/2021: Our workshop [https://mlog-workshop.github.io/ ``Machine Learning on Graphs (MLoG)''] is accepted at *WSDM2022*
-- 10/2021: Prepring [https://arxiv.org/pdf/2110.12035.pdf ``Distance-wise Prototypical Graph Neural Network for Imbalanced Node Classification'']
+- 10/2021: Preprint [https://arxiv.org/pdf/2110.12035.pdf ``Distance-wise Prototypical Graph Neural Network for Imbalanced Node Classification'']
 - 9/2021: Preprint of our review on [papers/ssl_for_gnns.pdf ``Graph Neural Networks: Self-supervised Learning'']
 - 9/2021: Invited to be a judge for VandyHacks 2021 (VU's premier student hackathon)
 - 9/2021: Invited to serve as *PC member* for The Web Conference 2022
@@ -123,9 +130,8 @@ Attention Network: A Learning to Rank Approach'' is accepted at
 *AAAI2021*
 - 12/2020: Invited to serve as *PC member* for ACL2021
 - 11/2020: Invited to serve as *PC member* for KDD2021
-- 11/2020: Gave a talk through [https://www.skypeascientist.com/ Skype
-a Scientist] in [https://www.ardsleyschools.org/hs Ardsley High
-School]'s Science Research class
+- 11/2020: Introduced CS and AI topics to students at [https://www.ardsleyschools.org/hs Ardsley High
+School] through [https://www.skypeascientist.com/ Skype a Scientist]
 - 11/2020: Panelist on the [https://phd-recruiting.etosch.w3.uvm.edu/
 ``Graduate School is not a Job'' ] graduate recruitment event
 - 10/2020: Our paper ``Node Similarity Preserving Graph Convolutional
