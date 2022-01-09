@@ -37,8 +37,8 @@ Mail: 400 24th Ave S Rm 254, Nashville, TN 37212
 
 \n
 == Short Bio
-Tyler Derr is an assistant professor in computer science at
-Vanderbilt University since Fall 2020. His research lies in social computing, data
+Tyler Derr is an Assistant Professor in the Department of Computer Science, Teaching and Affiliate Faculty in the Data Science Institute, and Faculty Fellow in the Frist Center for Autism and Innovation at
+Vanderbilt University. He directs the [http://my.vanderbilt.edu/nds Network and Data Science (NDS) lab], which focuses on social computing, data
 mining, and machine learning, especially in social network analysis,
 deep learning on graphs, and data science for social good with
 applications in education, health, political science, and autism research. He received his
@@ -88,8 +88,12 @@ mining, machine learning, network measures and models, data science for social g
 
 == News (See past news before joining VU [news.html here])
 ~~
+=== 2022
+- 1/2022: Our book chapter [https://link.springer.com/chapter/10.1007/978-981-16-6054-2_18 ``Graph Neural Networks: Self-supervised Learning''] is published in the new edited Springer book ``Graph Neural Networks: Foundations, Frontiers, and Applications''!
+- 1/2022: Invited to serve as *SPC member* for ICWSM2022
+- 2022: Invited to serve as a grant proposal panelist for *NSF* during 2022
 === 2021
-- 12/2021: Topic Editor of [https://www.frontiersin.org/research-topics/30288/machine-learning-on-complex-graphs Machine Learning on Complex Graph] Research Topic in Frontiers 
+- 12/2021: *Topic Editor* of [https://www.frontiersin.org/research-topics/30288/machine-learning-on-complex-graphs Machine Learning on Complex Graph] - Frontiers in Big Data 
 - 12/2021: Preprint [https://arxiv.org/pdf/2112.00238.pdf ``Imbalanced Graph Classification via Graph-of-Graph Neural Networks'']
 - 12/2021: Introduced CS and AI topics to students at [http://www.tisweb.net/ Tohoku International School] through [https://www.skypeascientist.com/ Skype a Scientist]
 - 11/2021: Invited to serve as *SPC member* for KDD2022
