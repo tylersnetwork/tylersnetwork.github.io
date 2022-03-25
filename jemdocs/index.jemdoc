@@ -79,16 +79,19 @@ mining, machine learning, network measures and models, data science for social g
 #-- Domains such as Education, Health Informatics, and Political Science
 
 == Call for Papers
-- [https://mlog-workshop.github.io/ Machine Learning on Graphs (MLoG) Workshop] at WSDM'22 (Lead workshop organizer)
--- Submission Deadline: December 18th, 2021 (Extended to January 8th, 2022)
+#- [https://mlog-workshop.github.io/ Machine Learning on Graphs (MLoG) Workshop] at WSDM'22 (Lead workshop organizer)
+#-- Submission Deadline: December 18th, 2021 (Extended to January 8th, 2022)
 
 - [https://www.frontiersin.org/research-topics/30288/machine-learning-on-complex-graphs Machine Learning on Complex Graphs] - Frontiers in Big Data (Topic Editor)
--- Abstract Submission Deadline: February 6th, 2022
--- Paper Submission Deadline: April 7th, 2022
+-- Abstract Submission Deadline: April 6th, 2022
+-- Paper Submission Deadline: June 7th, 2022
 
 == News (See past news before joining VU [news.html here])
 ~~
 === 2022
+- 3/2022: Awarded *Outstanding PC Member Award* at *WSDM2022*
+- 2/2022: Accepted to attend the ASEE DELTA Junior Faculty Institute
+- 2/2022: Invited to serve as *PC member* for WebSci2022 and Graph Learning Workshop@WebConf2022
 - 1/2022: Our book chapter [https://link.springer.com/chapter/10.1007/978-981-16-6054-2_18 ``Graph Neural Networks: Self-supervised Learning''] is published in the new edited Springer book ``Graph Neural Networks: Foundations, Frontiers, and Applications''!
 - 1/2022: Invited to serve as *SPC member* for ICWSM2022
 - 2022: Invited to serve as a grant proposal panelist for *NSF* during 2022
