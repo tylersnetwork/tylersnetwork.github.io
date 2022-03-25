@@ -244,8 +244,11 @@ Information and Knowledge Management (CIKM)/,
 
 = Preprints and Submissions
 
+Benedek Rozemberczki, Charles Tapley Hoyt, Anna Gogleva, Piotr Grabowski, Klas Karis, Andrej Lamov, Andriy Nikolov, Sebastian Nilsson, Michael Ughetto, Yu Wang, Tyler Derr, Benjamin M Gyori. \n
+ChemicalX: A Deep Learning Library for Drug Pair Scoring. \n
+
 Yu Wang, Yuying Zhao, Neil Shah, and *Tyler Derr*. \n
-Imbalaned Graph Classification via Graph-of-Graph Neural Networks. \\
+Imbalaned Graph Classification via Graph-of-Graph Neural Networks. \n
 \[[https://arxiv.org/pdf/2112.00238.pdf pdf]\] \[[https://github.com/YuWVandy/G2GNN code]\] \n
 
 Yu Wang, Charu Aggarwal, and *Tyler Derr*. \n
