@@ -83,13 +83,19 @@ mining, machine learning, network measures and models, data science for social g
 #-- Submission Deadline: December 18th, 2021 (Extended to January 8th, 2022)
 
 - [https://www.frontiersin.org/research-topics/30288/machine-learning-on-complex-graphs Machine Learning on Complex Graphs] - Frontiers in Big Data (Topic Editor)
--- Abstract Submission Deadline: April 6th, 2022
 -- Paper Submission Deadline: June 7th, 2022
+-- Welcomed topics include: graph kernels/summarization/coarsening/alignment/etc, graph neural networks, network embedding, related applications, etc
+-- We especially invite submissions with emphasis on complex graphs such as dynamic/hyper/heterogeneous/knowledge graphs
+
+- The 2nd International Workshop on Machine Learning on Graphs (MLoG) to be held at ICDM'22 (Workshop Co-Chair)
+-- Workshop paper submission deadline (according to ICDM'22): September 2nd, 2022
+--  **Details coming soon!** 
 
 == News (See past news before joining VU [news.html here])
 ~~
 === 2022
-- 3/2022: Awarded *Outstanding PC Member Award* at *WSDM2022*
+- 3/2022: Awarded *Outstanding PC Member Award* at *WSDM2022* (with credit going to NDS subreviewers [https://yuwvandy.github.io/ Yu Wang], [https://yuyingzhao.github.io/ Yuying Zhao], [https://yunchaoliu.github.io/ Yunchao Liu], [https://lizhaoqing.github.io/ Zhaoqing Li])
+- 3/2022: Congratulations to NDS affiliate  [https://yunchaoliu.github.io/ Yunchao Liu] for being awarded the Nvidia Academic Hardware Grant for his project on ``Interpretable 3D Graph Neural Networks for Drug Discovery''
 - 2/2022: Preprint [https://arxiv.org/abs/2202.05240 ``ChemicalX: A Deep Learning Library for Drug Pair Scoring'']
 - 2/2022: Accepted to attend the ASEE DELTA Junior Faculty Institute
 - 2/2022: Invited to serve as *PC member* for WebSci2022 and Graph Learning Workshop@WebConf2022
