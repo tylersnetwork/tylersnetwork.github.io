@@ -94,9 +94,13 @@ mining, machine learning, network measures and models, data science for social g
 == News (See past news before joining VU [news.html here])
 ~~
 === 2022
+- 5/2022: Our paper ``Fair View Graph Neural Network for Fair Node Representation Learning'' is accepted at KDD2022
+- 5/2022: Our paper ``On Structural Explanation of Bias in Graph Neural Networks'' is accepted at KDD2022
+- 5/2022: Our paper ``ChemicalX: A Deep Learning Library for Drug Pair Scoring'' is accepted at KDD2022 and corresponding open-source library is available [https://github.com/astrazeneca/chemicalx here]
+- 5/2022: Congratulations to my student [https://yuwvandy.github.io/ Yu Wang] for being awarded Vanderbilt's C. F. Chen Best Paper Award in Computer Science for his paper [papers/cikm21-tree_decomposed_gnn.pdf `Tree Decomposed Graph Neural Network']!
 - 4/2022: Our workshop ``Machine Learning on Graphs (MLoG)'' is accepted at ICDM2022
-- 3/2022: Awarded *Outstanding PC Member Award* at *WSDM2022* (with credit going to NDS subreviewers [https://yuwvandy.github.io/ Yu Wang], [https://yuyingzhao.github.io/ Yuying Zhao], [https://yunchaoliu.github.io/ Yunchao Liu], [https://lizhaoqing.github.io/ Zhaoqing Li])
-- 3/2022: Congratulations to NDS member [https://yunchaoliu.github.io/ Yunchao Liu] for being awarded the Nvidia Academic Hardware Grant for his project on ``Interpretable 3D Graph Neural Networks for Drug Discovery''
+- 3/2022: Awarded *Outstanding PC Member Award* at *WSDM2022* (with credit going to NDS subreviewers [https://yuwvandy.github.io/ Yu Wang], [https://yuyingzhao.github.io/ Yuying Zhao], [https://yunchaoliu.github.io/ Yunchao (Lance) Liu], [https://lizhaoqing.github.io/ Zhaoqing Li])
+- 3/2022: Congratulations to my student [https://yunchaoliu.github.io/ Yunchao (Lance) Liu] for being awarded the Nvidia Academic Hardware Grant for his project on ``Interpretable 3D Graph Neural Networks for Drug Discovery!''
 - 2/2022: Preprint [https://arxiv.org/abs/2202.05240 ``ChemicalX: A Deep Learning Library for Drug Pair Scoring'']
 - 2/2022: Accepted to attend the ASEE DELTA Junior Faculty Institute
 - 2/2022: Invited to serve as *PC member* for WebSci2022 and Graph Learning Workshop@WebConf2022
