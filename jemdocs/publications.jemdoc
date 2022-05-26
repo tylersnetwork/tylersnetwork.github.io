@@ -28,43 +28,35 @@ In Graph Neural Networks: Foundations, Frontiers, and Applications, Lingfei Wu, 
 Yu Wang and *Tyler Derr*. \n
 In Proceedings of the 30th ACM International Conference on Information and Knowledge Management (CIKM), Virtual Conference, November 1-5, 2021. \n
 \[Code [https://github.com/YuWVandy/TDGNN repo]\]
-
 . [[papers/deep_adversarial_network_alignment.pdf Deep Adversarial Network Alignment.]\n
 *Tyler Derr*, Hamid Karimi, Xiaorui Liu, Jiejun Xu, and Jiliang Tang. \n
 In Proceedings of the 30th ACM International Conference on Information and Knowledge Management (CIKM), Virtual Conference, November 1-5, 2021. \n
-
 . [https://arxiv.org/pdf/2105.04493.pdf Graph Feature Gating Network.] \n
 Wei Jin, Xiaorui Liu, Yao Ma, *Tyler Derr*, Charu Aggarwal and Jiliang Tang. \n
 In Proceedings of the 30th ACM International Conference on Information and Knowledge Management (CIKM), Virtual Conference, November 1-5, 2021. \n
-
 . [https://arxiv.org/pdf/2105.04493.pdf Road to the White House: Analyzing the Relations Between Mainstream and Social Media During the U.S. Presidential Primaries.] \n
 Aaron Brookhouse, *Tyler Derr* (co-first author), Hamid Karimi (co-first author), H. Russell Bernard, and Jiliang Tang. \n
 In Proceedings of the 32nd ACM Conference on Hypertext and Social Media, Virtual Conference, August 30 - September 2, 2021. \n
-
 . [papers/icann21-visual_understanding_cognitive_attention_ntework.pdf Interpretable Visual Understanding with Cognitive Attention Network.] \n
 Xuejiao Tang, Wenbin Zhang, Yi Yu, Kea Turner, *Tyler Derr*, Mengyu Wang, Eirini Ntoutsi. \n
 In Proceedings of the 30th International Conference on Artificial Neural Networks (ICANN), Virtual Conference, September 14-17, 2021. \n
 \[Code [https://github.com/tanjatang/CAN repo]\]
-
 . [https://arxiv.org/pdf/1906.03750.pdf Graph Adversarial Attack via Rewiring.] \n
 Yao Ma, Suhang Wang, *Tyler Derr*, Lingfei Wu, and Jiliang Tang. \n
 In Proceedings of the 27th ACM SIGKDD International Conference on
 Knowledge Discovery & Data Mining (KDD), Singapore (Virtual Conference), August 14-18,
 2021. \n
 \[Code [https://github.com/alge24/ReWatt repo]\]
-
 . [papers/aaai21-hypergraph_attention_stock_selection.pdf Stock Selection via Spatiotemporal Hypergraph Attention Network: A Learning to Rank Approach.] \n
 Ramit Sawhney, Shivam Agarwal, Arnav Wadhwa, *Tyler Derr*, Rajiv Shah. \n
 In Proceedings of the 35th AAAI Conference on Artificial Intelligence
 (AAAI), Virtual Conference, February 2-9, 2021. \n
 \[Code [https://github.com/midas-research/sthan-sr-aaai repo]\]
-
 . [papers/wsdm21-node_similarity_preserving_gcn.pdf Node Similarity Preserving Graph Convolutional Networks.] \n
 Wei Jin, *Tyler Derr*, Yiqi Wang, Yao Ma, Zitao Liu, Jiliang Tang. \n
 In Proceedings of the 14th ACM International Conference on Web Search
 and Data Mining (WSDM), Jerusalem, Israel, March 8-12, 2021. \n
 \[Code [https://github.com/ChandlerBang/SimP-GCN repo]\]
-
 . [papers/icde21-recsys_crossdomain_user_copy_attack.pdf CopyAttack: Attacking Black-box Recommendations via Copying
 Cross-domain User Profiles.] \n
 Wenqi Fan, *Tyler Derr*, Xiangyu Zhao,Yao Ma,Hui Liu, Jianping Wang,
@@ -81,7 +73,6 @@ Jiliang Tang. \n
 In Proceedings of the IEEE International Conference on Teaching,
 Assessment, and Learning for Engineering (TALE), Takamatsu, Japan,
 December 8-11, 2020. \n
-
 . [papers/kdd2020-gnn_tutorial.pdf Deep Graph Learning: Foundations, Advances and Applications.] \n
 Yu Rong, Tingyang Xu, Junzhou Huang, Wenbing Huang, Hong Cheng, Yao
 Ma, Yiqi Wang, *Tyler Derr*, Lingfei Wu, Tengfei Ma. \n
@@ -90,7 +81,6 @@ Knowledge Discovery & Data Mining (KDD), San Diego, USA, August 22-27,
 2020. \n
 \[Tutorial site
 [https://ai.tencent.com/ailab/ml/KDD-Deep-Graph-Learning.html link]\]
-
 . [papers/icdm20-incomplete_labeled_data_learning.pdf Learning from Incomplete Labeled Data via Adversarial Data
 Generation.] \n
 Wentao Wang, *Tyler Derr*, Yao Ma, Suhang Wang, Hui Liu, Zitao Liu, and
@@ -98,47 +88,39 @@ Jiliang Tang. \n
 In Proceedings of the 18th International Conference on Data Mining
 (ICDM), Sorrento, Italy, November 17-20,
 2020. \n
-
 . [papers/edm20-online_course_prediction_gnn.pdf Online Academic Course Performance Prediction using Relational Graph
 Convolutional Neural Network.] \n
 *Tyler Derr*, Hamid Karimi (co-first authors), Jiangtao Huang, and
 Jiliang Tang. \n
 In Proceedings of 13th International
 Conference on Educational Data Mining (EDM), Ifrane, Morocco, July 10-13, 2020. \n
-
 . [papers/lats20-teacher_connections_on_pinterest.pdf Characterizing Teacher Connections in Online Social Media: A Case Study on Pinterest.] \n
 Hamid Karimi, Kaitlin T. Torphy, *Tyler Derr*, Kenneth A. Frank, and
 Jiliang Tang. \n
 (Work-in-Progress) In Proceedings of the 7th Learning@ Scale (L@S),
 Atlanta, USA, August 12-14, 2020. \n
-
 . [papers/aied20-improving_teacher_representativeness_online.pdf Towards Improving Sample Representativeness of Teachers on Online Social Media: A Case Study on Pinterest.] \n
 Hamid Karimi, *Tyler Derr*, Kaitlin T. Torphy, Kenneth A. Frank, and
 Jiliang Tang. \n
 In Proceedings of the 21st International Conference on Artificial
 Intelligence in Education (AIED), Ifran, Morocco, July 6-10, 2020. \n
-
 . [papers/snam20-link_interaction_polarity_prediction.pdf Link and Interaction Polarity Predictions in Signed Networks.] \n
 *Tyler Derr*, Zhiwei Wang, Jamell Dacon, and Jiliang Tang. \n
 Social Network Analysis and Mining. 10(18). 2020. \n
-
 . [papers/www20-rolebased_signed_embedding.pdf ROSE: Role-based Signed Network Embedding.] \n
 Amin Javari, *Tyler Derr*, Pouya Esmalian, Jiliang Tang, and Kevin Chen-Chuan Chang. \n
 In Proceedings of the 29th International Conference on The World Wide
 Web (WWW), Taipei, Taiwan, April 20-24, 2020. \n
-
 . [papers/aaai-ai4edu2020-predicting_online_course_performance.pdf A Deep Model for Predicting Online Course Performance.] \n
 Hamid Karimi, Jiangtao Huang (co-first author), *Tyler Derr*. \n
 Workshop on Artificial Intelligence for Education (AI4EDU) at the 34th AAAI
 Conference on Artificial Intelligence (AAAI), New York, USA, February
 7-12, 2020. \n
-
 . [papers/wsdm20-epidemic_gcn.pdf Epidemic Graph Convolutional Network.] \n
 *Tyler Derr*, Yao Ma, Wenqi Fan, Xiarui Liu, Charu Aggarwal, and Jiliang Tang.\n
 In Proceedings of the 13th ACM International Conference on Web Search
 and Data Mining (WSDM)/, Houston, USA, February 3-7, 2020. \n
 \[Code [https://github.com/tylersnetwork/EpidemicGCN repo]\]
-
 . [papers/wsdm20-network_analysis_with_negative_links.pdf Network Analysis with Negative Links.] \n
 *Tyler Derr*.\n
 In Proceedings of the 13th ACM International Conference on Web Search
@@ -153,19 +135,16 @@ In Proceedings of the 28th ACM International Conference on
 Information and Knowledge Management (CIKM)/, Beijing, China,
 November 3-7, 2019. \n
 \[Code [https://github.com/tylersnetwork/signed_bipartite_networks repo]\]
-
 . [papers/asonam19-congressional_vote_prediction.pdf Multi-Factor Congressional Vote Prediction.] \n
 *Tyler Derr*, Hamid Karimi (co-first authors), Aaron Brookhouse, and Jiliang Tang.\n
 In Proceedings of the 2019 IEEE/ACM International Conference on
 Advances in Social Networks Analysis and Mining (ASONAM), Vancouver,
 Canada, August 27-30, 2019. \n
-
 . [papers/ijcai19-adversarial_social_recommendation.pdf Deep Adversarial Social Recommendation.] \n
 Wenqi Fan, *Tyler Derr*, Yao Ma, Qing Li, Jiliang Tang, and Jianping Wang.\n
 In Proceedings of the 28th International Joint Conference on Artificial Intelligence (IJCAI), Macao, China, August 10-16,
 2019. \n
 \[Code [https://drive.google.com/file/d/1m5fJ71wrJq0ykU9ytwwJpuI9GT_WVH09/view repo]\]
-
 . [papers/tcr2019_social_media_in_education_research.pdf A Roadmap for Incorporating Online Social Media in Educational
 Research.] \n
 Hamid Karimi, *Tyler Derr*, Kaitlin T. Torphy, Kenneth A. Frank, and Jiliang Tang.\n
@@ -182,30 +161,25 @@ In Proceedings of the 18th International Conference on Data Mining
 \[IEEE [https://ieeexplore.ieee.org/abstract/document/8594922
  pdf]\]
  \[Code [code/SGCN.zip repo]\] \[3rd party code [https://github.com/benedekrozemberczki/SGCN repo]\]
-
 . [papers/icdmw218-congressional_analysis_signed_networks.pdf Congresional Vote Analysis Using Signed Networks.] \n
 *Tyler Derr* and Jiliang Tang.\n
 In Proceedings of the 18th International Conference on Data Mining
 Workshops (ICDMW), Singapore, November 17-20, 2018. \n
-
 . [https://arxiv.org/abs/1710.09485 Signed Network Modeling Based on Structural Balance Theory.] \n
 *Tyler Derr*, Charu Aggarwal, and Jiliang Tang.\n
 /In Proceedings of the 27th ACM International Conference on
 Information and Knowledge Management (CIKM)/, Turin, Italy,
 October 22-26, 2018.\n
-
 . [https://ieeexplore.ieee.org/abstract/document/8508263 Opinions Power Opinions: Joint Link and Interaction
 Polarity Predictions in Signed Networks.] \n
 *Tyler Derr*, Zhiwei Wang, and Jiliang Tang.\n
 In Proceedings of the 2018 IEEE/ACM International Conference on Advances
 in Social Networks Analysis and Mining (ASONAM), Barcelona, Spain,
 August 28-31, 2018.\n
-
 . [papers/mlg18-signed_relevance_measurements.pdf Relevance Measurements in Online Signed Social Networks.] \n
 *Tyler Derr*, Chenxing Wang, Suhang Wang, and Jiliang Tang.\n
 KDD 14th International Workshop on Mining and Learning
 with Graphs (MLG), London, United Kingdom, August 20, 2018.\n
-
 . [papers/cikm17-weightloss.pdf Understanding and Predicting Weight Loss with Mobile Social Networking
 Data.] \n
 Zhiwei Wang, *Tyler Derr*, Dawei Yin, and Jiliang Tang.\n
