@@ -94,7 +94,8 @@ mining, machine learning, network measures and models, data science for social g
 == News (See past news before joining VU [news.html here])
 ~~
 === 2022
-- 5/2022: Our paper ``Fair View Graph Neural Network for Fair Node Representation Learning'' is accepted at *KDD2022*
+- 5/2022: Our paper [https://arxiv.org/pdf/2206.03426.pdf ``Improving Fairness in Graph Neural Networks
+via Mitigating Sensitive Attribute Leakage''] is accepted at *KDD2022*
 - 5/2022: Our paper ``On Structural Explanation of Bias in Graph Neural Networks'' is accepted at *KDD2022*
 - 5/2022: Our paper ``ChemicalX: A Deep Learning Library for Drug Pair Scoring'' is accepted at *KDD2022* and corresponding open-source library is available [https://github.com/astrazeneca/chemicalx here]
 - 5/2022: Congratulations to my student [https://yuwvandy.github.io/ Yu Wang] for being awarded *Vanderbilt's C. F. Chen Best Paper Award* in Computer Science for his paper [papers/cikm21-tree_decomposed_gnn.pdf `Tree Decomposed Graph Neural Network']!
