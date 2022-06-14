@@ -4,11 +4,15 @@
 
 == 2022
 
+. [https://tylersnetwork.github.io/publications.html Inferring EHR Utilization Workflows through Audit Logs.] \n
+Xinmeng Zhang, Yuying Zhao (co-first author), CHao Yan, *Tyler Derr*, You Chen. \n
+AMIA Annual Symposium Proceedings. Vol. 2022. American Medical Informatics Association, 2022. \n
+Coming soon!
 . [https://arxiv.org/pdf/2206.03426.pdf Improving Fairness in Graph Neural Networks
 via Mitigating Sensitive Attribute Leakage.] \n
 Yu Wang, Yuying Zhao, Yushun Dong, Huiyuan Chen, Jundong Li, *Tyler Derr*. \n
 In Proceedings of the 28th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD), Washington D.C., USA, August 14-18, 2022. \n
-Coming soon!
+\[Code [https://github.com/YuWVandy/FairVGNN repo]\]
 . [https://tylersnetwork.github.io/publications.html On Structural Explanation of Bias in Graph Neural Networks.] \n
 Yushun Dong, Song Wang, Yu Wang, Tyler Derr, and Jundong Li. \n
 In Proceedings of the 28th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD), Washington D.C., USA, August 14-18, 2022. \n

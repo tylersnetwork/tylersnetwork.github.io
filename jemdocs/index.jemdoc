@@ -79,25 +79,24 @@ mining, machine learning, network measures and models, data science for social g
 #-- Domains such as Education, Health Informatics, and Political Science
 
 == Call for Papers
-#- [https://mlog-workshop.github.io/ Machine Learning on Graphs (MLoG) Workshop] at WSDM'22 (Lead workshop organizer)
-#-- Submission Deadline: December 18th, 2021 (Extended to January 8th, 2022)
-
 - [https://www.frontiersin.org/research-topics/30288/machine-learning-on-complex-graphs Machine Learning on Complex Graphs] - Frontiers in Big Data (Topic Editor)
--- Paper Submission Deadline: *June 7th, 2022*
--- Welcomed topics include: graph kernels/summarization/coarsening/alignment/etc, graph neural networks, network embedding, related applications, etc
--- We especially invite submissions with emphasis on complex graphs such as dynamic/hyper/heterogeneous/knowledge graphs
+-- Paper Submission Deadline (extended): *July 7th, 2022*
+-- Welcomed topics include: graph kernels\/summarization\/coarsening\/alignment\/etc, graph neural networks, network embedding, related applications, etc
+-- We especially invite submissions with emphasis on complex graphs such as dynamic\/hyper\/heterogeneous\/knowledge graphs
 
-- The 2nd International Workshop on Machine Learning on Graphs (MLoG) to be held at ICDM'22 (Workshop Co-Chair)
--- Workshop paper submission deadline (according to ICDM'22): *September 2nd, 2022*
---  **Details coming soon!** 
+- [https://mlog-workshop.github.io/ The 2nd International Workshop on Machine Learning on Graphs (MLoG)] to be held at [https://icdm22.cse.usf.edu/ ICDM'22] (Workshop Co-Chair)
+-- Note that accepted works will be published in formal proceedings by the IEEE Computer Society Press. Details: [https://mlog-workshop.github.io/ here].
+-- We invite submissions that focus on recent advances in research/development of machine learning on graphs along with their applications.
+-- Submission Deadline: September 2nd, 2022
 
 == News (See past news before joining VU [news.html here])
 ~~
 === 2022
+- 5/2022: My PhD student [https://yuyingzhao.github.io/ Yuying Zhao]'s first paper since joining NDS ``Inferring EHR Utilization Workflows through Audit Logs'' is accepted at *AMIA2022*
 - 5/2022: Our paper [https://arxiv.org/pdf/2206.03426.pdf ``Improving Fairness in Graph Neural Networks
 via Mitigating Sensitive Attribute Leakage''] is accepted at *KDD2022*
 - 5/2022: Our paper ``On Structural Explanation of Bias in Graph Neural Networks'' is accepted at *KDD2022*
-- 5/2022: Our paper ``ChemicalX: A Deep Learning Library for Drug Pair Scoring'' is accepted at *KDD2022* and corresponding open-source library is available [https://github.com/astrazeneca/chemicalx here]
+- 5/2022: Our paper [https://arxiv.org/pdf/2202.05240.pdf ``ChemicalX: A Deep Learning Library for Drug Pair Scoring''] is accepted at *KDD2022* and corresponding open-source library is available [https://github.com/astrazeneca/chemicalx here]
 - 5/2022: Congratulations to my student [https://yuwvandy.github.io/ Yu Wang] for being awarded *Vanderbilt's C. F. Chen Best Paper Award* in Computer Science for his paper [papers/cikm21-tree_decomposed_gnn.pdf `Tree Decomposed Graph Neural Network']!
 - 4/2022: Our workshop ``Machine Learning on Graphs (MLoG)'' is accepted at *ICDM2022*
 - 3/2022: Awarded *Outstanding PC Member Award* at *WSDM2022* (with credit going to NDS subreviewers [https://yuwvandy.github.io/ Yu Wang], [https://yuyingzhao.github.io/ Yuying Zhao], [https://yunchaoliu.github.io/ Yunchao (Lance) Liu], [https://lizhaoqing.github.io/ Zhaoqing Li])
