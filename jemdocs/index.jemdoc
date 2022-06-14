@@ -87,12 +87,12 @@ mining, machine learning, network measures and models, data science for social g
 - [https://mlog-workshop.github.io/ The 2nd International Workshop on Machine Learning on Graphs (MLoG)] to be held at [https://icdm22.cse.usf.edu/ ICDM'22] (Workshop Co-Chair)
 -- Note that accepted works will be published in formal proceedings by the IEEE Computer Society Press. Details: [https://mlog-workshop.github.io/ here].
 -- We invite submissions that focus on recent advances in research/development of machine learning on graphs along with their applications.
--- Submission Deadline: September 2nd, 2022
+-- Submission Deadline: *September 2nd, 2022*
 
 == News (See past news before joining VU [news.html here])
 ~~
 === 2022
-- 5/2022: My PhD student [https://yuyingzhao.github.io/ Yuying Zhao]'s first paper since joining NDS ``Inferring EHR Utilization Workflows through Audit Logs'' is accepted at *AMIA2022*
+- 6/2022: My PhD student [https://yuyingzhao.github.io/ Yuying Zhao]'s first paper since joining NDS ``Inferring EHR Utilization Workflows through Audit Logs'' is accepted at *AMIA2022*
 - 5/2022: Our paper [https://arxiv.org/pdf/2206.03426.pdf ``Improving Fairness in Graph Neural Networks
 via Mitigating Sensitive Attribute Leakage''] is accepted at *KDD2022*
 - 5/2022: Our paper ``On Structural Explanation of Bias in Graph Neural Networks'' is accepted at *KDD2022*
