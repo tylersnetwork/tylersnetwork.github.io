@@ -80,25 +80,37 @@ mining, machine learning, network measures and models, data science for social g
 
 == Call for Papers
 - [https://www.frontiersin.org/research-topics/30288/machine-learning-on-complex-graphs Machine Learning on Complex Graphs] - Frontiers in Big Data (Topic Editor)
--- Paper Submission Deadline (extended): *July 7th, 2022*
 -- Welcomed topics include: graph kernels\/summarization\/coarsening\/alignment\/etc, graph neural networks, network embedding, related applications, etc
 -- We especially invite submissions with emphasis on complex graphs such as dynamic\/hyper\/heterogeneous\/knowledge graphs
+-- Submission Deadline (extended): *July 7th, 2022* ([https://www.frontiersin.org/research-topics/30288/machine-learning-on-complex-graphs/participate-in-open-access-research-topic link])
+
+- [https://pasworkshop.github.io/ The 1st International Workshop on Privacy Algorithms in Systems (PAS)] to be held at [https://www.cikm2022.org/ CIKM'22] (Workshop Co-Chair)
+-- Note that accepted works are non-archival (i.e., not published in a formal proceedings).
+-- Welcomed topics include: privacy preservation in deep learning models and complex data, benchmark analysis of privacy algorithms, privacy attacks, theory of privacy algorithms, etc., and their applications
+
+- [https://gta3.hrl.com/ The 6th Workshop on Graph Techniques for Adversarial Activity Analytics (GTA3 2022)] to be held at [https://bigdataieee.org/BigData2022/ IEEE BigData'22 (Workshop Co-Chair)
+-- Note that accepted works will be published in formal proceedings by the IEEE Computer Society Press. Details: [https://gta3.hrl.com here].
+-- We invite submissions that focus on modeling adversarial activites with graphs for ``connecting the dots'', ``finding a needle in a haystack'', and ``defending against attacks.''
+-- Submission Deadline: *October 10, 2022* ([https://wi-lab.com/cyberchair/2022/bigdata22/index.php link])
 
 - [https://mlog-workshop.github.io/ The 2nd International Workshop on Machine Learning on Graphs (MLoG)] to be held at [https://icdm22.cse.usf.edu/ ICDM'22] (Workshop Co-Chair)
 -- Note that accepted works will be published in formal proceedings by the IEEE Computer Society Press. Details: [https://mlog-workshop.github.io/ here].
 -- We invite submissions that focus on recent advances in research/development of machine learning on graphs along with their applications.
--- Submission Deadline: *September 2nd, 2022*
+-- Submission Deadline: *September 2nd, 2022* ([https://wi-lab.com/cyberchair/2022/icdm22/scripts/submit.php?subarea=S04&undisplay_detail=1&wh=/cyberchair/2022/icdm22/scripts/ws_submit.php link])
 
 == News (See past news before joining VU [news.html here])
 ~~
 === 2022
+- 6/2022: Our workshop [https://pasworkshop.github.io/ Privacy Algorithms in Systems] is accepted at *CIKM2022*
 - 6/2022: My PhD student [https://yuyingzhao.github.io/ Yuying Zhao]'s first paper since joining NDS ``Inferring EHR Utilization Workflows through Audit Logs'' is accepted at *AMIA2022*
+- 5/2022: My research was highlighted in VU Provost C. Cybele Raver's [https://www.youtube.com/watch?v=jG69wEmkRj4 keynote] at [https://www.vanderbilt.edu/modern-conflict/ The Vanderbilt Summit on Modern Conflict]
 - 5/2022: Our paper [https://arxiv.org/pdf/2206.03426.pdf ``Improving Fairness in Graph Neural Networks
 via Mitigating Sensitive Attribute Leakage''] is accepted at *KDD2022*
 - 5/2022: Our paper ``On Structural Explanation of Bias in Graph Neural Networks'' is accepted at *KDD2022*
 - 5/2022: Our paper [https://arxiv.org/pdf/2202.05240.pdf ``ChemicalX: A Deep Learning Library for Drug Pair Scoring''] is accepted at *KDD2022* and corresponding open-source library is available [https://github.com/astrazeneca/chemicalx here]
+- 4/2022: Our workshop [https://gta3.hrl.com Graph Techniques for Adversarial Acticity Analytics (GTA3)] was accepted at *IEEE BigData2022*
 - 5/2022: Congratulations to my student [https://yuwvandy.github.io/ Yu Wang] for being awarded *Vanderbilt's C. F. Chen Best Paper Award* in Computer Science for his paper [papers/cikm21-tree_decomposed_gnn.pdf `Tree Decomposed Graph Neural Network']!
-- 4/2022: Our workshop ``Machine Learning on Graphs (MLoG)'' is accepted at *ICDM2022*
+- 4/2022: Our workshop [https://mlog-workshop.github.io/ Machine Learning on Graphs (MLoG)] is accepted at *ICDM2022*
 - 3/2022: Awarded *Outstanding PC Member Award* at *WSDM2022* (with credit going to NDS subreviewers [https://yuwvandy.github.io/ Yu Wang], [https://yuyingzhao.github.io/ Yuying Zhao], [https://yunchaoliu.github.io/ Yunchao (Lance) Liu], [https://lizhaoqing.github.io/ Zhaoqing Li])
 - 3/2022: Congratulations to my student [https://yunchaoliu.github.io/ Yunchao (Lance) Liu] for being awarded the *Nvidia Academic Hardware Grant* for his project on ``Interpretable 3D Graph Neural Networks for Drug Discovery!''
 - 2/2022: Preprint [https://arxiv.org/abs/2202.05240 ``ChemicalX: A Deep Learning Library for Drug Pair Scoring'']
