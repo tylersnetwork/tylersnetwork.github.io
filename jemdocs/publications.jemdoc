@@ -4,11 +4,14 @@
 
 == 2022
 
-- [https://yuwvandy.github.io/paper/dpgnn.pdf Distance-wise Prototypical Graph Neural Network for Imbalanced Node Classification.] \n
+. [https://arxiv.org/pdf/2112.00238.pdf Imbalaned Graph Classification via Graph-of-Graph Neural Networks.] \n
+Yu Wang, Yuying Zhao, Neil Shah, and *Tyler Derr*. \n
+In Proceedings of the 31th ACM International Conference on Information and Knowledge Management (CIKM), Atlanta, GA, USA, October 17-21, 2022. \n
+\[Code [https://github.com/YuWVandy/G2GNN repo]\] \n
+. [https://yuwvandy.github.io/paper/dpgnn.pdf Distance-wise Prototypical Graph Neural Network for Imbalanced Node Classification.] \n
 Yu Wang, Charu Aggarwal, and *Tyler Derr*. \n
 KDD 17th International Workshop on Mining and Learning with Graphs (MLG), Washington D.C., USA, August 15, 2022.
 \[Code [https://github.com/YuWVandy/DPGNN repo]\] \n
-
 . [https://tylersnetwork.github.io/publications.html Inferring EHR Utilization Workflows through Audit Logs.] \n
 Xinmeng Zhang, Yuying Zhao (co-first author), Chao Yan, *Tyler Derr*, and You Chen. \n
 AMIA Annual Symposium Proceedings. Vol. 2022. American Medical Informatics Association, Washington D.C., USA, November 5-9, 2022.\n
@@ -202,9 +205,6 @@ Information and Knowledge Management (CIKM)/,
 
 = Preprints and Submissions
 
-- [https://arxiv.org/pdf/2112.00238.pdf Imbalaned Graph Classification via Graph-of-Graph Neural Networks.] \n
-Yu Wang, Yuying Zhao, Neil Shah, and *Tyler Derr*. \n
-\[Code [https://github.com/YuWVandy/G2GNN repo]\] \n
 
 - [https://yuwvandy.github.io/paper/dpgnn.pdf Distance-wise Prototypical Graph Neural Network for Imbalanced Node Classification.] \n
 Yu Wang, Charu Aggarwal, and *Tyler Derr*. \n

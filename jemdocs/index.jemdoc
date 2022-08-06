@@ -79,11 +79,6 @@ mining, machine learning, network measures and models, data science for social g
 #-- Domains such as Education, Health Informatics, and Political Science
 
 == Call for Papers
-- [https://www.frontiersin.org/research-topics/30288/machine-learning-on-complex-graphs Machine Learning on Complex Graphs] - Frontiers in Big Data (Topic Editor)
--- Welcomed topics include: graph kernels\/summarization\/coarsening\/alignment\/etc, graph neural networks, network embedding, related applications, etc
--- We especially invite submissions with emphasis on complex graphs such as dynamic\/hyper\/heterogeneous\/knowledge graphs
--- Submission Deadline: *July 7th, 2022* ([https://www.frontiersin.org/research-topics/30288/machine-learning-on-complex-graphs/participate-in-open-access-research-topic link])
-
 - [https://pasworkshop.github.io/ The 1st International Workshop on Privacy Algorithms in Systems (PAS)] to be held at [https://www.cikm2022.org/ CIKM'22] (Workshop Co-Chair)
 -- Note that accepted works are non-archival (i.e., not published in a formal proceedings).
 -- Welcomed topics include: privacy preservation in deep learning models and complex data, benchmark analysis of privacy algorithms, privacy attacks, theory of privacy algorithms, etc., and their applications
@@ -99,10 +94,20 @@ mining, machine learning, network measures and models, data science for social g
 -- We invite submissions that focus on modeling adversarial activites with graphs for ``connecting the dots'', ``finding a needle in a haystack'', and ``defending against attacks.''
 -- Submission Deadline: *October 10th, 2022* ([https://wi-lab.com/cyberchair/2022/bigdata22/index.php link])
 
+- [https://www.frontiersin.org/research-topics/30288/machine-learning-on-complex-graphs Machine Learning on Complex Graphs] - Frontiers in Big Data (Topic Editor)
+-- Welcomed topics include: graph kernels\/summarization\/coarsening\/alignment\/etc, graph neural networks, network embedding, related applications, etc
+-- We especially invite submissions with emphasis on complex graphs such as dynamic\/hyper\/heterogeneous\/knowledge graphs
+-- Submission Deadline: *November 25th, 2022* ([https://www.frontiersin.org/research-topics/30288/machine-learning-on-complex-graphs/participate-in-open-access-research-topic link])
+
 
 == News (See past news before joining VU [news.html here])
 ~~
 === 2022
+- 8/2022: Gave an invited talk ``Machine Learning on Graphs'' in the Computer Science and Mathematics Division at Oak Ridge National Laboratory
+- 8/2022: Our paper [https://arxiv.org/pdf/2112.00238.pdf ``Imbalanced Graph Classification via Graph-of-Graph Neural Networks''] is accepted at *CIKM2022*
+- 7/2022: Preprint [https://arxiv.org/pdf/2207.06221.pdf ``Collaboration-Aware Graph Neural Networks for Recommendation Systems''] 
+- 7/2022: Invited to serve as *Associate Editor* for Elsevier Big Data Research
+- 7/2022: Invited to serve as *SPC member* for AAAI2023
 - 6/2022: Our paper [https://yuwvandy.github.io/paper/dpgnn.pdf Distance-wise Prototypical Graph Neural Network for Imbalanced Node Classification] is accepted by the MLG Workshop at KDD2022
 - 6/2022: Our workshop [https://pasworkshop.github.io/ Privacy Algorithms in Systems] is accepted at *CIKM2022*
 - 6/2022: My PhD student [https://yuyingzhao.github.io/ Yuying Zhao]'s first paper since joining NDS ``Inferring EHR Utilization Workflows through Audit Logs'' is accepted at *AMIA2022*
