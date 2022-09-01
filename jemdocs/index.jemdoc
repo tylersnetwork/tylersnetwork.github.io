@@ -79,11 +79,6 @@ mining, machine learning, network measures and models, data science for social g
 #-- Domains such as Education, Health Informatics, and Political Science
 
 == Call for Papers
-- [https://pasworkshop.github.io/ The 1st International Workshop on Privacy Algorithms in Systems (PAS)] to be held at [https://www.cikm2022.org/ CIKM'22] (Workshop Co-Chair)
--- Note that accepted works are non-archival (i.e., not published in a formal proceedings).
--- Welcomed topics include: privacy preservation in deep learning models and complex data, benchmark analysis of privacy algorithms, privacy attacks, theory of privacy algorithms, etc., and their applications
--- Submission Deadline: *August 15th, 2022* ([https://pasworkshop.github.io/ link])
-
 - [https://mlog-workshop.github.io/ The 2nd International Workshop on Machine Learning on Graphs (MLoG)] to be held at [https://icdm22.cse.usf.edu/ ICDM'22] (Workshop Co-Chair)
 -- Note that accepted works will be published in formal proceedings by the IEEE Computer Society Press. Details: [https://mlog-workshop.github.io/ here].
 -- We invite submissions that focus on recent advances in research/development of machine learning on graphs along with their applications.
@@ -103,6 +98,10 @@ mining, machine learning, network measures and models, data science for social g
 == News (See past news before joining VU [news.html here])
 ~~
 === 2022
+- 9/2022: Our paper ``THINK: Temporal Hypergraph Hyperbolic Network'' is accepted at IEEE ICDM2022
+- 8/2022: Our paper ``Enhancing Individual Fairness through Propensity Score Matching'' is accepted at IEEE DSAA2022
+- 8/2022: Preprint [https://www.biorxiv.org/content/10.1101/2022.08.24.505155v1.full.pdf ``Interpretable Chirality-Aware Graph Neural Network for Quantitative Structure Relationship Modeling in Drug Discovery'']
+- 8/2022: Invited to serve as *Social Media and Publicity Chair of KDD2023*
 - 8/2022: Gave an invited talk ``Machine Learning on Graphs'' in the Computer Science and Mathematics Division at Oak Ridge National Laboratory
 - 8/2022: Our paper [https://arxiv.org/pdf/2112.00238.pdf ``Imbalanced Graph Classification via Graph-of-Graph Neural Networks''] is accepted at *CIKM2022*
 - 7/2022: Preprint [https://arxiv.org/pdf/2207.06221.pdf ``Collaboration-Aware Graph Neural Networks for Recommendation Systems''] 
