@@ -38,10 +38,10 @@ Mail: 400 24th Ave S Rm 254, Nashville, TN 37212
 \n
 == Short Bio
 Tyler Derr is an Assistant Professor in the Department of Computer Science, Teaching and Affiliate Faculty in the Data Science Institute, and Faculty Fellow in the Frist Center for Autism and Innovation at
-Vanderbilt University. He directs the [http://my.vanderbilt.edu/nds Network and Data Science (NDS) lab], which focuses on social computing, data
-mining, and machine learning, especially in social network analysis,
+Vanderbilt University. He directs the [http://my.vanderbilt.edu/nds Network and Data Science (NDS) lab], which focuses on data
+mining and machine learning, especially in social network analysis,
 deep learning on graphs, and data science for social good with
-applications in education, health, political science, and autism research. He received his
+applications in drug discovery, education, political science, and autism research. He received his
 PhD (2020) in Computer Science from Michigan State University under
 the supervision of [http://www.cse.msu.edu/~tangjili Dr. Jiliang Tang]
 and was a member of the Data Science and Engineering (DSE) Lab and Teachers in Social Media (TISM) Project. He had completed his MS
@@ -68,8 +68,8 @@ research domain.\n
 #Teachers in Social Media Project at MSU. 
 
 == Research Interests
-data mining, network anlaysis, social computing, graph neural networks, graph
-mining, machine learning, network measures and models, data science for social good (e.g., education, health, political science, and autism research)
+data mining, machine learning, network anlaysis, graph neural networks, graph
+mining, network measures and models, data science for social good (e.g., drug discovery, education, political science, and autism research)
 #- Social Network Analysis
 #-- Graph Mining, Network Measuing, Modeling, and Mining; Signed Networks 
 #- Deep Learning on Graphs
@@ -79,16 +79,6 @@ mining, machine learning, network measures and models, data science for social g
 #-- Domains such as Education, Health Informatics, and Political Science
 
 == Call for Papers
-- [https://mlog-workshop.github.io/ The 2nd International Workshop on Machine Learning on Graphs (MLoG)] to be held at [https://icdm22.cse.usf.edu/ ICDM'22] (Workshop Co-Chair)
--- Note that accepted works will be published in formal proceedings by the IEEE Computer Society Press. Details: [https://mlog-workshop.github.io/ here].
--- We invite submissions that focus on recent advances in research/development of machine learning on graphs along with their applications.
--- Submission Deadline: *September 2nd, 2022* ([https://wi-lab.com/cyberchair/2022/icdm22/scripts/submit.php?subarea=S04&undisplay_detail=1&wh=/cyberchair/2022/icdm22/scripts/ws_submit.php link])
-
-- [https://gta3.hrl.com/ The 6th Workshop on Graph Techniques for Adversarial Activity Analytics (GTA3 2022)] to be held at [https://bigdataieee.org/BigData2022/ IEEE BigData'22] (Workshop Co-Chair)
--- Note that accepted works will be published in formal proceedings by the IEEE Computer Society Press. Details: [https://gta3.hrl.com here].
--- We invite submissions that focus on modeling adversarial activites with graphs for ``connecting the dots'', ``finding a needle in a haystack'', and ``defending against attacks.''
--- Submission Deadline: *October 10th, 2022* ([https://wi-lab.com/cyberchair/2022/bigdata22/index.php link])
-
 - [https://www.frontiersin.org/research-topics/30288/machine-learning-on-complex-graphs Machine Learning on Complex Graphs] - Frontiers in Big Data (Topic Editor)
 -- Welcomed topics include: graph kernels\/summarization\/coarsening\/alignment\/etc, graph neural networks, network embedding, related applications, etc
 -- We especially invite submissions with emphasis on complex graphs such as dynamic\/hyper\/heterogeneous\/knowledge graphs
@@ -98,12 +88,15 @@ mining, machine learning, network measures and models, data science for social g
 == News (See past news before joining VU [news.html here])
 ~~
 === 2022
-- 9/2022: Our paper ``THINK: Temporal Hypergraph Hyperbolic Network'' is accepted at IEEE ICDM2022
+- 10/2022: Gave an *invited talk* ``Overcoming Data Quality Issues in Graph Learning'' at ORNL Core Universities AI Workshop
+#- 10/2022: Our workshop [https://mlog-workshop.github.io/ Machine Learning on Graphs (MLoG)] is accepted at *WSDM2022*
+- 10/2021: Invited to be a judge for VandyHacks 2022 (VU's premier student hackathon)
+- 9/2022: Our paper ``THINK: Temporal Hypergraph Hyperbolic Network'' is accepted at IEEE *ICDM2022*
 - 9/2022: Our paper ``Decision Boundaries of Deep Neural Networks'' is accepted at IEEE ICMLA2022
 - 8/2022: Our paper ``Enhancing Individual Fairness through Propensity Score Matching'' is accepted at IEEE DSAA2022
 - 8/2022: Preprint [https://www.biorxiv.org/content/10.1101/2022.08.24.505155v1.full.pdf ``Interpretable Chirality-Aware Graph Neural Network for Quantitative Structure Relationship Modeling in Drug Discovery'']
 - 8/2022: Invited to serve as *Social Media and Publicity Chair of KDD2023*
-- 8/2022: Gave an invited talk ``Machine Learning on Graphs'' in the Computer Science and Mathematics Division at Oak Ridge National Laboratory
+- 8/2022: Gave an *invited talk* ``Machine Learning on Graphs'' in the Computer Science and Mathematics Division at Oak Ridge National Laboratory
 - 8/2022: Our paper [https://arxiv.org/pdf/2112.00238.pdf ``Imbalanced Graph Classification via Graph-of-Graph Neural Networks''] is accepted at *CIKM2022*
 - 7/2022: Preprint [https://arxiv.org/pdf/2207.06221.pdf ``Collaboration-Aware Graph Neural Networks for Recommendation Systems''] 
 - 7/2022: Invited to serve as *Associate Editor* for Elsevier Big Data Research
