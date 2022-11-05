@@ -29,10 +29,6 @@ Coming soon!
 Yu Wang, Yuying Zhao, Neil Shah, and *Tyler Derr*. \n
 In Proceedings of the 31th ACM International Conference on Information and Knowledge Management (CIKM), Atlanta, GA, USA, October 17-21, 2022. \n
 \[Code [https://github.com/YuWVandy/G2GNN repo]\] \n
-. [https://yuwvandy.github.io/paper/dpgnn.pdf Distance-wise Prototypical Graph Neural Network for Imbalanced Node Classification.] \n
-Yu Wang, Charu Aggarwal, and *Tyler Derr*. \n
-KDD 17th International Workshop on Mining and Learning with Graphs (MLG), Washington D.C., USA, August 15, 2022.
-\[Code [https://github.com/YuWVandy/DPGNN repo]\] \n
 . [https://tylersnetwork.github.io/publications.html Inferring EHR Utilization Workflows through Audit Logs.] \n
 Xinmeng Zhang, Yuying Zhao (co-first author), Chao Yan, *Tyler Derr*, and You Chen. \n
 AMIA Annual Symposium Proceedings. Vol. 2022. American Medical Informatics Association, Washington D.C., USA, November 5-9, 2022.\n
@@ -258,7 +254,13 @@ Haochen Liu, *Tyler Derr*, Zitao Liu, and Jiliang Tang. \n
 
 = Symposiums / Workshops
 
-
+. Demystify Degree-related Bias in Link Prediction \n
+Yu Wang and Tyler Derr. \n
+In Proceedings of the 22nd International Conference on Data Mining Workshop (ICDMW) PhD Forum, Orlando, FL, USA, November 28, 2022.
+. [https://yuwvandy.github.io/paper/dpgnn.pdf Distance-wise Prototypical Graph Neural Network for Imbalanced Node Classification.] \n
+Yu Wang, Charu Aggarwal, and *Tyler Derr*. \n
+KDD 17th International Workshop on Mining and Learning with Graphs (MLG), Washington D.C., USA, August 15, 2022.
+\[Code [https://github.com/YuWVandy/DPGNN repo]\] \n
 #- Yu Wang and *Tyler Derr*. \n
 #Tackling Over-squashing in Graph Neural Networks via Higher-order Neighborhood Disentanglement. International Conference on Data Mining (SDM21) Doctoral Forum, SIAM, Poster, 2021.
 . Self-supervised Learning on Graphs: Deep Insights and New
@@ -273,13 +275,12 @@ Michigan AI Symposium - AI For Society, Poster, 2019.
 . Network Analysis with Negative Links. \n
 *Tyler Derr*. \n
 International Conference on Data Mining (SDM19) Doctoral Forum, SIAM,
-Poster, 2019.
--- *Best Poster Award*
+Poster, 2019. *Best Poster Award*
 . Why Do People Unfollow on Twitter. \n
 Aaron Brookhouse\*, *Tyler Derr*, Hamid Karimi, and Jiliang Tang. \n
 Mid-Michigan Symposium for
 	    Undergraduate Research (MID-SURE), Poster. 2019
-	    -- *\Undergraduate student mentored
+	    *\Undergraduate student mentored
 . Signed Graph Convolutional Networks. \n
 *Tyler Derr*, Yao Ma, and Jiliang Tang. \n
 Michigan State University Engineering Graduate Research Symposium, Poster, 2019.
@@ -287,11 +288,11 @@ Michigan State University Engineering Graduate Research Symposium, Poster, 2019.
 *Tyler Derr*, Hamid Karimi, and Jiliang Tang. \n
 Michigan State University Graduate Academic Conference - Three-Minute Thesis Competition,
 			 Presentation, 2019.
-			 -- *``People's Choice'' Award*
+			 *``People's Choice'' Award*
 . Deep Congressional Vote Prediction. \n
 *Tyler Derr*, Hamid Karimi, and Jiliang Tang. \n
 Southeast Michigan Postdoctoral Symposium, Presentation, 2018.
--- *2nd Prize* Awarded by University of Michigan's Postdoctoral Association
+*2nd Prize* Awarded by University of Michigan's Postdoctoral Association
 . Congressional Vote Analysis using Signed Networks.\n
 *Tyler Derr* and Jiliang Tang. \n
 IEEE International Conference on Data Mining (ICDM18) Ph.D. Forum, Presentation, 2018.

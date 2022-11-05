@@ -88,8 +88,10 @@ mining, network measures and models, data science for social good (e.g., drug di
 == News (See past news before joining VU [news.html here])
 ~~
 === 2022
-- 10/2022: Gave an *invited talk* ``Overcoming Data Quality Issues in Graph Learning'' at ORNL Core Universities AI Workshop
-#- 10/2022: Our workshop [https://mlog-workshop.github.io/ Machine Learning on Graphs (MLoG)] is accepted at *WSDM2022*
+- 11/2022: Gave an *invited talk* ``Overcoming Data Quality Issues in Graph Learning'' in AI Seminar at North Carolina State University
+- 11/2022: Gave an *invited talk* ``Overcoming Data Qaulity Issues in Graph Learning'' in the Mathematics and Data Science section of Qilu Youth Forum at Shandong University
+- 10/2022: Gave an *invited talk* ``Overcoming Data Quality Issues in Graph Learning'' in the ORNL Core Universities AI Workshop at Virginia Tech
+- 10/2022: Our workshop [https://mlog-workshop.github.io/ Machine Learning on Graphs (MLoG)] is accepted at *WSDM2022* (3rd iteration)
 - 10/2021: Invited to be a judge for VandyHacks 2022 (VU's premier student hackathon)
 - 9/2022: Our paper ``THINK: Temporal Hypergraph Hyperbolic Network'' is accepted at IEEE *ICDM2022*
 - 9/2022: Our paper ``Decision Boundaries of Deep Neural Networks'' is accepted at IEEE ICMLA2022
@@ -111,7 +113,7 @@ via Mitigating Sensitive Attribute Leakage''] is accepted at *KDD2022*
 - 5/2022: Our paper [https://arxiv.org/pdf/2202.05240.pdf ``ChemicalX: A Deep Learning Library for Drug Pair Scoring''] is accepted at *KDD2022* and corresponding open-source library is available [https://github.com/astrazeneca/chemicalx here]
 - 5/2022: Our workshop [https://gta3.hrl.com Graph Techniques for Adversarial Acticity Analytics (GTA3)] was accepted at *IEEE BigData2022*
 - 5/2022: Congratulations to my student [https://yuwvandy.github.io/ Yu Wang] for being awarded *Vanderbilt's C. F. Chen Best Paper Award* in Computer Science for his paper [papers/cikm21-tree_decomposed_gnn.pdf `Tree Decomposed Graph Neural Network']!
-- 4/2022: Our workshop [https://mlog-workshop.github.io/ Machine Learning on Graphs (MLoG)] is accepted at *ICDM2022*
+- 4/2022: Our workshop [https://mlog-workshop.github.io/ Machine Learning on Graphs (MLoG)] is accepted at *ICDM2022* (2nd iteration)
 - 3/2022: Awarded *Outstanding PC Member Award* at *WSDM2022* (with credit going to NDS subreviewers [https://yuwvandy.github.io/ Yu Wang], [https://yuyingzhao.github.io/ Yuying Zhao], [https://yunchaoliu.github.io/ Yunchao (Lance) Liu], [https://lizhaoqing.github.io/ Zhaoqing Li])
 - 3/2022: Congratulations to my student [https://yunchaoliu.github.io/ Yunchao (Lance) Liu] for being awarded the *Nvidia Academic Hardware Grant* for his project on ``Interpretable 3D Graph Neural Networks for Drug Discovery!''
 - 2/2022: Preprint [https://arxiv.org/abs/2202.05240 ``ChemicalX: A Deep Learning Library for Drug Pair Scoring'']
