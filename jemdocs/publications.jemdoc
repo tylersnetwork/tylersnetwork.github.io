@@ -12,7 +12,7 @@ Yu Wang, Charu Aggarwal, and *Tyler Derr*. \n
 
 
 == 2022
-. Fairness and Explainability: Briding the Gap Towards Fair Model Explanations. \n
+. Fairness and Explainability: Bridging the Gap Towards Fair Model Explanations. \n
 Yuying Zhao, Yu Wang, *Tyler Derr*. \n
 In Proceedings of the 37th AAAI Conference on Artificial Intelligence
 (AAAI), Washington, DC, USA, February 7-14, 2023. \n
@@ -22,6 +22,8 @@ Yunchao “Lance” Liu, Yu Wang, Oanh Vu, Rocco Moretti, Bobby Bodenheimer, Jen
 In Proceedings of the 37th AAAI Conference on Artificial Intelligence
 (AAAI), Washington, DC, USA, February 7-14, 2023. \n
 \[Code [https://github.com/LanceKnight/MolKGNN repo]\]
+. Demystify Degree-related Bias in Link Prediction
+Yu Wang and Tyler Derr. In Proceedings of the 22nd International Conference on Data Mining Workshop (ICDMW) Machine Learning on Graphs (MLoG), Orlando, FL, USA, November 28 - December 1, 2022.
 . THINK: Temporal Hypergraph Hyperbolic Network. \n
 Shivam Agarwal, Ramit Sawhney, Megh Thakkar, Preslav Nakov, Jiawei Han, and *Tyler Derr*. \n
 In Proceedings of the 22nd International Conference on Data Mining (ICDM), Orlando, FL, USA, November 28 - December 1, 2022. \n
@@ -34,7 +36,7 @@ Coming soon!
 Hamid Karimi, Muhammad Fawad Akbar Khan, Haochen Liu, *Tyler Derr*, and Hui Liu. \n
 In Proceedings of the 9th IEEE International Conference on Data Science and Advanced Analytics (DSAA), Virtual, October 13-16, 2022. \n
 Coming soon!
-. [https://arxiv.org/pdf/2112.00238.pdf Imbalaned Graph Classification via Graph-of-Graph Neural Networks.] \n
+. [https://arxiv.org/pdf/2112.00238.pdf Imbalanced Graph Classification via Graph-of-Graph Neural Networks.] \n
 Yu Wang, Yuying Zhao, Neil Shah, and *Tyler Derr*. \n
 In Proceedings of the 31th ACM International Conference on Information and Knowledge Management (CIKM), Atlanta, GA, USA, October 17-21, 2022. \n
 \[Code [https://github.com/YuWVandy/G2GNN repo]\] \n
@@ -67,7 +69,7 @@ In Graph Neural Networks: Foundations, Frontiers, and Applications, Lingfei Wu, 
 Yu Wang and *Tyler Derr*. \n
 In Proceedings of the 30th ACM International Conference on Information and Knowledge Management (CIKM), Virtual Conference, November 1-5, 2021. \n
 \[Code [https://github.com/YuWVandy/TDGNN repo]\]
-. [[papers/deep_adversarial_network_alignment.pdf Deep Adversarial Network Alignment.]\n
+. [papers/deep_adversarial_network_alignment.pdf Deep Adversarial Network Alignment.]\n
 *Tyler Derr*, Hamid Karimi, Xiaorui Liu, Jiejun Xu, and Jiliang Tang. \n
 In Proceedings of the 30th ACM International Conference on Information and Knowledge Management (CIKM), Virtual Conference, November 1-5, 2021. \n
 . [https://arxiv.org/pdf/2105.04493.pdf Graph Feature Gating Network.] \n
