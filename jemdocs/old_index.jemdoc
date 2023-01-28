@@ -33,19 +33,42 @@ Mail: 400 24th Ave S Rm 254, Nashville, TN 37212
 [https://scholar.google.com/citations?user=et6IhFcAAAAJ Google Scholar]\n
 [https://www.linkedin.com/in/tylersnetwork Linkedin]\n
 #Twitter: [http://www.twitter.com/tylersnetwork @tylersnetwork]
+
+{}{img_left}{images/NDS_research.png}{Image of NDS Lab}{242}{215}{images/NDS_research.png}
 ~~
 
 \n
 == Short Bio
-Tyler Derr is an Assistant Professor in the [https://engineering.vanderbilt.edu/cs/ Department of Computer Science], Teaching and Affiliate Faculty in the [https://www.vanderbilt.edu/datascience/ Data Science Institute], and Faculty Fellow in the [https://www.vanderbilt.edu/autismandinnovation/ Frist Center for Autism and Innovation] at [https://www.vanderbilt.edu/ Vanderbilt University]. He received his PhD (2020) in Computer Science from Michigan State University under the supervision of [http://www.cse.msu.edu/~tangjili Dr. Jiliang Tang] and was a member of the Data Science and Engineering (DSE) Lab and Teachers in Social Media (TISM) Project. He had complete his MS (2015) in Computer Science at The Pennsylvania State University and dual BS (2013) in Computer Science and Mathematical Sciences at The Pennsylvania State University.
+Tyler Derr is an Assistant Professor in the [https://engineering.vanderbilt.edu/cs/ Department of Computer Science], Teaching and Affiliate Faculty in the [https://www.vanderbilt.edu/datascience/ Data Science Institute], and Faculty Fellow in the [https://www.vanderbilt.edu/autismandinnovation/ Frist Center for Autism and Innovation] at [https://www.vanderbilt.edu/ Vanderbilt University]. He received his PhD (2020) in Computer Science from Michigan State University under the supervision of [http://www.cse.msu.edu/~tangjili Dr. Jiliang Tang] and was a member of the Data Science and Engineering (DSE) Lab and Teachers in Social Media (TISM) Project. He had complete his MS (2015) in Computer Science at The Pennsylvania State University and dual BS (2013) in Computer Science and Mathematical Sciences at The
+Pennsylvania State University.
 
-Tyler directs the [http://my.vanderbilt.edu/nds Network and Data Science (NDS) lab], which focuses on data mining and machine learning, especially in social network analysis, deep learning on graphs, and data science for social good with applications in drug discovery, education, political science, and autism research. He has published in and regularly serves as a SPC\/PC member at the top conferences in these domains and served in organizational roles including Publicity Co-Chair of KDD'22\/'23, Doctoral Consortium Co-Chair of WSDM'22, Proceedings Co-Chair of KDD'21, and co-organized the Deep Graph Learning workshop at IEEE BigData'19, Machine Learning on Graphs workshop at WSDM'22/'23 and ICDM'22, Topic Editor in Frontiers in Big Data, and Associate Editor for Elsevier Big Data Research. He was the recipient of the Best Reviewer Award at ICWSM'19\/'21, the Best Student Poster Award at SDM'19, the ``People's Choice'' Award for the 3 Minute Thesis Competition at MSU, the Fall 2020 Teaching Innovation Award from the School of Engineering at Vanderbilt, and his student Yu Wang recently received Vanderbilt's C. F. Chen Best Paper Award in Computer Science in 2022.
+Tyler directs the [http://my.vanderbilt.edu/nds Network and Data Science (NDS) lab], which focuses on data
+mining and machine learning, especially in social network analysis, deep learning on graphs, and data science for social good with applications in drug discovery, education, political science, and autism research. He has published in and regularly serves as a SPC/PC member at the top conferences in these domains and served in organizational roles including Publicity Co-Chair of KDD'22/'23, Doctoral Consortium Co-Chair of WSDM'22, Proceedings Co-Chair of KDD'21, and co-organized the Deep Graph Learning workshop at IEEE BigData'19, Machine Learning on Graphs workshop at WSDM'22/'23 and ICDM'22, Topic Editor in Frontiers in Big Data, and Associate Editor for Elsevier Big Data Research. He was the recipient of the Best Reviewer Award at ICWSM'19/'21, the Best Student Poster Award at SDM'19, the "People's
+Choice" Award for the 3 Minute Thesis Competition at MSU, the Fall 2020 Teaching Innovation Award from the School of Engineering at Vanderbilt, and his student Yu Wang recently received Vanderbilt's C. F. Chen Best Paper Award in Computer Science. \n
+
+
+== Research Interests
+data mining, machine learning, network anlaysis, graph neural networks, graph
+mining, network measures and models, data science for social good (e.g., drug discovery, education, political science, and autism research)
+#- Social Network Analysis
+#-- Graph Mining, Network Measuing, Modeling, and Mining; Signed Networks 
+#- Deep Learning on Graphs
+#-- Graph Neural Networks (i.e., deep learning for graph structured
+#data)
+#- Data Science for Social Good
+#-- Domains such as Education, Health Informatics, and Political Science
+
+== Call for Papers
+- [https://www.frontiersin.org/research-topics/30288/machine-learning-on-complex-graphs Machine Learning on Complex Graphs] - Frontiers in Big Data (Topic Editor)
+-- Welcomed topics include: graph kernels\/summarization\/coarsening\/alignment\/etc, graph neural networks, network embedding, related applications, etc
+-- We especially invite submissions with emphasis on complex graphs such as dynamic\/hyper\/heterogeneous\/knowledge graphs
+-- Submission Deadline: TBA (currently relaunching the topic) ([https://www.frontiersin.org/research-topics/30288/machine-learning-on-complex-graphs/participate-in-open-access-research-topic link])
+
 
 == News (See past news before joining VU [news.html here])
 
 ~~
 === 2023
-- 1/2023: Our paper [https://arxiv.org/abs/2207.06221 ``Collaboration-Aware Graph Neural Networks for Recommendation Systems''] was accepted at *TheWebConf2023*
 - 2023: Invited to serve as a grant proposal panelist for *NSF* during 2023
 ~~
 

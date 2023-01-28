@@ -2,28 +2,31 @@
 = Tyler Derr - Publications
 
 == Recent Preprints/Submissions
-. [https://arxiv.org/pdf/2207.06221.pdf Collaboration-Aware Graph Neural Network for Recommender Systems.] \n
-Yu Wang, Yuying Zhao, Yi Zhang, *Tyler Derr*. \n
-\[Code [https://github.com/YuWVandy/CAGCN repo]\]
 . [https://yuwvandy.github.io/paper/dpgnn.pdf Distance-wise Prototypical Graph Neural Network for Imbalanced Node Classification.] \n
 Yu Wang, Charu Aggarwal, and *Tyler Derr*. \n
 \[Code [https://github.com/YuWVandy/DPGNN repo]\]
 
+== 2023
+. [https://arxiv.org/pdf/2207.06221.pdf Collaboration-Aware Graph Neural Network for Recommender Systems.] \n
+Yu Wang, Yuying Zhao, Yi Zhang, *Tyler Derr*. \n
+In Proceedings of the ACM Web Conference (TheWebConf), Austin, TX, USA, April 30 - May 4, 2023. \n
+\[Code [https://github.com/YuWVandy/CAGCN repo]\] 
 
 
 == 2022
-. Fairness and Explainability: Bridging the Gap Towards Fair Model Explanations. \n
+. [https://arxiv.org/pdf/2212.03840.pdf Fairness and Explainability: Bridging the Gap Towards Fair Model Explanations.] \n
 Yuying Zhao, Yu Wang, *Tyler Derr*. \n
 In Proceedings of the 37th AAAI Conference on Artificial Intelligence
 (AAAI), Washington, DC, USA, February 7-14, 2023. \n
-Coming soon!
+\[Code [https://github.com/YuyingZhao/FairExplanations-CFA repo]\] \n
 . [https://www.biorxiv.org/content/10.1101/2022.08.24.505155v1 Interpretable Chirality-Aware Graph Neural Network for Quantitative Structure Relationship Modeling in Drug Discovery.] \n
 Yunchao “Lance” Liu, Yu Wang, Oanh Vu, Rocco Moretti, Bobby Bodenheimer, Jens Meiler, *Tyler Derr*. \n
 In Proceedings of the 37th AAAI Conference on Artificial Intelligence
 (AAAI), Washington, DC, USA, February 7-14, 2023. \n
 \[Code [https://github.com/LanceKnight/MolKGNN repo]\]
 . Demystify Degree-related Bias in Link Prediction
-Yu Wang and Tyler Derr. In Proceedings of the 22nd International Conference on Data Mining Workshop (ICDMW) Machine Learning on Graphs (MLoG), Orlando, FL, USA, November 28 - December 1, 2022.
+Yu Wang and Tyler Derr. \n
+In Proceedings of the 22nd International Conference on Data Mining Workshop (ICDMW) Machine Learning on Graphs (MLoG), Orlando, FL, USA, November 28 - December 1, 2022.
 . THINK: Temporal Hypergraph Hyperbolic Network. \n
 Shivam Agarwal, Ramit Sawhney, Megh Thakkar, Preslav Nakov, Jiawei Han, and *Tyler Derr*. \n
 In Proceedings of the 22nd International Conference on Data Mining (ICDM), Orlando, FL, USA, November 28 - December 1, 2022. \n
@@ -31,7 +34,7 @@ Coming soon!
 . [https://arxiv.org/pdf/1912.11460.pdf Decision Boundaries of Deep Neural Networks.] \n
 Hamid Karimi and *Tyler Derr*. \n
 In Proceedings of the 21th IEEE International Conference on Machine Learning and Applications (ICMLA), Nassau, The Bahamas, December 12-15, 2022. \n
-Coming soon!
+\[Code [https://github.com/hamidkarimi/DeepDIG/ repo]\]
 . Enhancing Individual Fairness through Propensity Score Matching. \n
 Hamid Karimi, Muhammad Fawad Akbar Khan, Haochen Liu, *Tyler Derr*, and Hui Liu. \n
 In Proceedings of the 9th IEEE International Conference on Data Science and Advanced Analytics (DSAA), Virtual, October 13-16, 2022. \n
