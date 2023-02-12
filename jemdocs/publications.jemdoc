@@ -24,7 +24,7 @@ Yunchao “Lance” Liu, Yu Wang, Oanh Vu, Rocco Moretti, Bobby Bodenheimer, Jen
 In Proceedings of the 37th AAAI Conference on Artificial Intelligence
 (AAAI), Washington, DC, USA, February 7-14, 2023. \n
 \[Code [https://github.com/LanceKnight/MolKGNN repo]\]
-. Demystify Degree-related Bias in Link Prediction
+. [papers/icdmw22-degreebiaslinkpred.pdf Degree-related Bias in Link Prediction.] \n
 Yu Wang and Tyler Derr. \n
 In Proceedings of the 22nd International Conference on Data Mining Workshop (ICDMW) Machine Learning on Graphs (MLoG), Orlando, FL, USA, November 28 - December 1, 2022.
 . [papers/icdm22-think.pdf THINK: Temporal Hypergraph Hyperbolic Network.] \n
@@ -52,7 +52,7 @@ via Mitigating Sensitive Attribute Leakage.] \n
 Yu Wang, Yuying Zhao, Yushun Dong, Huiyuan Chen, Jundong Li, *Tyler Derr*. \n
 In Proceedings of the 28th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD), Washington D.C., USA, August 14-18, 2022. \n
 \[Code [https://github.com/YuWVandy/FairVGNN repo]\]
-. [https://tylersnetwork.github.io/publications.html On Structural Explanation of Bias in Graph Neural Networks.] \n
+. [https://arxiv.org/pdf/2206.12104.pdf On Structural Explanation of Bias in Graph Neural Networks.] \n
 Yushun Dong, Song Wang, Yu Wang, Tyler Derr, and Jundong Li. \n
 In Proceedings of the 28th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD), Washington D.C., USA, August 14-18, 2022. \n
 Coming soon!
@@ -268,9 +268,9 @@ Haochen Liu, *Tyler Derr*, Zitao Liu, and Jiliang Tang. \n
 
 = Symposiums / Workshops
 
-. Demystify Degree-related Bias in Link Prediction \n
+. Degree-related Bias in Link Prediction \n
 Yu Wang and Tyler Derr. \n
-In Proceedings of the 22nd International Conference on Data Mining Workshop (ICDMW) PhD Forum, Orlando, FL, USA, November 28, 2022.
+In Proceedings of the 22nd International Conference on Data Mining Workshop (ICDMW), Orlando, FL, USA, November 28, 2022.
 . [https://yuwvandy.github.io/paper/dpgnn.pdf Distance-wise Prototypical Graph Neural Network for Imbalanced Node Classification.] \n
 Yu Wang, Charu Aggarwal, and *Tyler Derr*. \n
 KDD 17th International Workshop on Mining and Learning with Graphs (MLG), Washington D.C., USA, August 15, 2022.
