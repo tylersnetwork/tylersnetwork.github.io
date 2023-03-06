@@ -5,6 +5,8 @@
 . [https://yuwvandy.github.io/paper/dpgnn.pdf Distance-wise Prototypical Graph Neural Network for Imbalanced Node Classification.] \n
 Yu Wang, Charu Aggarwal, and *Tyler Derr*. \n
 \[Code [https://github.com/YuWVandy/DPGNN repo]\]
+. ADEPT: Autoencoder with Differentially Expressed Genes and Imputation for a Robust Spatial Transcriptomics Clustering. \n
+Yunfei Hu*, Yuying Zhao*, Curtis T. Schunk, Yingxiang Ma, Tyler Derr, and Xin Maizie Zhou. \n (accepted at RECOMB-Seq 2023 in submission to iScience)
 
 == 2023
 . [https://arxiv.org/pdf/2207.06221.pdf Collaboration-Aware Graph Neural Network for Recommender Systems.] \n

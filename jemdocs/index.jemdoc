@@ -45,15 +45,18 @@ Tyler directs the [http://my.vanderbilt.edu/nds Network and Data Science (NDS) l
 
 ~~
 === 2023
-- 1/2023: Our paper [https://arxiv.org/abs/2207.06221 ``Collaboration-Aware Graph Neural Networks for Recommendation Systems''] was accepted at *TheWebConf2023*
+- 3/2023: Will give an *invited talk* at *ACM Web Conference* during Knowledge Graph Day
+- 3/2023: Our paper ``ADEPT: Autoencoder with Differentially Expressed Genes and Imputation for a Robust Spatial Transcriptomics Clustering'' is accepted at RECOMB-Seq 2023
+- 1/2023: Our paper [https://arxiv.org/abs/2207.06221 ``Collaboration-Aware Graph Neural Networks for Recommendation Systems''] was accepted at *ACM Web Conference*
 - 2023: Invited to serve as an external reviewer for *Research Grants Council (RGC) of Hong Kong* during 2023.
 - 2023: Invited to serve as a grant proposal panelist for *NSF* during 2023
 ~~
 
 ~~
 === 2022
+- 12/2022: My PhD student [https://yuwvandy.github.io/ Yu Wang] was awarded The American Bureau of Shipping (ABS) Scholarship through Vanderbilt University
 - 11/2022: Gave an *invited keynote* ``Overcoming Data Quality Issues in Graph Learning'' in the Knowledge Graph Workshop at ICDM2022
-- 11/2022: Our paper ``Fairness and Explainability: Bridging the Gap Towards Fair Model Explanations'' is accepted at *AAAI2023*
+- 11/2022: Our paper [https://arxiv.org/abs/2212.03840 ``Fairness and Explainability: Bridging the Gap Towards Fair Model Explanations''] is accepted at *AAAI2023*
 - 11/2022: My PhD student [https://yunchaoliu.github.io/ Yunchao (Lance) Liu]'s first paper since joining NDS [https://www.biorxiv.org/content/10.1101/2022.08.24.505155v1 ``Interpretable Chirality-Aware Graph Neural Network for Quantitative Structure Activity Relationship Modeling in Drug Discovery''] is accepted at *AAAI2023*
 - 11/2022: Our extended abstract [https://openreview.net/forum?id=O7msz8Ou7o ``Collaboration-Aware Graph Neural Networks for Recommendation Systems''] was accepted at *Learning on Graphs (LOG)* conference
 - 11/2022: Our extended abstract [https://openreview.net/forum?id=W2OStztdMhc ``Interpretable Chirality-Aware Graph Neural Network for Quantitative Structure Activity Relationship Modeling''] was accepted at *Learning on Graphs (LOG)* conference
@@ -82,14 +85,14 @@ via Mitigating Sensitive Attribute Leakage''] is accepted at *KDD2022*
 - 5/2022: Our paper ``On Structural Explanation of Bias in Graph Neural Networks'' is accepted at *KDD2022*
 - 5/2022: Our paper [https://arxiv.org/pdf/2202.05240.pdf ``ChemicalX: A Deep Learning Library for Drug Pair Scoring''] is accepted at *KDD2022* and corresponding open-source library is available [https://github.com/astrazeneca/chemicalx here]
 - 5/2022: Our workshop [https://gta3.hrl.com Graph Techniques for Adversarial Acticity Analytics (GTA3)] was accepted at *IEEE BigData2022*
-- 5/2022: Congratulations to my student [https://yuwvandy.github.io/ Yu Wang] for being awarded *Vanderbilt's C. F. Chen Best Paper Award* in Computer Science for his paper [papers/cikm21-tree_decomposed_gnn.pdf `Tree Decomposed Graph Neural Network']!
+- 5/2022: Congratulations to my student [https://yuwvandy.github.io/ Yu Wang] for being awarded *Vanderbilt's C. F. Chen Best Paper Award* in Computer Science for his paper [papers/cikm21-tree_decomposed_gnn.pdf `Tree Decomposed Graph Neural Network']
 - 4/2022: Our workshop [https://mlog-workshop.github.io/ Machine Learning on Graphs (MLoG)] is accepted at *ICDM2022* (2nd iteration)
 - 3/2022: Awarded *Outstanding PC Member Award* at *WSDM2022* (with credit going to NDS subreviewers [https://yuwvandy.github.io/ Yu Wang], [https://yuyingzhao.github.io/ Yuying Zhao], [https://yunchaoliu.github.io/ Yunchao (Lance) Liu], [https://lizhaoqing.github.io/ Zhaoqing Li])
-- 3/2022: Congratulations to my student [https://yunchaoliu.github.io/ Yunchao (Lance) Liu] for being awarded the *Nvidia Academic Hardware Grant* for his project on ``Interpretable 3D Graph Neural Networks for Drug Discovery!''
+- 3/2022: Congratulations to my student [https://yunchaoliu.github.io/ Yunchao (Lance) Liu] for being awarded the *Nvidia Academic Hardware Grant* for his project on ``Interpretable 3D Graph Neural Networks for Drug Discovery''
 - 2/2022: Preprint [https://arxiv.org/abs/2202.05240 ``ChemicalX: A Deep Learning Library for Drug Pair Scoring'']
 - 2/2022: Accepted to attend the ASEE DELTA Junior Faculty Institute
 - 2/2022: Invited to serve as *PC member* for WebSci2022 and Graph Learning Workshop@WebConf2022
-- 1/2022: Our book chapter [https://link.springer.com/chapter/10.1007/978-981-16-6054-2_18 ``Graph Neural Networks: Self-supervised Learning''] is published in the new edited Springer book ``Graph Neural Networks: Foundations, Frontiers, and Applications''!
+- 1/2022: Our book chapter [https://link.springer.com/chapter/10.1007/978-981-16-6054-2_18 ``Graph Neural Networks: Self-supervised Learning''] is published in the new edited Springer book ``Graph Neural Networks: Foundations, Frontiers, and Applications''
 - 1/2022: Invited to serve as *SPC member* for ICWSM2022
 - 2022: Invited to serve (twice) as a grant proposal panelist for *NSF* during 2022
 ~~
