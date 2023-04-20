@@ -11,7 +11,8 @@ Yu Wang, Charu Aggarwal, and *Tyler Derr*. \n
 == 2023
 . ADEPT: Autoencoder with Differentially Expressed Genes and Imputation for a Robust Spatial Transcriptomics Clustering. \n
 Yunfei Hu, Yuying Zhao (co-first author), Curtis T. Schunk, Yingxiang Ma, *Tyler Derr*, and Xin Maizie Zhou. \n
-iScience (also accepted and presented at RECOMB-Seq), 2023. 
+iScience (also accepted and presented at RECOMB-Seq), 2023.\
+\[Code [https://github.com/NDS-VU/ADEPT repo]\]
 . [https://arxiv.org/pdf/2207.06221.pdf Collaboration-Aware Graph Neural Network for Recommender Systems.] \n
 Yu Wang, Yuying Zhao, Yi Zhang, *Tyler Derr*. \n
 In Proceedings of the ACM Web Conference (TheWebConf), Austin, TX, USA, April 30 - May 4, 2023. \n
@@ -25,9 +26,9 @@ In Proceedings of the 37th AAAI Conference on Artificial Intelligence
 Yunchao “Lance” Liu, Yu Wang, Oanh Vu, Rocco Moretti, Bobby Bodenheimer, Jens Meiler, *Tyler Derr*. \n
 In Proceedings of the 37th AAAI Conference on Artificial Intelligence
 (AAAI), Washington, DC, USA, February 7-14, 2023. \n
+\[Code [https://github.com/LanceKnight/MolKGNN repo]\]
 
 == 2022
-\[Code [https://github.com/LanceKnight/MolKGNN repo]\]
 . [papers/icdmw22-degreebiaslinkpred.pdf Degree-related Bias in Link Prediction.] \n
 Yu Wang and Tyler Derr. \n
 In Proceedings of the 22nd International Conference on Data Mining Workshop (ICDMW) Machine Learning on Graphs (MLoG), Orlando, FL, USA, November 28 - December 1, 2022.
@@ -39,7 +40,7 @@ Coming soon!
 Hamid Karimi and *Tyler Derr*. \n
 In Proceedings of the 21th IEEE International Conference on Machine Learning and Applications (ICMLA), Nassau, The Bahamas, December 12-15, 2022. \n
 \[Code [https://github.com/hamidkarimi/DeepDIG/ repo]\]
-. Enhancing Individual Fairness through Propensity Score Matching. \n
+. [https://ieeexplore.ieee.org/document/10032333 Enhancing Individual Fairness through Propensity Score Matching.] \n
 Hamid Karimi, Muhammad Fawad Akbar Khan, Haochen Liu, *Tyler Derr*, and Hui Liu. \n
 In Proceedings of the 9th IEEE International Conference on Data Science and Advanced Analytics (DSAA), Virtual, October 13-16, 2022. \n
 Coming soon!
