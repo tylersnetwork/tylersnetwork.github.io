@@ -2,20 +2,20 @@
 = Tyler Derr - Publications
 
 == Recent Preprints/Submissions
+. [https://www.biorxiv.org/content/10.1101/2023.04.17.537185v1 Integrating Expert Knowledge with Deep Learning Improves QSAR Models for CADD Modeling.] \n
+Yunchao ``Lance'' Liu, Rocco Moretti, Yu Wang, Bobby Bodenheimer, *Tyler Derr*, Jens Meiler. \n
 . [https://yuwvandy.github.io/paper/dpgnn.pdf Distance-wise Prototypical Graph Neural Network for Imbalanced Node Classification.] \n
 Yu Wang, Charu Aggarwal, and *Tyler Derr*. \n
 \[Code [https://github.com/YuWVandy/DPGNN repo]\]
-. ADEPT: Autoencoder with Differentially Expressed Genes and Imputation for a Robust Spatial Transcriptomics Clustering. \n
-Yunfei Hu*, Yuying Zhao*, Curtis T. Schunk, Yingxiang Ma, Tyler Derr, and Xin Maizie Zhou. \n (accepted at RECOMB-Seq 2023 in submission to iScience)
 
 == 2023
+. ADEPT: Autoencoder with Differentially Expressed Genes and Imputation for a Robust Spatial Transcriptomics Clustering. \n
+Yunfei Hu, Yuying Zhao (co-first author), Curtis T. Schunk, Yingxiang Ma, *Tyler Derr*, and Xin Maizie Zhou. \n
+iScience (also accepted and presented at RECOMB-Seq), 2023. 
 . [https://arxiv.org/pdf/2207.06221.pdf Collaboration-Aware Graph Neural Network for Recommender Systems.] \n
 Yu Wang, Yuying Zhao, Yi Zhang, *Tyler Derr*. \n
 In Proceedings of the ACM Web Conference (TheWebConf), Austin, TX, USA, April 30 - May 4, 2023. \n
 \[Code [https://github.com/YuWVandy/CAGCN repo]\] 
-
-
-== 2022
 . [https://arxiv.org/pdf/2212.03840.pdf Fairness and Explainability: Bridging the Gap Towards Fair Model Explanations.] \n
 Yuying Zhao, Yu Wang, *Tyler Derr*. \n
 In Proceedings of the 37th AAAI Conference on Artificial Intelligence
@@ -25,6 +25,8 @@ In Proceedings of the 37th AAAI Conference on Artificial Intelligence
 Yunchao “Lance” Liu, Yu Wang, Oanh Vu, Rocco Moretti, Bobby Bodenheimer, Jens Meiler, *Tyler Derr*. \n
 In Proceedings of the 37th AAAI Conference on Artificial Intelligence
 (AAAI), Washington, DC, USA, February 7-14, 2023. \n
+
+== 2022
 \[Code [https://github.com/LanceKnight/MolKGNN repo]\]
 . [papers/icdmw22-degreebiaslinkpred.pdf Degree-related Bias in Link Prediction.] \n
 Yu Wang and Tyler Derr. \n

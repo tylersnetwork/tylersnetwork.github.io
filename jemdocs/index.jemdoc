@@ -45,8 +45,12 @@ Tyler directs the [http://my.vanderbilt.edu/nds Network and Data Science (NDS) l
 
 ~~
 === 2023
+- 3/2023: Selected for the Visiting Faculty Research Program (*VRFP*) of The Air Force Research Laboratory's Information Directorate (*AFRL/RI*) and Information Institute (II) during Summer 2023
 - 3/2023: Will give an *invited talk* at *ACM Web Conference* during Knowledge Graph Day
-- 3/2023: Our paper ``ADEPT: Autoencoder with Differentially Expressed Genes and Imputation for a Robust Spatial Transcriptomics Clustering'' is accepted at RECOMB-Seq 2023
+- 3/2023: My PhD student [https://yuyingzhao.github.io/ Yuying Zhao] will present her work ``Learning Beyond Utility for Social Good: Fairness, Explainability, and Diversity'' at SDM'23 Doctoral Forum
+- 3/2023: Our paper ``ADEPT: Autoencoder with Differentially Expressed Genes and Imputation for a Robust Spatial Transcriptomics Clustering'' is accepted at RECOMB-Seq 2023 and published in *iScience*
+- 3/2023: My PhD student [https://yunchaoliu.github.io/ Yunchao (Lance) Liu]'s gave an [https://www.youtube.com/watch?v=P73oEikxI3Y&list=PLoVkjhDgBOt11Q3wu8lr6fwWHn5Vh3cHJ&index=4 (recorded) invited talk] at *Molecular Modeling and Drug Discovery (M2D2)* organized by Mila and Valance Discovery presenting our work MolKGNN
+- 3/2023: Our workshop [https://mlog-workshop.github.io/ Machine Learning on Graphs (MLoG)] is accepted at *ICDM2023* (4th iteration)
 - 1/2023: Our paper [https://arxiv.org/abs/2207.06221 ``Collaboration-Aware Graph Neural Networks for Recommendation Systems''] was accepted at *ACM Web Conference*
 - 2023: Invited to serve as an external reviewer for *Research Grants Council (RGC) of Hong Kong* during 2023.
 - 2023: Invited to serve as a grant proposal panelist for *NSF* during 2023
@@ -64,7 +68,7 @@ Tyler directs the [http://my.vanderbilt.edu/nds Network and Data Science (NDS) l
 - 11/2022: Gave an *invited talk* ``Overcoming Data Qaulity Issues in Graph Learning'' in the Mathematics and Data Science section of Qilu Youth Forum at Shandong University
 - 10/2022: Our paper [papers/icdmw22-degreebiaslinkpred.pdf ``Degree-related Bias in Link Prediction''] is accepted at IEEE ICDMW2022
 - 10/2022: Gave an *invited talk* ``Overcoming Data Quality Issues in Graph Learning'' in the ORNL Core Universities AI Workshop at Virginia Tech
-- 10/2022: Our workshop [https://mlog-workshop.github.io/ Machine Learning on Graphs (MLoG)] is accepted at *WSDM2022* (3rd iteration)
+- 10/2022: Our workshop [https://mlog-workshop.github.io/ Machine Learning on Graphs (MLoG)] is accepted at *WSDM2023* (3rd iteration)
 - 10/2021: Invited to be a judge for VandyHacks 2022 (VU's premier student hackathon)
 - 9/2022: Our paper [papers/icdm22-think.pdf ``THINK: Temporal Hypergraph Hyperbolic Network''] is accepted at IEEE *ICDM2022*
 - 9/2022: Our paper ``Decision Boundaries of Deep Neural Networks'' is accepted at IEEE ICMLA2022
