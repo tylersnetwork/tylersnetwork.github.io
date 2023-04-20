@@ -9,6 +9,9 @@ Yu Wang, Charu Aggarwal, and *Tyler Derr*. \n
 \[Code [https://github.com/YuWVandy/DPGNN repo]\]
 
 == 2023
+. Adversarial Attacks for Black-box Recommender Systems via Copying Transferable Cross-domain User Profiles. \n
+Wenqi Fan, Xiangyu Zhao, Qing Li, *Tyler Derr*, Yao Ma, Hui Liu, Jianping Wang, Jiliang Tang. \n
+IEEE Transactions on Knowledge and Data Engineering, 2023. \
 . ADEPT: Autoencoder with Differentially Expressed Genes and Imputation for a Robust Spatial Transcriptomics Clustering. \n
 Yunfei Hu, Yuying Zhao (co-first author), Curtis T. Schunk, Yingxiang Ma, *Tyler Derr*, and Xin Maizie Zhou. \n
 iScience (also accepted and presented at RECOMB-Seq), 2023.\
