@@ -2,6 +2,9 @@
 = Tyler Derr - Publications
 
 == Recent Preprints/Submissions
+. [https://arxiv.org/abs/2306.06202 NeuroGraph: Benchmarks for Graph Machine Learning in Brain Connectomics.] \n
+Anwar Said, Roza G. Bayrak, Tyler Derr, Mudassir Shabbir, Daniel Moyer, Catie Chang, Xenofon Koutsoukos. \n
+\[Code [https://github.com/Anwar-Said/NeuroGraph repo]\] \[Datasets and Documentation [https://anwar-said.github.io/anwarsaid/neurograph.html link]\] \n
 . [https://www.biorxiv.org/content/10.1101/2023.04.17.537185v1 Integrating Expert Knowledge with Deep Learning Improves QSAR Models for CADD Modeling.] \n
 Yunchao ``Lance'' Liu, Rocco Moretti, Yu Wang, Bobby Bodenheimer, *Tyler Derr*, Jens Meiler. \n
 . [https://yuwvandy.github.io/paper/dpgnn.pdf Distance-wise Prototypical Graph Neural Network for Imbalanced Node Classification.] \n
@@ -9,10 +12,10 @@ Yu Wang, Charu Aggarwal, and *Tyler Derr*. \n
 \[Code [https://github.com/YuWVandy/DPGNN repo]\]
 
 == 2023
-. Adversarial Attacks for Black-box Recommender Systems via Copying Transferable Cross-domain User Profiles. \n
+. [https://ieeexplore.ieee.org/abstract/document/10114977 Adversarial Attacks for Black-box Recommender Systems via Copying Transferable Cross-domain User Profiles.] \n
 Wenqi Fan, Xiangyu Zhao, Qing Li, *Tyler Derr*, Yao Ma, Hui Liu, Jianping Wang, Jiliang Tang. \n
 IEEE Transactions on Knowledge and Data Engineering, 2023. \
-. ADEPT: Autoencoder with Differentially Expressed Genes and Imputation for a Robust Spatial Transcriptomics Clustering. \n
+. [https://www.cell.com/iscience/pdf/S2589-0042(23)00869-6.pdf ADEPT: Autoencoder with Differentially Expressed Genes and Imputation for a Robust Spatial Transcriptomics Clustering.] \n
 Yunfei Hu, Yuying Zhao (co-first author), Curtis T. Schunk, Yingxiang Ma, *Tyler Derr*, and Xin Maizie Zhou. \n
 iScience (also accepted and presented at RECOMB-Seq), 2023.\
 \[Code [https://github.com/NDS-VU/ADEPT repo]\]
