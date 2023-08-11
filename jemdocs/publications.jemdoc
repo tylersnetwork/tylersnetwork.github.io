@@ -2,6 +2,8 @@
 = Tyler Derr - Publications
 
 == Recent Preprints/Submissions
+. [https://arxiv.org/abs/2307.04644 Fairness and Diversity in Recommender Systems: A Survey.] \n Yuying Zhao, Yu Wang, Yunchao Liu, Xueqi Cheng, Charu Aggarwal, and Tyler Derr. \n 
+. [https://www.mlgworkshop.org/2023/papers/MLG__KDD_2023_paper_22.pdf Fair Online Dating Recommendations for Sexually Fluid Users via Leveraging Opposite Gender Interaction Ratio.] \n Yuying Zhao, Yu Wang, Yi Zhang, Pamela Wisniewski, Charu Aggarwal and Tyler Derr. \n 
 . [https://arxiv.org/abs/2306.06202 NeuroGraph: Benchmarks for Graph Machine Learning in Brain Connectomics.] \n
 Anwar Said, Roza G. Bayrak, Tyler Derr, Mudassir Shabbir, Daniel Moyer, Catie Chang, Xenofon Koutsoukos. \n
 \[Code [https://github.com/Anwar-Said/NeuroGraph repo]\] \[Datasets and Documentation [https://anwar-said.github.io/anwarsaid/neurograph.html link]\] \n
