@@ -1,24 +1,38 @@
 # jemdoc: menu{MENU}{publicAations.html}
 = Tyler Derr - Publications
 
-== Recent Preprints/Submissions
-. [https://arxiv.org/abs/2307.04644 Fairness and Diversity in Recommender Systems: A Survey.] \n Yuying Zhao, Yu Wang, Yunchao Liu, Xueqi Cheng, Charu Aggarwal, and Tyler Derr. \n 
-. [https://www.mlgworkshop.org/2023/papers/MLG__KDD_2023_paper_22.pdf Fair Online Dating Recommendations for Sexually Fluid Users via Leveraging Opposite Gender Interaction Ratio.] \n Yuying Zhao, Yu Wang, Yi Zhang, Pamela Wisniewski, Charu Aggarwal and Tyler Derr. \n 
+== Preprints
+. [https://arxiv.org/abs/2308.16375 A Survey on Privacy in Graph Neural Networks: Attacks, Preservation, and Applications]. \n Yi Zhang, Yuying Zhao (co-first author), Zhaoqing Li, Xueqi Cheng, Yu Wang, Olivera Kotevska, Philip S Yu, *Tyler Derr*. \n
+. [https://arxiv.org/abs/2308.11730 Knowledge Graph Prompting for Multi-Document Question Answering.] \n Yu Wang, Nedim Lipka, Ryan A Rossi, Alexa Siu, Ruiyi Zhang, *Tyler Derr*. \n
+. [https://arxiv.org/abs/2307.04644 Fairness and Diversity in Recommender Systems: A Survey.] \n Yuying Zhao, Yu Wang, Yunchao Liu, Xueqi Cheng, Charu Aggarwal, and *Tyler Derr*. \n 
+. [https://www.mlgworkshop.org/2023/papers/MLG__KDD_2023_paper_22.pdf Fair Online Dating Recommendations for Sexually Fluid Users via Leveraging Opposite Gender Interaction Ratio.] \n Yuying Zhao, Yu Wang, Yi Zhang, Pamela Wisniewski, Charu Aggarwal and *Tyler Derr*. \n 
 . [https://arxiv.org/abs/2306.06202 NeuroGraph: Benchmarks for Graph Machine Learning in Brain Connectomics.] \n
-Anwar Said, Roza G. Bayrak, Tyler Derr, Mudassir Shabbir, Daniel Moyer, Catie Chang, Xenofon Koutsoukos. \n
+Anwar Said, Roza G. Bayrak, *Tyler Derr*, Mudassir Shabbir, Daniel Moyer, Catie Chang, Xenofon Koutsoukos. \n
 \[Code [https://github.com/Anwar-Said/NeuroGraph repo]\] \[Datasets and Documentation [https://anwar-said.github.io/anwarsaid/neurograph.html link]\] \n
 . [https://www.biorxiv.org/content/10.1101/2023.04.17.537185v1 Integrating Expert Knowledge with Deep Learning Improves QSAR Models for CADD Modeling.] \n
 Yunchao ``Lance'' Liu, Rocco Moretti, Yu Wang, Bobby Bodenheimer, *Tyler Derr*, Jens Meiler. \n
 . [https://yuwvandy.github.io/paper/dpgnn.pdf Distance-wise Prototypical Graph Neural Network for Imbalanced Node Classification.] \n
 Yu Wang, Charu Aggarwal, and *Tyler Derr*. \n
 \[Code [https://github.com/YuWVandy/DPGNN repo]\]
+. [papers/self_supervised_learning_on_graphs.pdf Self-supervised Learning on Graphs: Deep Insights and New
+Directions.] \n
+Wei Jin, *Tyler Derr*, Haochen Liu, Yiqi Wang, Suhang Wang, Zitao Liu, and Jiliang Tang. \n
+. [https://arxiv.org/abs/2005.13170 Chat as Expected: Manipulating Black-box Neural Dialogue Models.] \n
+Haochen Liu, Zhiwei Wang, *Tyler Derr*, Zitao Liu, and Jiliang Tang. \n
+. [https://arxiv.org/abs/1909.06044 Say What I Want: Towards the Dark Side of Neural Dialogue Models.] \n
+Haochen Liu, *Tyler Derr*, Zitao Liu, and Jiliang Tang. \n
+
+
+
+
+
 
 == 2023
 . [https://ieeexplore.ieee.org/abstract/document/10114977 Adversarial Attacks for Black-box Recommender Systems via Copying Transferable Cross-domain User Profiles.] \n
 Wenqi Fan, Xiangyu Zhao, Qing Li, *Tyler Derr*, Yao Ma, Hui Liu, Jianping Wang, Jiliang Tang. \n
 IEEE Transactions on Knowledge and Data Engineering, 2023. \
 . [https://www.cell.com/iscience/pdf/S2589-0042(23)00869-6.pdf ADEPT: Autoencoder with Differentially Expressed Genes and Imputation for a Robust Spatial Transcriptomics Clustering.] \n
-Yunfei Hu, Yuying Zhao (co-first author), Curtis T. Schunk, Yingxiang Ma, *Tyler Derr*, and Xin Maizie Zhou. \n
+Yunfei Hu, Yuying Zhao (co-first author), Curtis T. Schunk, Yingxiang Ma, *Tyler Derr\**, and Xin Maizie Zhou\*. \n
 iScience (also accepted and presented at RECOMB-Seq), 2023.\
 \[Code [https://github.com/NDS-VU/ADEPT repo]\]
 . [https://arxiv.org/pdf/2207.06221.pdf Collaboration-Aware Graph Neural Network for Recommender Systems.] \n
@@ -38,7 +52,7 @@ In Proceedings of the 37th AAAI Conference on Artificial Intelligence
 
 == 2022
 . [papers/icdmw22-degreebiaslinkpred.pdf Degree-related Bias in Link Prediction.] \n
-Yu Wang and Tyler Derr. \n
+Yu Wang and *Tyler Derr*. \n
 In Proceedings of the 22nd International Conference on Data Mining Workshop (ICDMW) Machine Learning on Graphs (MLoG), Orlando, FL, USA, November 28 - December 1, 2022.
 . [papers/icdm22-think.pdf THINK: Temporal Hypergraph Hyperbolic Network.] \n
 Shivam Agarwal, Ramit Sawhney, Megh Thakkar, Preslav Nakov, Jiawei Han, and *Tyler Derr*. \n
@@ -66,7 +80,7 @@ Yu Wang, Yuying Zhao, Yushun Dong, Huiyuan Chen, Jundong Li, *Tyler Derr*. \n
 In Proceedings of the 28th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD), Washington D.C., USA, August 14-18, 2022. \n
 \[Code [https://github.com/YuWVandy/FairVGNN repo]\]
 . [https://arxiv.org/pdf/2206.12104.pdf On Structural Explanation of Bias in Graph Neural Networks.] \n
-Yushun Dong, Song Wang, Yu Wang, Tyler Derr, and Jundong Li. \n
+Yushun Dong, Song Wang, Yu Wang, *Tyler Derr*, and Jundong Li. \n
 In Proceedings of the 28th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD), Washington D.C., USA, August 14-18, 2022. \n
 Coming soon!
 . [https://arxiv.org/pdf/2202.05240.pdf ChemicalX: A Deep Learning Library for Drug Pair Scoring.] \n
