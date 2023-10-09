@@ -1,0 +1,203 @@
+# jemdoc: menu{MENU}{index.html}
+= Tyler Derr
+
+~~
+{}{img_left}{images/TylerDerr.png}{Image of Tyler}{216}{270}{images/TylerDerr.png}
+#{}{img_left}{images/TylerDerr.png}{Image of Tyler}{216.5}{238}{images/TylerDerr.png}
+#{}{img_left}{images/TylerDerr_zoomed.png}{Image ofTyler}{175}{175}{images/TylerDerr_zoomed.png}
+
+
+#His main research interest is in network analysis, with particular
+#emphasis on signed networks and graph neural networks, where he has
+#published several papers in this domain at some of the top
+#international conferences and has received travel awards to present
+#his work.
+
+#*Tyler Derr*\n
+#/Currently:/\n
+#PhD Candidate in CSE Department\n
+#Michigan State University\n
+
+Assistant Professor \n
+Computer Science, Data Science \n
+[https://engineering.vanderbilt.edu/cs/ Department of CS],
+[https://www.vanderbilt.edu/datascience/ Data Science Institute] \n
+[https://www.vanderbilt.edu/ Vanderbilt University] \n
+
+[http://my.vanderbilt.edu/nds Network and Data Science (NDS) Lab]
+
+Email: Tyler (dot) Derr (at) vanderbilt (dot) edu\n
+Mail: 400 24th Ave S Rm 254, Nashville, TN 37212
+
+
+[https://scholar.google.com/citations?user=et6IhFcAAAAJ Google Scholar]\n
+[https://www.linkedin.com/in/tylersnetwork Linkedin]\n
+#Twitter: [http://www.twitter.com/tylersnetwork @tylersnetwork]
+
+{}{img_left}{images/NDS_research.png}{Image of NDS Lab}{242}{215}{images/NDS_research.png}
+~~
+
+\n
+== Short Bio
+Tyler Derr is an Assistant Professor in the [https://engineering.vanderbilt.edu/cs/ Department of Computer Science], Teaching and Affiliate Faculty in the [https://www.vanderbilt.edu/datascience/ Data Science Institute], and Faculty Fellow in the [https://www.vanderbilt.edu/autismandinnovation/ Frist Center for Autism and Innovation] at [https://www.vanderbilt.edu/ Vanderbilt University]. He received his PhD (2020) in Computer Science from Michigan State University under the supervision of [http://www.cse.msu.edu/~tangjili Dr. Jiliang Tang] and was a member of the Data Science and Engineering (DSE) Lab and Teachers in Social Media (TISM) Project. He had complete his MS (2015) in Computer Science at The Pennsylvania State University and dual BS (2013) in Computer Science and Mathematical Sciences at The
+Pennsylvania State University.
+
+Tyler directs the [http://my.vanderbilt.edu/nds Network and Data Science (NDS) lab], which focuses on data
+mining and machine learning, especially in social network analysis, deep learning on graphs, and data science for social good with applications in drug discovery, education, political science, and autism research. He has published in and regularly serves as a SPC/PC member at the top conferences in these domains and served in organizational roles including Publicity Co-Chair of KDD'22/'23, Doctoral Consortium Co-Chair of WSDM'22, Proceedings Co-Chair of KDD'21, and co-organized the Deep Graph Learning workshop at IEEE BigData'19, Machine Learning on Graphs workshop at WSDM'22/'23 and ICDM'22, Topic Editor in Frontiers in Big Data, and Associate Editor for Elsevier Big Data Research. He was the recipient of the Best Reviewer Award at ICWSM'19/'21, the Best Student Poster Award at SDM'19, the "People's
+Choice" Award for the 3 Minute Thesis Competition at MSU, the Fall 2020 Teaching Innovation Award from the School of Engineering at Vanderbilt, and his student Yu Wang recently received Vanderbilt's C. F. Chen Best Paper Award in Computer Science. \n
+
+
+== Research Interests
+data mining, machine learning, network anlaysis, graph neural networks, graph
+mining, network measures and models, data science for social good (e.g., drug discovery, education, political science, and autism research)
+#- Social Network Analysis
+#-- Graph Mining, Network Measuing, Modeling, and Mining; Signed Networks 
+#- Deep Learning on Graphs
+#-- Graph Neural Networks (i.e., deep learning for graph structured
+#data)
+#- Data Science for Social Good
+#-- Domains such as Education, Health Informatics, and Political Science
+
+== Call for Papers
+- [https://www.frontiersin.org/research-topics/30288/machine-learning-on-complex-graphs Machine Learning on Complex Graphs] - Frontiers in Big Data (Topic Editor)
+-- Welcomed topics include: graph kernels\/summarization\/coarsening\/alignment\/etc, graph neural networks, network embedding, related applications, etc
+-- We especially invite submissions with emphasis on complex graphs such as dynamic\/hyper\/heterogeneous\/knowledge graphs
+-- Submission Deadline: TBA (currently relaunching the topic) ([https://www.frontiersin.org/research-topics/30288/machine-learning-on-complex-graphs/participate-in-open-access-research-topic link])
+
+
+== News (See past news before joining VU [news.html here])
+
+~~
+=== 2023
+- 2023: Invited to serve as a grant proposal panelist for *NSF* during 2023
+~~
+
+~~
+=== 2022
+- 11/2022: Gave an *invited keynote* ``Overcoming Data Quality Issues in Graph Learning'' in the Knowledge Graph Workshop at ICDM2022
+- 11/2022: Our paper ``Fairness and Explainability: Bridging the Gap Towards Fair Model Explanations'' is accepted at *AAAI2023*
+- 11/2022: My PhD student [https://yunchaoliu.github.io/ Yunchao (Lance) Liu]'s first paper since joining NDS [https://www.biorxiv.org/content/10.1101/2022.08.24.505155v1 ``Interpretable Chirality-Aware Graph Neural Network for Quantitative Structure Activity Relationship Modeling in Drug Discovery''] is accepted at *AAAI2023*
+- 11/2022: Our extended abstract [https://openreview.net/forum?id=O7msz8Ou7o ``Collaboration-Aware Graph Neural Networks for Recommendation Systems''] was accepted at *Learning on Graphs (LOG)* conference
+- 11/2022: Our extended abstract [https://openreview.net/forum?id=W2OStztdMhc ``Interpretable Chirality-Aware Graph Neural Network for Quantitative Structure Activity Relationship Modeling''] was accepted at *Learning on Graphs (LOG)* conference
+- 11/2022: Gave an *invited talk* ``Overcoming Data Quality Issues in Graph Learning'' in AI Seminar at North Carolina State University
+- 11/2022: Gave an *invited talk* ``Overcoming Data Qaulity Issues in Graph Learning'' in the Mathematics and Data Science section of Qilu Youth Forum at Shandong University
+- 10/2022: Gave an *invited talk* ``Overcoming Data Quality Issues in Graph Learning'' in the ORNL Core Universities AI Workshop at Virginia Tech
+- 10/2022: Our workshop [https://mlog-workshop.github.io/ Machine Learning on Graphs (MLoG)] is accepted at *WSDM2022* (3rd iteration)
+- 10/2021: Invited to be a judge for VandyHacks 2022 (VU's premier student hackathon)
+- 9/2022: Our paper ``THINK: Temporal Hypergraph Hyperbolic Network'' is accepted at IEEE *ICDM2022*
+- 9/2022: Our paper ``Decision Boundaries of Deep Neural Networks'' is accepted at IEEE ICMLA2022
+- 8/2022: Our paper ``Enhancing Individual Fairness through Propensity Score Matching'' is accepted at IEEE DSAA2022
+- 8/2022: Preprint [https://www.biorxiv.org/content/10.1101/2022.08.24.505155v1.full.pdf ``Interpretable Chirality-Aware Graph Neural Network for Quantitative Structure Relationship Modeling in Drug Discovery'']
+- 8/2022: Invited to serve as *Social Media and Publicity Chair of KDD2023*
+- 8/2022: Gave an *invited talk* ``Machine Learning on Graphs'' in the Computer Science and Mathematics Division at Oak Ridge National Laboratory
+- 8/2022: Our paper [https://arxiv.org/pdf/2112.00238.pdf ``Imbalanced Graph Classification via Graph-of-Graph Neural Networks''] is accepted at *CIKM2022*
+- 7/2022: Preprint [https://arxiv.org/pdf/2207.06221.pdf ``Collaboration-Aware Graph Neural Networks for Recommendation Systems''] 
+- 7/2022: Invited to serve as *Associate Editor* for Elsevier Big Data Research
+- 7/2022: Invited to serve as *SPC member* for AAAI2023
+- 6/2022: Our paper [https://yuwvandy.github.io/paper/dpgnn.pdf Distance-wise Prototypical Graph Neural Network for Imbalanced Node Classification] is accepted by the MLG Workshop at KDD2022
+- 6/2022: Our workshop [https://pasworkshop.github.io/ Privacy Algorithms in Systems] is accepted at *CIKM2022*
+- 6/2022: My PhD student [https://yuyingzhao.github.io/ Yuying Zhao]'s first paper since joining NDS ``Inferring EHR Utilization Workflows through Audit Logs'' is accepted at *AMIA2022*
+- 5/2022: My research was highlighted in VU Provost C. Cybele Raver's [https://www.youtube.com/watch?v=jG69wEmkRj4 keynote] at [https://www.vanderbilt.edu/modern-conflict/ The Vanderbilt Summit on Modern Conflict]
+- 5/2022: Our paper [https://arxiv.org/pdf/2206.03426.pdf ``Improving Fairness in Graph Neural Networks
+via Mitigating Sensitive Attribute Leakage''] is accepted at *KDD2022*
+- 5/2022: Our paper ``On Structural Explanation of Bias in Graph Neural Networks'' is accepted at *KDD2022*
+- 5/2022: Our paper [https://arxiv.org/pdf/2202.05240.pdf ``ChemicalX: A Deep Learning Library for Drug Pair Scoring''] is accepted at *KDD2022* and corresponding open-source library is available [https://github.com/astrazeneca/chemicalx here]
+- 5/2022: Our workshop [https://gta3.hrl.com Graph Techniques for Adversarial Acticity Analytics (GTA3)] was accepted at *IEEE BigData2022*
+- 5/2022: Congratulations to my student [https://yuwvandy.github.io/ Yu Wang] for being awarded *Vanderbilt's C. F. Chen Best Paper Award* in Computer Science for his paper [papers/cikm21-tree_decomposed_gnn.pdf `Tree Decomposed Graph Neural Network']!
+- 4/2022: Our workshop [https://mlog-workshop.github.io/ Machine Learning on Graphs (MLoG)] is accepted at *ICDM2022* (2nd iteration)
+- 3/2022: Awarded *Outstanding PC Member Award* at *WSDM2022* (with credit going to NDS subreviewers [https://yuwvandy.github.io/ Yu Wang], [https://yuyingzhao.github.io/ Yuying Zhao], [https://yunchaoliu.github.io/ Yunchao (Lance) Liu], [https://lizhaoqing.github.io/ Zhaoqing Li])
+- 3/2022: Congratulations to my student [https://yunchaoliu.github.io/ Yunchao (Lance) Liu] for being awarded the *Nvidia Academic Hardware Grant* for his project on ``Interpretable 3D Graph Neural Networks for Drug Discovery!''
+- 2/2022: Preprint [https://arxiv.org/abs/2202.05240 ``ChemicalX: A Deep Learning Library for Drug Pair Scoring'']
+- 2/2022: Accepted to attend the ASEE DELTA Junior Faculty Institute
+- 2/2022: Invited to serve as *PC member* for WebSci2022 and Graph Learning Workshop@WebConf2022
+- 1/2022: Our book chapter [https://link.springer.com/chapter/10.1007/978-981-16-6054-2_18 ``Graph Neural Networks: Self-supervised Learning''] is published in the new edited Springer book ``Graph Neural Networks: Foundations, Frontiers, and Applications''!
+- 1/2022: Invited to serve as *SPC member* for ICWSM2022
+- 2022: Invited to serve as a grant proposal panelist for *NSF* during 2022
+~~
+
+~~
+=== 2021
+- 12/2021: *Topic Editor* of [https://www.frontiersin.org/research-topics/30288/machine-learning-on-complex-graphs Machine Learning on Complex Graph] - Frontiers in Big Data 
+- 12/2021: Preprint [https://arxiv.org/pdf/2112.00238.pdf ``Imbalanced Graph Classification via Graph-of-Graph Neural Networks'']
+- 12/2021: Introduced CS and AI topics to students at [http://www.tisweb.net/ Tohoku International School] through [https://www.skypeascientist.com/ Skype a Scientist]
+- 11/2021: Invited to serve as *SPC member* for KDD2022
+- 11/2021: Our workshop [https://mlog-workshop.github.io/ ``Machine Learning on Graphs (MLoG)''] is accepted at *WSDM2022*
+- 10/2021: Preprint [https://arxiv.org/pdf/2110.12035.pdf ``Distance-wise Prototypical Graph Neural Network for Imbalanced Node Classification'']
+- 9/2021: Preprint of our review on [papers/ssl_for_gnns.pdf ``Graph Neural Networks: Self-supervised Learning'']
+- 9/2021: Invited to be a judge for VandyHacks 2021 (VU's premier student hackathon)
+- 9/2021: Invited to serve as *PC member* for The Web Conference 2022
+- 8/2021: Invited to serve as *Social Media and Publicity Chair of KDD2022*
+- 8/2021: Invited to serve as *PC member* for [https://gta3.hrl.com/ GTA3@BigData2021]
+- 8/2021: Invited to serve as *SPC member* for WSDM2022
+- 8/2021: My PhD student [https://yuwvandy.github.io/ Yu Wang]'s first paper since joining NDS [papers/cikm21-tree_decomposed_gnn.pdf `Tree Decomposed Graph Neural Network'] is accepted at *CIKM2021*
+- 8/2021: Our paper [https://arxiv.org/pdf/2105.04493.pdf `Graph Feature Gating Networks'] is accepted at *CIKM2021*
+- 8/2021: Our paper [https://arxiv.org/pdf/1902.10307.pdf `Deep Adversarial Network Alignment'] is accepted at *CIKM2021*
+- 7/2021: Our paper [https://arxiv.org/pdf/2009.09307.pdf `Road to the White House: Analyzing the Relations Between Mainstream and Social Media During the U.S. Presidential Primaries'] is accepted at *ACM Hypertext2021*
+- 6/2021: Awarded *Best Reviewer Award* at *ICWSM2021*
+- 6/2021: Our paper [https://arxiv.org/pdf/2108.02924.pdf `Interpretable Visual Understanding with Cognitive Attention Network'] is accepted at *ICANN2021*
+- 6/2021: Invited to serve as *PC member* for ICLR2021
+- 5/2021: Out paper [https://arxiv.org/pdf/1906.03750.pdf ``Graph Adversarial Attack via Rewiring'']  is accepted at *KDD2021*
+- 5/2021: Invited to serve as *PC member* for IEEE BigData2021 and CIKM2021
+- 4/2021: Invited to serve as *PC member* for EMNLP2021, IRI2021, and NeurIPS2021
+- 4/2021: Awarded *SIAM Early Career Travel Award* for SDM2021 supported by NSF
+- 4/2021: Our paper [papers/self_supervised_learning_on_graphs.pdf
+``Self-supervised Learning on Graphs: Deep Insights and New
+Directions''] is accepted at SSL@WWW2021
+- 3/2021: Invited to serve as *PC member* for GNNSys'21 Workshop @ MLSys'21
+- 2/2021: Invited to serve as *Doctoral Consortium Chair of WSDM2022*
+- 2/2021: I received the Fall 2020 *[https://engineering.vanderbilt.edu/news/2021/five-engineering-faculty-recognized-with-innovative-teaching-awards Innovative Teaching Award]* from the School of Engineering
+- 1/2021: Invited to serve as *PC member* for WebSci2021
+- 2021: Invited to serve (twice) as a grant proposal panelist for *NSF* during 2021
+~~
+
+~~
+=== 2020
+- 12/2020: Invited to serve as *PC member* for ICML2021
+- 12/2020: Our paper ``Stock Selection via Spatiotemporal Hypergraph
+Attention Network: A Learning to Rank Approach'' is accepted at
+*AAAI2021*
+- 12/2020: Invited to serve as *PC member* for ACL2021
+- 11/2020: Invited to serve as *PC member* for KDD2021
+- 11/2020: Introduced CS and AI topics to students at [https://www.ardsleyschools.org/hs Ardsley High
+School] through [https://www.skypeascientist.com/ Skype a Scientist]
+- 11/2020: Panelist on the [https://phd-recruiting.etosch.w3.uvm.edu/
+``Graduate School is not a Job'' ] graduate recruitment event
+- 10/2020: Our paper ``Node Similarity Preserving Graph Convolutional
+Networks'' is accepted at *WSDM2021*
+- 10/2020: Our paper ``CopyAttack: Attacking Black-box Recommendations
+via Copying Cross-domain User Profiles'' is accepted at *ICDE2021*
+- 10/2020: Gave an invited talk ``Navigating the Faculty Job Search'' in Michigan State's College of Engineering Graduate Lunch \&
+Learn seminar
+- 9/2020: Gave an invited talk ``Graph Neural Networks: Social
+Networks and Beyond'' in the Biomedical Engineering Department at
+Vanderbilt Unv.
+- 9/2020: Gave an invited talk at 
+[https://www.changeplusplus.org/ Change\+\+]
+- 9/2020: Our tutorial ``Graph Neural Networks: Models and Applications'' has been accepted by *AAAI2021*
+- 9/2020: Preprint  [https://arxiv.org/pdf/2009.09307.pdf ``Road to
+the White House: Analyzing the Relations Between Mainstream and Social
+Media During the U.S. Presidential Primaries'']
+- 9/2020: Invited to serve as *PC member* for IJCAI2021
+- 9/2020: Invited to serve as *PC member* for WWW2021
+- 9/2020: Our paper ``Understanding and Promoting Teacher Connections in Online Social
+Media: A Case Study on Pinterest.'' is accepted at *IEEE TALE2020*
+- 8/2020: Invited to serve as *Proceeding Chair of KDD2021*
+- 8/2020: Our paper ``Learning from Incomplete Labeled Data via
+Adversarial Data Generation'' is accepted at *ICDM2020*
+- 8/2020: Invited to serve as *PC member* for AAAI2021
+- 8/2020: Invited to serve as *PC member* for
+[http://gta3.ccni.hrl.com/ GTA3@BigData2020]
+- 8/2020: *Invited keynote* at joint workshops 
+[https://deep-learning-graphs.bitbucket.io/dlg-kdd20/ Deep
+Learning on Graphs: Methods and Applications] and
+[http://www.mlgworkshop.org/2020/ Mining and Learning with Graphs] at KDD2020
+- 8/2020: Invited to serve as a *reviewer* for EAAI2021. 
+- 8/2020: Awarded *KDD2020 Student Registration Award* (and partial KDD2021
+registation credit) from NSF and SIGKDD
+- 8/2020: *I joined Vanderbilt University and established the Network
+and Data Science (NDS) Lab*
+~~
+
+
+
+

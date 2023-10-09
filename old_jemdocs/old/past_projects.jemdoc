@@ -1,0 +1,238 @@
+# jemdoc: menu{MENU}{past_projects.html}
+= Tyler Derr -- Past Projects
+
+
+= Projects at Michigan State University
+== [http://beacon-center.org/ BEACON | An NSF Center for the Study of Evolution in Action]
+
+
+=== Evolving Multi-Layer Markov Network Brains Using Adaptive Complexification
+###### [downloads/TylerDerr_BEACONCongress2016_Poster.pdf Download
+#Poster(pdf)] \n
+#*Past MSU Advisor* [http://www.cse.msu.edu/~punch/ Dr. William F. Punch] \n
+#*Abstract:*\n
+- Developed an adaptive complexification method for MNBs to evolve
+the necessary complexity level in regards to layers and hidden nodes
+in addition to their connections in the network to solve boolean logic
+problems and Super Mario Bros. #for the the network increasingly 
+#A major decision in evolving any kind of graph-based structure (e.g.,
+#genetic programming, neuroevolution, Markov Network Brain (MNB)) is
+#whether to have a fixed topology and to only evolve the internals
+#(e.g., node operators, connection weights, logic tables), or to allow
+#modifications to the topology as well (e.g., adding\/removing
+#connections\/nodes in the graph). There has been plenty of previous
+#work in evolving the graph structures in both neuroevolution and
+#genetic programming, which has been the motivation of investigating
+#similar techniques for MNBs. Although current MNBs allow the number of
+#gates that connect the nodes of the network to vary throughout
+#evolution, they do not allow the node structure in the network to
+#evolve, and therefore currently a predefined fixed number of nodes
+#must be specified before the start of evolution. This can lead to a
+#number of issues and we have attempted to address them in this
+#work. Among other modifications, we have devised an adaptive
+#complexification method that allows the MNBs to evolve increasingly
+#more complex structures through the addition of more hidden
+#nodes. More specifically, the complexification method uses an adaptive
+#schedule to add an entire new layer to the networks at a time. We have
+#tested our approach on multiple boolean logic problems, such as the
+#digital multiplier, and also on the reinforcement learning benchmark
+#based on Super Mario Bros. This allowed us to evaluate the performance
+#when having strictly feed-forward networks and also when allowing
+#recurrent connections for the boolean logic problems and the
+#reinforcement learning benchmark, respectively.
+
+=== Evolving Quick Learners: Novel Initialization Strategies for
+Markov Network Brains
+######[downloads/TylerDerr_CSE848_Paper.pdf Download Paper(pdf)] \n
+######[downloads/TylerDerr_CSE848_Presentation.pdf Download
+######Presentation(pdf)] \n
+#*Past MSU Advisor* [http://www.cse.msu.edu/~punch/ Dr. William F. Punch] \n
+*Abstract:* \n
+- Developed ``pre-evolution'' multi-task pre-training strategies for better
+initialization of MNBs.
+#The initialization is quite an important factor for Evolutionary Algorithms because it can affect the speed at which
+#the algorithm converges and ultimately the final solution
+#quality as well. Even though this step in population based
+#algorithms is so crucial to obtaining a good solution (in a
+#reasonable period of time) it is usually ignored and overlooked. The most typical method used for initializing a population is to simply choose randomly generated ind#ividuals.
+#Although this has shown to work well, if we have additional
+#information about the problem we wish to solve, or about
+#the inherent properties of the search heuristic being used,
+#it might be worth exploiting this information. Our research
+#is specifically focused on the initialization process used in
+#Markov Brains and this paper proposes two novel initialization strategies. The first method we devised makes use of
+#a "pre-evolution" technique, while the second method
+#takes an approach to evolve the "pre-evolution" technique as
+#well as introduce the concept of multi-task learning in a way
+#we describe as "multi-task evolution." Our first
+#method is roughly equivalent to a randomly initialized population, but
+#constantly remains a few generations behind. When increasing the number of problems that are used for evolving the
+#initial population in our second method however, we see a
+#slight advantage over randomly initialized populations.
+
+#== Other
+#
+#=== Evaluation of methods to increase the Generalizability of Agents using Markov Brains
+######[downloads/TylerDerr_ZOL890_BetterGeneralizationInMarkovBrains.pdf
+######Download Presentation(pdf)] \n
+#We shall use a reference to the 90's film Groundhog Day starring Bill
+#Murray (just because we can). What if you were to relive the same day,
+#everyday? Well, this is the kind of loop that Bill Murray's character
+#was stuck in for most of the duration of the movie. Now what if we
+#take this one step further and imagine if not only you relived the
+#same day again and again, but so did your offspring; in fact, what if
+#everyone in existence was placed into the exact same environment for
+#each day of their life. These ideas lead nicely into the actual topic
+#of the project. We investigated the effect a changing environment has
+#on the ability for the brains of a species, which were evolved
+#overtime, to handle generalizations. 
+
+#=== Review of Shared Accounts Problem in Recommender Systems
+######[downloads/TylerDerr_ReviewSharedAccts_RecSys_Presentation.pdf
+######Download Presentation(pdf)] \n
+#A presentation that was made as a review of current works in dealing
+#with the problem of shared accounts in recommender systems. Note: The
+#images in my presentation were taken from the presentations\/papers of
+#the two works reviewed. \n
+#Papers discussed/presented:
+#- K. Verstrepen, and B. Goethals. Top--N Recommendation for Shared Accounts. In Proceedings of the 9#th
+#ACM Conference on Recommender Systems, ACM, 2015.
+#- A. Zhang, N.Fawaz, S. Ioannidis, and A. Montanari. Guess who rated
+#this movie: Identifying users through subspace clustering. in UAI, 2012.
+
+#=== Paper Presentation: Evolving Deep Unsupervised Convolutional Networks for Vision-Based Reinforce#ment Learning
+#######[downloads/TylerDerr_CSE848_PaperPresentation.pdf Download Presentation(pdf)] \n
+#A presentation that was made for the following paper:
+#Koutnik, Jan, Jürgen Schmidhuber, and Faustino Gomez."Evolving deep
+#unsupervised convolutional networks for vision-based reinforcement
+#learning. Proceedings of the 2014 Annual Conference on Genetic and
+#Evolutionary Computation. ACM, 2014.
+
+
+
+
+= Projects at The Pennsylvania State University
+== Master's Thesis:
+=== A Clustering Approach to the Bounded Diameter Minimum Spanning Tree Problem Using Ants
+[https://turing.cs.hbg.psu.edu/mspapers/sources/tyler-derr.pdf
+Download Thesis(pdf)] \n
+#[downloads/TylerDerr_MastersThesis_Presentation_Slides.pdf Download
+#Presentation Slides(pdf)] \n
+#[downloads/TylerDerr_MastersThesis_Presentation_Handout.pdf Download
+#Presentation Handout(pdf)] \n
+*Master's Advisor:* \n[https://turing.cs.hbg.psu.edu/~bui/ Dr. Thang N. Bui] at
+Penn State Harrisburg \n
+*Abstract:*\n
+The bounded diameter minimum spanning tree problem is the problem of
+finding a minimum cost spanning tree of a graph such that the number
+of edges along the longest path in the tree is at most d. This problem
+is well known to be NP-hard. We present an ant-based algorithm for
+this problem in which we use two species of ants. The first species is
+used to discover clusters in the vertex set and then a bounded
+diameter spanning tree (BDST) is created within each cluster. The
+second species is then used to connect the cluster BDSTs together
+building a bounded diameter spanning tree for the whole graph. This
+tree is then locally optimized yielding a solution to the overall
+problem. Experimental tests have been conducted on two types of
+complete graphs, 135 Euclidean and 120 non-Euclidean, totalling 255
+graphs. Each Euclidean graph consists of a set of vertices randomly
+placed in the unit square and the edge cost between two vertices is
+the Euclidean distance between them. The non-Euclidean graphs are
+structured such that all of the edge weights in the graph have been
+randomly selected from [0.01,0.99]. For the Euclidean graphs the
+results show that our algorithm achieves solutions close to the best
+known for most of the instances. However, on the non-Euclidean graphs
+our algorithm has obtained new best known solutions for the majority
+of the graphs and has come very close to the best known in the
+others.
+
+== Yue Lab
+=== A Supervised Learning Approach to the Prediction of Hi-C Data
+######[downloads/TylerDerr_EncodeUserMeeting2016_Presentation.pdf Download
+######Presentation 1(pdf)] \n
+######[downloads/TylerDerr_PredictingHiC_Presentation.pdf Download
+######Presentation 2(pdf)] \n
+[downloads/TylerDerr_EncodeUserMeeting2016_Poster.pdf Download
+Poster(pdf)] \n
+*Supervisor:* [http://www.yuelab.org Dr. Feng Yue] at Penn State College of
+Medicine \n
+#*Abstract:* \n
+- Developed a machine learning framework for the prediction of
+3-dimensional genome organization data, more specifically
+high-throughput chromatin conformation capture (Hi-C). # (i.e., Hi-C) that uncovered the
+#impactfulness of features at various interaction distances along the
+#genome.
+- The framework further allowed cross-tissue\/cell prediction helping
+to gain insights into tissue-specific gene expression while
+discovering novel biological insights into which genomic\/epidenomic
+features are critical towards chromatin interactions. 
+
+#3-Dimentional genome organization is essential for the tissue-specific
+#and developmental stage-specific gene expression, as it can reveal the
+#physical interactions between distal regulatory elements and their
+#target genes. Several recent high-throughput technologies based on
+#chromatin conformation capture have emerged and given us an
+#unprecedented opportunity to study the higher-order genome
+#organization. Among them, Hi-C technology shows the greatest potential
+#due to its unbiased genome-wide coverage. Unfortunately, due to the
+#sequencing cost and the complex nature of the experimental procedure,
+#the application of Hi-C has only been limited to a small number of
+#cell types. At the same time, thousands of epigenomics date sets have
+#been generated through the ENCODE and Roadmap Epigenomics projects.
+#
+#Here, we present a supervised machine-learning framework based on
+#random forest to impute Hi-C interactions, by taking advantage of the
+#published epigenomic data from ENCODE and Roadmap Epigenomics
+#projects. Our prediction model is based on the combination of genomic
+#features (such as GC content and mappability) and epigenomics features
+#(such as histone modifications and transcription factors). The result
+#shows that our computational model can accurately predicted Hi-C
+#interaction matrices when compared with experimentally generated data,
+#with Pearson correlation efficiency r=0.979 when trained and predicted
+#in the same cell type (GM12878) and r = 0.962 when trained and predict
+#in different cell lines (GM vs K562). Moreover, we observe that
+#different features possess different predicting powers and even for
+#the same feature, it has different predicting power at different
+#distance. For example, CTCF carries more weight when predicting
+#long-range interaction at 2MB distance than 40kb.
+
+#This work provides an extremely useful resource in tissue\/cell types
+#where Hi--C data is not available. It will also be a huge boost to the
+#study of tissue-specific gene expression by filling in the gaps
+#between functional genome annotation by the Roadmap Epigenomics
+#Project and 3D structure in hundreds of cell types. Moreover, our
+#machine learning strategy can also discover and rank the importance of
+#each genomic/epigenomic feature and suggests novel biological insights
+#underlying chromatin interactions.
+
+
+== Other
+
+=== Parallel Distributed Genetic Algorithm for Feature Selection
+######[downloads/TylerDerr_ParallelDistributedGA_FeatureSelection.pdf
+######Presentation(pdf)] \n
+Summary:
+- Created an island model distributed genetic algorithm using MPI to
+perform feature selection.
+#- Using an island model distributed genetic algorithm (GA) to search
+#for a subset of the features from a dataset that results in better
+#prediction accuracy.
+#- SVMlight was used to determine the fitness (i.e., accuracy) of a
+#feature subset
+#- Using MPI to distribute the computation in parallel on a cluster of
+#linux machines using the master/slave model
+
+=== Micromouse for the IEEE Region 2 Student Activites Conference
+- Worked in a team to design, build, and program a robotic mouse to
+solve the IEEE maze
+
+=== Software Verification and Security Analysis by Modeling System Specifications
+- Creating statecharts, modeling them using PROMELA, and designing
+safety/liveness properties in Linear Temporal Logic (LTL) to prove
+correctness using the Spin Model Checker
+
+=== Voice-to-Braille Translation System
+- Worked in a team to design and create a refreshable braille display
+based on utilizing an Arduino, Android App that communicated via
+bluetooth to our custom refreshable braille device
+

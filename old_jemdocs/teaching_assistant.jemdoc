@@ -1,0 +1,71 @@
+# jemdoc: menu{MENU}{teaching_assistant.html}
+= Tyler Derr - Teaching Assistant Experience
+
+== Michigan State University: Teaching Assistant
+
+=== CSE 480: Database Systems
+*Spring 2016 and Spring 2017* \n
+*Course Description:* \n
+Storage of and access to physical databases including indexing,
+hashing, and range accesses. Relational data models, database design
+principles, query languages, query optimization, transaction
+processing and recovery techniques. Object-oriented and distributed databases.
+
+=== CSE 231: Introduction to Programming I
+*Fall 2016* \n
+*Course Description: *\n
+Introduction to programming using Python. Design, implementation and
+testing of programs to solve problems primarily in engineering,
+mathematics and science. Programming fundamentals, functions, classes,
+lists, and dictionaries. 
+
+=== CSE 410: Operating Systems
+*Fall 2015 \& Summer 2016* \n
+*Course Description:* \n
+History and evolution of operating systems. Process and processor
+management. Primary and auxiliary storage management. Performance
+evaluation, security, distributed systems. Case studies of modern
+operating systems.
+
+
+
+
+== The Pennsylvania State University: Graduate Assistant
+
+=== COMP 505: Theory of Computation (Graduate Level)
+*Fall 2014* \n
+*Course Description:* \n
+ The course deals with topics in theoretical computer science,
+ including some formal language theory, decidability, undecidability,
+ and computational complexity. . 
+
+=== CMPSC 122: Intermediate C++
+*Fall 2013 \& Spring 2014* \n
+*Course Description:*\n
+Object-oriented programming, recursion, fundamental
+data structures (including stacks, queues, linked lists, hash tables,
+trees, and graphs), the basics of algorithmic analysis, and an
+introduction to the principles of language translation. 
+
+
+=== CMPSC 360: Discrete Mathematics
+*Spring 2014* \n
+*Course Description:*\n
+Discrete mathematics and foundations for modern computer
+science. Topics include sets, relations, logic, algorithms, graphs,
+finite state machines and regular expressions.
+
+
+=== CMPSC 441: Artificial Intelligence
+*Spring 2014* \n
+*Course Description:* \n
+Problem solving, search techniques including local search and genetic
+algorithms, knowledge representation, planning, learning, and neural
+networks.
+
+
+=== CMPSC 469: Formal Languages
+*Fall 2013* \n
+*Course Description:* \n
+Regular, context free, recursive, and recursively enumerable
+languages; associated machine models; applications. 
