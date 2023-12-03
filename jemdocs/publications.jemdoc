@@ -27,10 +27,12 @@ Haochen Liu, *Tyler Derr*, Zitao Liu, and Jiliang Tang. \n
 
 == 2023
 
+. An In-depth Analysis of the Broken Ties on Twitter. \n
+Kiana Kheiri, Muhammad Fawad Akbar Khan, Tyler Derr, and Hamid Karimi. \n In Proceedings of the IEEE International Conference on Big Data (Big Data), Sorrento, Italy, December 15-18, 2023.\n
 . [https://arxiv.org/abs/2306.06202 NeuroGraph: Benchmarks for Graph Machine Learning in Brain Connectomics.] \n
 Anwar Said, Roza G. Bayrak, *Tyler Derr*, Mudassir Shabbir, Daniel Moyer, Catie Chang, Xenofon Koutsoukos. \n Advances in Neural Information Processing (NeurIPS), New Orleans, LA, USA, December 10 - 16, 2023. \n
 \[Code [https://github.com/Anwar-Said/NeuroGraph repo]\] \[Documentation [https://anwar-said.github.io/anwarsaid/neurograph.html link]\] \[Datasets [https://pytorch-geometric.readthedocs.io/en/latest/generated/torch_geometric.datasets.NeuroGraphDataset.html link]\]\n
-. Enhanced Graph Neural Networks with Ego-Centric Spectral Subgraph Embeddings Augmentation. Anwar Said, Mudassir Shabbir, *Tyler Derr*, Waseem Abbas, Xenofon Koutsoukos. \n In Proceedings of the 22nd IEEE International Conference on Machine Learning and Applications (ICMLA), Jacksonville, FL, USA, December 15-17, 2023. \n
+. Enhanced Graph Neural Networks with Ego-Centric Spectral Subgraph Embeddings Augmentation. \n Anwar Said, Mudassir Shabbir, *Tyler Derr*, Waseem Abbas, Xenofon Koutsoukos. \n In Proceedings of the 22nd IEEE International Conference on Machine Learning and Applications (ICMLA), Jacksonville, FL, USA, December 15-17, 2023. \n
 . [https://ieeexplore.ieee.org/abstract/document/10114977 Adversarial Attacks for Black-box Recommender Systems via Copying Transferable Cross-domain User Profiles.] \n
 Wenqi Fan, Xiangyu Zhao, Qing Li, *Tyler Derr*, Yao Ma, Hui Liu, Jianping Wang, Jiliang Tang. \n
 IEEE Transactions on Knowledge and Data Engineering, 2023. \
