@@ -51,15 +51,19 @@ Tyler directs the [http://my.vanderbilt.edu/nds Network and Data Science (NDS)] 
 
 ~~
 === 2023
+- 12/2023: Our paper ``Leveraging Opposite Gender Interaction Ratio as a Path Towards Fairness in Online Dating Recommendations Based on User Sexual Orientation'' is accepted at *AAAI2024*
+- 12/2023: Our paper [https://arxiv.org/abs/2308.11730 ``Knowledge Graph Prompting for Multi-Document Question Answering''] is accepted at *AAAI2024*
 - 11/2023: Our tutorial ``Data-Quality-Aware Graph Machine Learning'' is accepted at *SDM2024*
 - 11/2023: Invited to serve as *Associate Editor* for Tsinghua Science and Technology
 - 11/2023: Our paper ``An In-depth Analysis of the Broken Ties on Twitter'' is accepted at IEEE BigData2023
 - 11/2023: Invited to participate in the Global Academic Reputation Survey by *Times Higher Education (THE)* contributing to the next World University Rankings
+- 11/2023: Preprint [https://arxiv.org/pdf/2310.04612.pdf ``Robust Graph Neural Networks via Unbiased Aggregation'']
 - 11/2023: Invited to serve as *Student Travel Chair for KDD2024* 
 - 11/2023: Will give an *invited keynote* at the Graph Techniques for Adversarial Activity Analytics (GTA3) Workshop at IEEE BigData'23
 - 11/2023: Our workshop [https://mlog-workshop.github.io/ Machine Learning on Graphs (MLoG)] is accepted at *WSDM2024* (5th iteration)
 - 11/2023: Our paper [https://arxiv.org/abs/2308.11730 ``Knowledge Graph Prompting for Multi-Document Question Answering''] is accepted by the New Frontiers in Graph Learning (GLFrontiers) Workshop for oral presentation at NeurIPS
 - 11/2023: Gave an *invited talk* ``Data-Centric AI for Real-World Graph Applications'' in the ORNL Core Universities AI Workshop at Georgia Tech
+- 10/2023: Preprint [https://arxiv.org/pdf/2310.04612.pdf ``A Topological Perspective on Demystifying GNN-Based Link Prediction Performance''] 
 - 10/2023: Invited to serve as *Publicity Chair for DSAA2024* 
 - 10/2023: NeuroGraph [https://pytorch-geometric.readthedocs.io/en/latest/generated/torch_geometric.datasets.NeuroGraphDataset.html datasets] are now available in *PyG* 
 - 10/2023: Our paper [https://arxiv.org/abs/2310.12169 ``Enhanced Graph Neural Networks with Ego-Centric Spectral Subgraph Embeddings Augmentation''] is accepted at IEEE ICMLA2023
@@ -93,7 +97,7 @@ Learning in Brain Connectomics''] with code and data publicly availabe [https://
 - 3/2023: Our paper ``ADEPT: Autoencoder with Differentially Expressed Genes and Imputation for a Robust Spatial Transcriptomics Clustering'' is accepted at RECOMB-Seq 2023 and published in *iScience*
 - 3/2023: My PhD student [https://yunchaoliu.github.io/ Yunchao (Lance) Liu]'s gave an [https://www.youtube.com/watch?v=P73oEikxI3Y&list=PLoVkjhDgBOt11Q3wu8lr6fwWHn5Vh3cHJ&index=4 (recorded) invited talk] at *Molecular Modeling and Drug Discovery (M2D2)* organized by Mila and Valance Discovery presenting our work MolKGNN
 - 3/2023: Our workshop [https://mlog-workshop.github.io/ Machine Learning on Graphs (MLoG)] is accepted at *ICDM2023* (4th iteration)
-- 1/2023: Our paper [https://arxiv.org/abs/2207.06221 ``Collaboration-Aware Graph Neural Networks for Recommendation Systems''] is accepted at *ACM Web Conference*
+- 1/2023: Our paper [https://arxiv.org/abs/2207.06221 ``Collaboration-Aware Graph Neural Networks for Recommendation Systems''] is accepted at *ACM Web Conference (WWW2023)*
 - 2023: Invited and served (multiple times) as an external reviewer for *Research Grants Council (RGC) of Hong Kong* during 2023.
 - 2023: Invited (multiple) and served (twice) as a grant proposal panelist for *NSF* during 2023
 ~~

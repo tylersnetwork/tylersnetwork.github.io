@@ -2,11 +2,11 @@
 = Tyler Derr - Publications
 
 == Preprints
+. [https://arxiv.org/pdf/2310.04612.pdf A Topological Perspective on Demystifying GNN-Based Link Prediction Performance]. \n Yu Wang, Tong Zhao, Yuying Zhao, Yunchao Liu, Xueqi Cheng, Neil Shah, and *Tyler Derr*. \n \[Code [https://github.com/YuWVandy/Topo_LP_GNN repo]\]
+. [https://arxiv.org/pdf/2311.14934.pdf Robust Graph Neural Networks via Unbiased Aggregation]. \n Ruiqi Feng, Zhichao Hou, *Tyler Derr*, Xiaorui Liu. \n 
 . [https://arxiv.org/abs/2310.02164 Graph Unlearning: A Review]. \n Anwar Said, *Tyler Derr*, Mudassir Shabbir, Waseem Abbas, Xenofon Koutsoukos. \n 
 . [https://arxiv.org/abs/2308.16375 A Survey on Privacy in Graph Neural Networks: Attacks, Preservation, and Applications]. \n Yi Zhang, Yuying Zhao (co-first author), Zhaoqing Li, Xueqi Cheng, Yu Wang, Olivera Kotevska, Philip S Yu, *Tyler Derr*. \n
-. [https://arxiv.org/abs/2308.11730 Knowledge Graph Prompting for Multi-Document Question Answering.] \n Yu Wang, Nedim Lipka, Ryan A Rossi, Alexa Siu, Ruiyi Zhang, *Tyler Derr*. \n
 . [https://arxiv.org/abs/2307.04644 Fairness and Diversity in Recommender Systems: A Survey.] \n Yuying Zhao, Yu Wang, Yunchao Liu, Xueqi Cheng, Charu Aggarwal, and *Tyler Derr*. \n 
-. [https://www.mlgworkshop.org/2023/papers/MLG__KDD_2023_paper_22.pdf Fair Online Dating Recommendations for Sexually Fluid Users via Leveraging Opposite Gender Interaction Ratio.] \n Yuying Zhao, Yu Wang, Yi Zhang, Pamela Wisniewski, Charu Aggarwal and *Tyler Derr*. \n 
 . [https://www.biorxiv.org/content/10.1101/2023.04.17.537185v1 Integrating Expert Knowledge with Deep Learning Improves QSAR Models for CADD Modeling.] \n
 Yunchao ``Lance'' Liu, Rocco Moretti, Yu Wang, Bobby Bodenheimer, *Tyler Derr*, Jens Meiler. \n
 . [https://yuwvandy.github.io/paper/dpgnn.pdf Distance-wise Prototypical Graph Neural Network for Imbalanced Node Classification.] \n
@@ -23,12 +23,21 @@ Haochen Liu, *Tyler Derr*, Zitao Liu, and Jiliang Tang. \n
 
 
 
+== 2024
 
+. Leveraging Opposite Gender Interaction Ratio as a Path Towards Fairness in Online Dating Recommendations Based on User Sexual Orientation. \n
+Yuying Zhao, Yu Wang, Yi Zhang, Pamela Wisniewski, Charu Aggarwal, and *Tyler Derr*.\n
+In Proceedings of the 38th AAAI Conference on Artificial Intelligence (AAAI), Vancouver, CA, February 20-27, 2024. \n
+\[Code [https://github.com/YuyingZhao/Fair-Online-Dating-Recommendation repo]\]
+. [https://arxiv.org/pdf/2308.11730.pdf Knowledge Graph Prompting for Multi-Document Question Answering]. \n
+Yu Wang, Nedim Lipka, Ryan A Rossi, Alexa Siu, Ruiyi Zhang, and *Tyler Derr*. \n
+In Proceedings of the 38th AAAI Conference on Artificial Intelligence (AAAI), Vancouver, CA, February 20-27, 2024. \n
+\[Code [https://github.com/YuWVandy/KG-LLM-MDQA repo]\]
 
 == 2023
 
 . An In-depth Analysis of the Broken Ties on Twitter. \n
-Kiana Kheiri, Muhammad Fawad Akbar Khan, Tyler Derr, and Hamid Karimi. \n In Proceedings of the IEEE International Conference on Big Data (Big Data), Sorrento, Italy, December 15-18, 2023.\n
+Kiana Kheiri, Muhammad Fawad Akbar Khan, *Tyler Derr*, and Hamid Karimi. \n In Proceedings of the IEEE International Conference on Big Data (Big Data), Sorrento, Italy, December 15-18, 2023.\n
 . [https://arxiv.org/abs/2306.06202 NeuroGraph: Benchmarks for Graph Machine Learning in Brain Connectomics.] \n
 Anwar Said, Roza G. Bayrak, *Tyler Derr*, Mudassir Shabbir, Daniel Moyer, Catie Chang, Xenofon Koutsoukos. \n Advances in Neural Information Processing (NeurIPS), New Orleans, LA, USA, December 10 - 16, 2023. \n
 \[Code [https://github.com/Anwar-Said/NeuroGraph repo]\] \[Documentation [https://anwar-said.github.io/anwarsaid/neurograph.html link]\] \[Datasets [https://pytorch-geometric.readthedocs.io/en/latest/generated/torch_geometric.datasets.NeuroGraphDataset.html link]\]\n
@@ -296,11 +305,26 @@ Information and Knowledge Management (CIKM)/,
 
 
 
-= Symposiums / Workshops
+= Symposiums / Workshops (Non-archival)
 
-. Degree-related Bias in Link Prediction \n
-Yu Wang and Tyler Derr. \n
-In Proceedings of the 22nd International Conference on Data Mining Workshop (ICDMW), Orlando, FL, USA, November 28, 2022.
+. Knowledge Graph Prompting for Multi-Document Question Answering. \n
+Yu Wang, Nedim Lipka, Ryan A Rossi, Alexa Siu, Ruiyi Zhang, and *Tyler Derr*. \n
+New Frontiers in Graph Learning (GLFrontiers) Workshop @ NeurIPS, Oral Presentation, 2023. 
+. [https://graph-learning-benchmarks.github.io/assets/papers/glb2023/NeuroGraph_GLB_KDD.pdf NeuroGraph: Benchmarks for Graph Machine Learning in Brain Connectomics]. \n
+Anwar Said, Roza G. Bayrak, *Tyler Derr*, Mudassir Shabbir, Daniel Moyer, Catie Chang, and Xenofon Koutsoukos. \n
+The 3rd Workshop on Graph Learning Benchmarks @ ACM KDD, Oral Presentation, 2023. 
+. [https://www.mlgworkshop.org/2023/papers/MLG__KDD_2023_paper_22.pdf Fair Online Dating Recommendations for Sexually Fluid Users via Leveraging Opposite Gender Interaction Ratio]. \n
+Yuying Zhao, Yu Wang, Yi Zhang, Pamela Wisniewski, Charu Aggarwal, and *Tyler DerrD*. \n
+The 18th International Workshop on Mining and Learning with Graphs (MLG) @ KDD, Poster, 2023.
+. [https://kdd.org/kdd2023/wp-content/uploads/2023/11/yang2023friendship.pdf The Friendship Paradox: An Analysis on Signed Social Networks with Positive and Negative Links]. \n
+Catherine Yang, Yuying Zhao, and *Tyler Derr*. \n
+29th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD) - Undergraduate Consortium, Presentation and Poster, 2023.
+. [https://www.sciencedirect.com/science/article/pii/S2589004223008696] ADEPT: Autoencoder with Differentially Expressed Genes and Imputation for a Robust Spatial Transcriptomics Clustering. \n
+Yuying Zhao (co-first author), Yunfei Hu (co-first author), Curtis T. Schunk, Yingxiang Ma, *Tyler Derr*, and Xin Maizie Zhou. \n
+RECOMB-Seq Conference, Presentation and poster, 2023. 
+. [https://arxiv.org/pdf/2112.00238.pdf Imbalanced Graph Classification via Graph-of-Graph Neural Network]. \n
+Yu Wang, Yuying Zhao, Neil Shah, *Tyler Derr.* \n
+The 1st International Workshop on Machine Learning on Graphs (MLoG) @ WSDM, Poster, 2022. 
 . [https://yuwvandy.github.io/paper/dpgnn.pdf Distance-wise Prototypical Graph Neural Network for Imbalanced Node Classification.] \n
 Yu Wang, Charu Aggarwal, and *Tyler Derr*. \n
 KDD 17th International Workshop on Mining and Learning with Graphs (MLG), Washington D.C., USA, August 15, 2022.
