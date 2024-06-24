@@ -2,7 +2,9 @@
 = Tyler Derr - Publications
 
 == Preprints
-#. [LGGM: Large Graph Generative Models]. \n Yu Wang, Ryan Rossi, Namyong Park, Huiyuan Chen, Nesreen K.Ahmed, Puja Trivedi, Franck Dernoncourt, Danai Koutra, and *Tyler Derr*.
+. [https://arxiv.org/abs/2406.15283v1 FT-AED: Benchmark Dataset for Early Freeway Traffic Anomalous Event Detection]. \n Austin Coursey, Junyi Ji, Marcos Quinones-Grueiro, William Barbour, Yuhang Zhang, *Tyler Derr*, Gautam Biswas, and Daniel B. Work. \n 
+. [https://arxiv.org/abs/2406.11685 Edge Classification on Graphs: New Directions in Topological Imbalance]. \n Xueqi Cheng, Yu Wang, Yunchao (Lance)Liu, Yuying Zhao, Charu C. Aggarwal, *Tyler Derr*. \n  
+. [https://arxiv.org/abs/2406.05109 Large Graph Generative Models]. \n Yu Wang, Ryan Rossi, Namyong Park, Huiyuan Chen, Nesreen K.Ahmed, Puja Trivedi, Franck Dernoncourt, Danai Koutra, and *Tyler Derr*.
 . [https://arxiv.org/abs/2405.17602 Augmenting Textual Generation via Topology Aware Retrieval]. \n Yu Wang, Nedim Lipka, Ruiyi Zhang, Alexa Siu, Yuying Zhao, Bo Ni, Xin Wang, Ryan Rossi, and *Tyler Derr*. \n
 . [https://arxiv.org/pdf/2311.14934.pdf Robust Graph Neural Networks via Unbiased Aggregation]. \n Ruiqi Feng, Zhichao Hou, *Tyler Derr*, Xiaorui Liu. \n 
 . [https://arxiv.org/abs/2310.02164 Graph Unlearning: A Review]. \n Anwar Said, *Tyler Derr*, Mudassir Shabbir, Waseem Abbas, Xenofon Koutsoukos. \n 
@@ -26,7 +28,7 @@ Haochen Liu, *Tyler Derr*, Zitao Liu, and Jiliang Tang. \n
 == 2024
 . [https://arxiv.org/abs/2307.04644 Fairness and Diversity in Recommender Systems: A Survey.] \n Yuying Zhao, Yu Wang, Yunchao Liu, Xueqi Cheng, Charu Aggarwal, and *Tyler Derr*. \n
 ACM Transactions on Intelligent Systems and Technology (TIST). \n
-. Knowledge Graph-based Session Recommendation with Session-Adaptive Propagation. \n
+. [https://arxiv.org/abs/2402.11302 Knowledge Graph-based Session Recommendation with Session-Adaptive Propagation.] \n
 Yu Wang, Amin Javari, Janani Balaji, Walid Shalaby, Tyler Derr and Xiquan Cui. \n
 In Proceedings of the ACM Web Conference (TheWebConf), Singapore, May 13-17, 2024. \n
 . [https://arxiv.org/abs/2402.13495 Can One Embedding Fit All? A Multi-Interest Learning Paradigm Towards Improving User Interest Diversity Fairness]. \n
@@ -95,7 +97,7 @@ Coming soon!
 Yu Wang, Yuying Zhao, Neil Shah, and *Tyler Derr*. \n
 In Proceedings of the 31th ACM International Conference on Information and Knowledge Management (CIKM), Atlanta, GA, USA, October 17-21, 2022. \n
 \[Code [https://github.com/YuWVandy/G2GNN repo]\] \n
-. [https://tylersnetwork.github.io/publications.html Inferring EHR Utilization Workflows through Audit Logs.] \n
+. [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10148376/ Inferring EHR Utilization Workflows through Audit Logs.] \n
 Xinmeng Zhang, Yuying Zhao (co-first author), Chao Yan, *Tyler Derr*, and You Chen. \n
 AMIA Annual Symposium Proceedings. Vol. 2022. American Medical Informatics Association, Washington D.C., USA, November 5-9, 2022.\n
 Coming soon!
