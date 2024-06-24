@@ -52,11 +52,11 @@ Tyler directs the [http://my.vanderbilt.edu/nds Network and Data Science (NDS)] 
 
 ~~
 === 2024
-- 6/2024: Our dataset and interactive visualization for early freeway traffic anomalous event detection (FT-AED) is now available ([https://vu.edu/ft-aed/ link]) which is the first large-scale lane-level freeway traffic dataset for anomaly detection
+- 6/2024: Our dataset and interactive visualization for early freeway traffic anomalous event detection (FT-AED) is now available ([https://vu.edu/ft-aed/ link]), which is the first large-scale lane-level freeway traffic dataset for anomaly detection
 - 6/2024: Preprint [``https://arxiv.org/pdf/2406.15283v1 FT-AED: Benchmark Dataset for Early Freeway Traffic Anomalous Event Detection''] 
 - 6/2024: Preprint [https://arxiv.org/abs/2406.11685 ``Edge Classification on Graphs: New Directions in Topological Imbalance'']
 - 6/2024: Received NSF Award to support student travel for US-based students to attend KDD2024
-- 6/2024: Our LGGM Text2Graph Generation [https://lggm-lg.github.io/ demo] is now live
+- 6/2024: Our LGGM Text2Graph Generation [https://lggm-lg.github.io/ demo] is now live, which is the first large graph generative model that supports generating graphs from textual descriptions
 - 6/2024: Preprint [https://arxiv.org/abs/2406.05109 ``Large Graph Generative Models'']
 - 5/2024: Preprint [https://arxiv.org/abs/2405.17602 ``Augmenting Textual Generation via Topology Aware Retrieval'']
 - 5/2024: Invited to serve as *Student Travel Chair for WSDM2025*
