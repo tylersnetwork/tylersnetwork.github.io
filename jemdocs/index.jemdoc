@@ -53,6 +53,7 @@ Tyler directs the [http://my.vanderbilt.edu/nds Network and Data Science (NDS)] 
 ~~
 === 2024
 - 7/2024: Teaching an invited summer course\/seminar series on Social Network Analysis at [http://en.scit.bjtu.edu.cn/ Beijing Jiaotong University]
+- 7/2024: Our tutorial ``Data-Quality-Aware Graph Machine Learning'' is accepted at *CIKM2024*
 - 7/2024: Our paper ``EDGE-UP: Enhanced Dynamic GNN Ensemble for Unfollow Prediction in Online Social Networks'' is accepted at *ASONAM2024*
 - 6/2024: Our dataset and interactive visualization for early freeway traffic anomalous event detection (FT-AED) is now available ([https://vu.edu/ft-aed/ link]), which is the first large-scale lane-level freeway traffic dataset for anomaly detection
 - 6/2024: Preprint [https://arxiv.org/pdf/2406.15283v1 ``FT-AED: Benchmark Dataset for Early Freeway Traffic Anomalous Event Detection''] 
@@ -86,7 +87,7 @@ Tyler directs the [http://my.vanderbilt.edu/nds Network and Data Science (NDS)] 
 - 12/2023: Our paper [https://arxiv.org/abs/2308.11730 ``Knowledge Graph Prompting for Multi-Document Question Answering''] in collaboration with Adobe Research is accepted at *AAAI2024*
 - 11/2023: Our tutorial ``Data-Quality-Aware Graph Machine Learning'' is accepted at *SDM2024*
 - 11/2023: Invited to serve as *Associate Editor* for Tsinghua Science and Technology
-- 11/2023: Our paper ``An In-depth Analysis of the Broken Ties on Twitter'' is accepted at IEEE BigData2023
+- 11/2023: Our paper ``An Analysis of the Dynamics of Ties on Twitter'' is accepted at IEEE BigData2023
 - 11/2023: Invited to participate in the Global Academic Reputation Survey by *Times Higher Education (THE)* contributing to the next World University Rankings
 - 11/2023: Preprint [https://arxiv.org/pdf/2310.04612.pdf ``Robust Graph Neural Networks via Unbiased Aggregation'']
 - 11/2023: Invited to serve as *Student Travel Chair for KDD2024* 
