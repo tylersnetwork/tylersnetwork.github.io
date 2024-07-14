@@ -20,6 +20,7 @@ gsed -i "${line}i <script type=\"text/javascript\" id=\"clustrmaps\" src=\"//cdn
 #gsed -i "${line}i <script type=\"text/javascript\" id=\"clustrmaps\" src=\"//cdn.clustrmaps.com/map_v2.js?d=leIDuRwlUzsESOVq6m32RqbgLChp2xkZYp22IZ7\QInU&cl=ffffff&w=a\"></script>" awards.html
 gsed -i "${line}i <script type=\"text/javascript\" id=\"clustrmaps\" src=\"//cdn.clustrmaps.com/map_v2.js?d=leIDuRwlUzsESOVq6m32RqbgLChp2xkZYp22IZ7\QInU&cl=ffffff&w=a\"></script>" openings.html
 gsed -i "${line}i <script type=\"text/javascript\" id=\"clustrmaps\" src=\"//cdn.clustrmaps.com/map_v2.js?d=leIDuRwlUzsESOVq6m32RqbgLChp2xkZYp22IZ7\QInU&cl=ffffff&w=a\"></script>" news.html
+gsed -i "${line}i <script type=\"text/javascript\" id=\"clustrmaps\" src=\"//cdn.clustrmaps.com/map_v2.js?d=leIDuRwlUzsESOVq6m32RqbgLChp2xkZYp22IZ7\QInU&cl=ffffff&w=a\"></script>" bjtu.html
 
 # Adding the office and Google Map link
 line=52

@@ -1,0 +1,29 @@
+# jemdoc: menu{MENU}{bjtu.html}
+= Social Network Analysis @ BJTU
+
+== Course Introduction
+Online social networks are ubiquitous complex systems where the data is inherently multimodal, with attributed graphs being a common way to model the intricate interactions and relationships within these networks. This course delves into techniques and recent research for analyzing such networks, focusing on the models and algorithms used to abstract their properties and make predictions. Key topics include network centrality measurements, generative graph models, computational methods for link prediction and recommender systems, performing clustering and classification on graphs, network diffusion, and graph representation learning, including graph neural network models and their applications. Additionally, we will cover aspects of trustworthy graph machine learning and explore methods for addressing data quality challenges in real-world data.
+
+== Tentative Schedule
+- 7.15 Monday:
+-- [bjtu-lectures/lecture1.pdf Lecture] on social network theories, graph properties, and random graph models
+-- [bjtu-assignments/assignment1.pdf Assignment]: Tutorial on NetworkX in Python
+- 7.16 Tuesday:
+-- Lecture on network centrality, link prediction, and recommender systems
+-- Assignment: Empirical analysis using NetworkX and RecBole
+- 7.17 Wednesday:
+-- Lecture on graph clustering, node/graph classification, and graph neural networks
+-- Assignment: Tutorial on PyTorch and PyG
+- 7.18 Thursday:
+-- Lecture on graph neural networks, including scalability, self-supervised learning, etc.
+-- Assignment: Further exploring the PyG Python package
+- 7.22 Monday:
+-- Lecture on data quality aware graph machine learning including noisy, biased, and imbalanced data, adversarial attack, etc.
+-- Assignment: Preparing presentation and thinking of research project ideas
+- 7.23 Tuesday:
+-- Lecture on trustworthy, interpretable, and responsible graph neural networks. Students give presentations on related topics in small groups
+-- Assignment: Preparing presentation and thinking of research project ideas
+- 7.24 Wednesday:
+-- Students present proposed research projects (in small groups) including motivation, methodology, experimental setup, etc., with open class discussion
+- 7.25 Thursday:
+-- Lecture on other GNN applications in, e.g., drug discovery, traffic forecasting, neuroimaging, and foundational models. Open discussion answering questions about any related course content. Additional topics on CV building, literature review, and research mentoring & job-hunting strategies for academia/industry.
