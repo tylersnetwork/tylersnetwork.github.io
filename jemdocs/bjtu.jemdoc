@@ -6,17 +6,17 @@ Online social networks are ubiquitous complex systems where the data is inherent
 
 == Tentative Schedule
 - 7.15 Monday:
--- [bjtu-lectures/lecture1.pdf Lecture] on social network theories, graph properties, and random graph models
--- [bjtu-assignments/assignment1.pdf Assignment]: Tutorial on NetworkX in Python
+-- Lecture on social network theories, graph properties, and random graph models
+-- Assignment: Tutorial on NetworkX in Python
 - 7.16 Tuesday:
 -- Lecture on network centrality, link prediction, and recommender systems
 -- Assignment: Empirical analysis using NetworkX and RecBole
 - 7.17 Wednesday:
 -- Lecture on graph clustering, node/graph classification, and graph neural networks
--- Assignment: Tutorial on PyTorch and PyG
+-- Assignment: Tutorial on PyTorch and exploring PyG
 - 7.18 Thursday:
 -- Lecture on graph neural networks, including scalability, self-supervised learning, etc.
--- Assignment: Further exploring the PyG Python package
+-- Assignment: Preparing presentation and thinking of research project ideas
 - 7.22 Monday:
 -- Lecture on data quality aware graph machine learning including noisy, biased, and imbalanced data, adversarial attack, etc.
 -- Assignment: Preparing presentation and thinking of research project ideas
