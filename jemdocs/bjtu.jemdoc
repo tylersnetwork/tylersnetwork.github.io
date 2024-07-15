@@ -4,6 +4,8 @@
 == Course Introduction
 Online social networks are ubiquitous complex systems where the data is inherently multimodal, with attributed graphs being a common way to model the intricate interactions and relationships within these networks. This course delves into techniques and recent research for analyzing such networks, focusing on the models and algorithms used to abstract their properties and make predictions. Key topics include network centrality measurements, generative graph models, computational methods for link prediction and recommender systems, performing clustering and classification on graphs, network diffusion, and graph representation learning, including graph neural network models and their applications. Additionally, we will cover aspects of trustworthy graph machine learning and explore methods for addressing data quality challenges in real-world data.
 
+Materials for the course can be found at: [https://vanderbilt365-my.sharepoint.com/:f:/g/personal/tyler_derr_vanderbilt_edu/EjgLHmibTNlFoT3psKJnKrEBsKEg5qqoaQpjLFO4dqC-tQ?e=JSXP5O link]
+
 == Tentative Schedule
 - 7.15 Monday:
 -- Lecture on social network theories, graph properties, and random graph models
