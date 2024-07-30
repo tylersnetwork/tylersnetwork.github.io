@@ -52,7 +52,10 @@ Tyler directs the [http://my.vanderbilt.edu/nds Network and Data Science (NDS)] 
 
 ~~
 === 2024
-- 7/2024: Teaching an invited summer course\/seminar series on Social Network Analysis at [http://en.scit.bjtu.edu.cn/ Beijing Jiaotong University]
+#- 8/2024: Invited to serve as *Doctoral Forum Co-Chair for SDM2025*
+#- 8/2024: Gave an *invited talk* ``Data Quality-Aware Graph Machine Learning'' in the School of Data Science at The Chinese University of Hong Kong, Shenzhen
+- 7/2024: Our paper [https://arxiv.org/abs/2405.17602 ``Augmenting Textual Generation via Topology Aware Retrieval''] is accepted at *CIKM2024*
+- 7/2024: Teaching an invited seminar series on Social Network Analysis at [http://en.scit.bjtu.edu.cn/ Beijing Jiaotong University]
 - 7/2024: Our tutorial ``Data-Quality-Aware Graph Machine Learning'' is accepted at *CIKM2024*
 - 7/2024: Our paper ``EDGE-UP: Enhanced Dynamic GNN Ensemble for Unfollow Prediction in Online Social Networks'' is accepted at *ASONAM2024*
 - 6/2024: Our dataset and interactive visualization for early freeway traffic anomalous event detection (FT-AED) is now available ([https://vu.edu/ft-aed/ link]), which is the first large-scale lane-level freeway traffic dataset for anomaly detection
