@@ -2,12 +2,12 @@
 = Tyler Derr - Publications
 
 == Preprints
+. [https://arxiv.org/pdf/2408.01129 A Survey of Mamba]. \n Haohao Qu, Liangbo Ning, Rui An, Wenqi Fan, *Tyler Derr*, Hui Liu, Xin Xu, Qing Li. \n
 . [https://arxiv.org/abs/2406.15283v1 FT-AED: Benchmark Dataset for Early Freeway Traffic Anomalous Event Detection]. \n Austin Coursey, Junyi Ji, Marcos Quinones-Grueiro, William Barbour, Yuhang Zhang, *Tyler Derr*, Gautam Biswas, and Daniel B. Work. \n 
-. [https://arxiv.org/abs/2406.11685 Edge Classification on Graphs: New Directions in Topological Imbalance]. \n Xueqi Cheng, Yu Wang, Yunchao (Lance)Liu, Yuying Zhao, Charu C. Aggarwal, *Tyler Derr*. \n  
+. [https://arxiv.org/abs/2406.11685 Edge Classification on Graphs: New Directions in Topological Imbalance]. \n Xueqi Cheng, Yu Wang, Yunchao (Lance)Liu, Yuying Zhao, Charu C. Aggarwal, *Tyler Derr*. \n 
 . [https://arxiv.org/abs/2406.05109 Large Graph Generative Models]. \n Yu Wang, Ryan Rossi, Namyong Park, Huiyuan Chen, Nesreen K.Ahmed, Puja Trivedi, Franck Dernoncourt, Danai Koutra, and *Tyler Derr*.
 . [https://arxiv.org/pdf/2311.14934.pdf Robust Graph Neural Networks via Unbiased Aggregation]. \n Ruiqi Feng, Zhichao Hou, *Tyler Derr*, Xiaorui Liu. \n 
 . [https://arxiv.org/abs/2310.02164 Graph Unlearning: A Review]. \n Anwar Said, *Tyler Derr*, Mudassir Shabbir, Waseem Abbas, Xenofon Koutsoukos. \n 
-. [https://arxiv.org/abs/2308.16375 A Survey on Privacy in Graph Neural Networks: Attacks, Preservation, and Applications]. \n Yi Zhang, Yuying Zhao (co-first author), Zhaoqing Li, Xueqi Cheng, Yu Wang, Olivera Kotevska, Philip S Yu, *Tyler Derr*. \n
 . [https://www.biorxiv.org/content/10.1101/2023.04.17.537185v1 Integrating Expert Knowledge with Deep Learning Improves QSAR Models for CADD Modeling.] \n
 Yunchao ``Lance'' Liu, Rocco Moretti, Yu Wang, Bobby Bodenheimer, *Tyler Derr*, Jens Meiler. \n
 . [https://yuwvandy.github.io/paper/dpgnn.pdf Distance-wise Prototypical Graph Neural Network for Imbalanced Node Classification.] \n
@@ -25,6 +25,7 @@ Haochen Liu, *Tyler Derr*, Zitao Liu, and Jiliang Tang. \n
 
 
 == 2024
+. [https://arxiv.org/abs/2308.16375 A Survey on Privacy in Graph Neural Networks: Attacks, Preservation, and Applications]. \n Yi Zhang, Yuying Zhao (co-first author), Zhaoqing Li, Xueqi Cheng, Yu Wang, Olivera Kotevska, Philip S Yu, *Tyler Derr*. \n IEEE Transactions on Knowledge and Data Engineering. \n
 . [https://arxiv.org/abs/2405.17602 Augmenting Textual Generation via Topology Aware Retrieval]. \n Yu Wang, Nedim Lipka, Ruiyi Zhang, Alexa Siu, Yuying Zhao, Bo Ni, Xin Wang, Ryan Rossi, and *Tyler Derr*. \n In Proceedings of the 33rd ACM International Conference on Information and Knowledge Management (CIKM), Boise, ID, USA, October 21-25, 2024. \n
 . EDGE-UP: Enhanced Dynamic GNN Ensemble for Unfollow Prediction in Online Social Networks. \n Soheila Farokhi, Arash Azizian Foumani, Xiaojun Qi, *Tyler Derr*, Hamid Karimi. \n In Proceedings of the 2024 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM), Calabria, Italy, September 2-5, 2024. \n
 . [https://arxiv.org/abs/2307.04644 Fairness and Diversity in Recommender Systems: A Survey.] \n Yuying Zhao, Yu Wang, Yunchao Liu, Xueqi Cheng, Charu Aggarwal, and *Tyler Derr*. \n
