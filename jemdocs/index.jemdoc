@@ -38,14 +38,21 @@ Tyler directs the [http://my.vanderbilt.edu/nds Network and Data Science (NDS)] 
 
 ~~
 === 2024
+ #- 10/2024: Gave an *invited talk* ``...'' in the [https://math.vanderbilt.edu/ellingmn/gtcsem.html Vanderbilt Graph Theory and Combinatorics Seminar]
+- 9/2024: Our paper [https://www.welqrate.org/ WelQrate: Defining the Gold Standard in Small Molecule Drug Discovery Benchmarking] is accepted at *NeurIPS2024*
+- 9/2024: Our paper [https://arxiv.org/pdf/2406.15283v1 FT-AED: Benchmark Dataset for Early Freeway Traffic Anomalous Event Detection] is accepted at *NeurIPS2024*
+- 9/2024: Our paper [https://arxiv.org/abs/2311.14934 Robust Graph Neural Networks via Unbiased Aggregation] is accepted at *NeurIPS2024*
+- 9/2024: Our paper ``FairNNV: The Neural Network Verification Tool For Certifying Fairness'' is accepted at ACM Conference on AI in Finance (*ICAIF2024*)
+#- 9/2024: Invited to judge for VandyHacks 2024 (VU's premier student hackathon)
+- 9/2024: Will give an *invited talk* at the [https://kil-workshop.github.io/KG-STAR/ Knowledge Graphs for Responsible AI (KG-STAR) Workshop] at CIKM2024
 - 8/2024: Our paper [https://arxiv.org/abs/2308.16375 ``A Survey on Privacy in Graph Neural Networks: Attacks, Preservation, and Applications''] is accepted at *IEEE TKDE*
-- 8/2024: Will give an *invited keynote* at the [https://oars-workshop.github.io/ Online and Adaptive Recommender Systems (OARS) Workshop] at CIKM2024
-- 8/2024: Invited to serve as *Associate Editor* for ACM Transactions on Knowledge Discovery from Data (TKDD)
+- 8/2024: Will give an *invited talk* at the [https://oars-workshop.github.io/ Online and Adaptive Recommender Systems (OARS) Workshop] at CIKM2024
+- 8/2024: Invited to serve as *Associate Editor* for ACM Transactions on Knowledge Discovery from Data (*TKDD*)
 - 8/2024: Gave an *invited keynote* ``Ethical AI in Recommender Systems: Fairness, Diversity, and Explainability'' at the [https://ai-activities.github.io/EAI-workshop-24/keynote/ Ethical Artificial Intelligence Methods and Applications (EAI-KDD) Workshop] at KDD2024
 - 8/2024: Preprint [https://arxiv.org/pdf/2408.01129 ``A Survey of Mamba'']
 - 8/2024: Invited to serve as *Doctoral Forum Co-Chair for SDM2025*
 - 8/2024: Gave an *invited talk* ``Data Quality-Aware Graph Machine Learning'' in the School of Data Science at [https://sds.cuhk.edu.cn/en The Chinese University of Hong Kong, Shenzhen] in their Discover CUHK-Shenzhen-ZJU Elite Students Summer Camp
-- 8/2024: Visited The Hong Kong Polytechnic University (PolyU) 
+- 8/2024: Visited [https://www.polyu.edu.hk/comp/ The Hong Kong Polytechnic University (PolyU)]
 - 7/2024: Our paper [https://arxiv.org/abs/2405.17602 ``Augmenting Textual Generation via Topology Aware Retrieval''] is accepted at *CIKM2024*
 - 7/2024: Taught an invited seminar series on Social Network Analysis at [http://en.scit.bjtu.edu.cn/ Beijing Jiaotong University]
 - 7/2024: Our tutorial [https://nds-vu.github.io/tutorials/cikm24/ ``Data-Quality-Aware Graph Machine Learning''] is accepted at *CIKM2024*
@@ -95,7 +102,7 @@ Tyler directs the [http://my.vanderbilt.edu/nds Network and Data Science (NDS)] 
 - 10/2023: NeuroGraph [https://pytorch-geometric.readthedocs.io/en/latest/generated/torch_geometric.datasets.NeuroGraphDataset.html datasets] are now available in *PyG* 
 - 10/2023: Our paper [https://arxiv.org/abs/2310.12169 ``Enhanced Graph Neural Networks with Ego-Centric Spectral Subgraph Embeddings Augmentation''] is accepted at IEEE ICMLA2023
 - 9/2023: Our paper [https://arxiv.org/pdf/2306.06202.pdf ``NeuroGraph: Benchmarks for Graph Machine
-Learning in Brain Connectomics''] is accepted at *NeurIPS2023* Benchmark and Dataset Track
+Learning in Brain Connectomics''] is accepted at *NeurIPS2023* Datasets and Benchmark Track
 - 9/2023: Preprint [https://arxiv.org/abs/2310.02164 ``Graph Unlearning: A Review''] 
 - 9/2023: Gave an *invited talk* ``Computational Social Science Topics in the NDS Lab: An Introduction'' in Vanderbilt's Quantitative Methods Colloquium
 - 9/2023: Gave an *invited talk* ``Data Quality-Aware Learning on Graphs'' in the Computer Science Speaker Series at Brandeis University
