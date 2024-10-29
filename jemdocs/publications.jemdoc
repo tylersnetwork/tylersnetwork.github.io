@@ -2,8 +2,10 @@
 = Tyler Derr - Publications
 
 == Preprints
+. [https://arxiv.org/abs/2410.19214 A Comprehensive Analysis of Social Tie Strength: Definitions, Prediction Methods, and Future Directions]. \n Xueqi Cheng, Catherine Yang, Yuying Zhao, Yu Wang, Hamid Karimi, /Tyler Derr/. \n
+. [https://arxiv.org/abs/2410.16882 Large Language Model-based Augmentation for Imbalanced Node Classification on Text-Attributed Graphs]. \n Leyao Wang\*, Yu Wang\*, Bo Ni\*, Yuying Zhao, /Tyler Derr/. \n
+. [https://arxiv.org/abs/2410.08985 Towards Trustworthy Knowledge Graph Reasoning: An Uncertainty Aware Perspective]. \n Bo Ni, Yu Wang, Lu Cheng, Erik Blasch, /Tyler Derr/. \n
 . [https://arxiv.org/pdf/2408.01129 A Survey of Mamba]. \n Haohao Qu, Liangbo Ning, Rui An, Wenqi Fan, /Tyler Derr/, Hui Liu, Xin Xu, Qing Li. \n
-. [https://arxiv.org/abs/2406.11685 Edge Classification on Graphs: New Directions in Topological Imbalance]. \n Xueqi Cheng, Yu Wang, Yunchao (Lance)Liu, Yuying Zhao, Charu C. Aggarwal, /Tyler Derr/. \n 
 . [https://arxiv.org/abs/2406.05109 Large Graph Generative Models]. \n Yu Wang, Ryan Rossi, Namyong Park, Huiyuan Chen, Nesreen K.Ahmed, Puja Trivedi, Franck Dernoncourt, Danai Koutra, and /Tyler Derr/.
 . [https://arxiv.org/abs/2310.02164 Graph Unlearning: A Review]. \n Anwar Said, /Tyler Derr/, Mudassir Shabbir, Waseem Abbas, Xenofon Koutsoukos. \n 
 . [https://www.biorxiv.org/content/10.1101/2023.04.17.537185v1 Integrating Expert Knowledge with Deep Learning Improves QSAR Models for CADD Modeling.] \n
@@ -20,9 +22,11 @@ Haochen Liu, Zhiwei Wang, /Tyler Derr/, Zitao Liu, and Jiliang Tang. \n
 Haochen Liu, /Tyler Derr/, Zitao Liu, and Jiliang Tang. \n
 
 
+== 2025
+. [https://arxiv.org/abs/2406.11685 Edge Classification on Graphs: New Directions in Topological Imbalance]. \n Xueqi Cheng, Yu Wang, Yunchao Liu, Yuying Zhao, Charu C. Aggarwal, /Tyler Derr/. \n In Proceedings of the 18th ACM International Conference on Web Search and Data Mining (*WSDM*), Hannover, Germany, March 10-14, 2025. \n
+\[Code [https://github.com/XueqiC/TopoEdge repo]\]
 
-
-== 2024
+== 2024  
 . [https://www.welqrate.org WelQrate: Defining the Gold Standard in Small Molecule Drug Discovery Benchmarking]. \n Yunchao Liu, Ha Dong, Xin Wang, Rocco Moretti, Yu Wang, Zhaoqian Su, Jiawei Gu, Bobby Bodenheimer, Charles Weaver, Jens Meiler, /Tyler Derr/. \n  Advances in Neural Information Processing (*NeurIPS*), Vancouver, BC, Canada, December 9 - 15, 2024. \n
 \[Code, Data,\& Documentation [https://www.welqrate.org link]\]
 . [https://arxiv.org/abs/2406.15283v1 FT-AED: Benchmark Dataset for Early Freeway Traffic Anomalous Event Detection]. \n Austin Coursey, Junyi Ji, Marcos Quinones-Grueiro, William Barbour, Yuhang Zhang, /Tyler Derr/, Gautam Biswas, and Daniel B. Work. \n  Advances in Neural Information Processing (*NeurIPS*), Vancouver, BC, Canada, December 9 - 15, 2024. \n

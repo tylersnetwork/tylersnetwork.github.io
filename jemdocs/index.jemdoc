@@ -38,15 +38,19 @@ Tyler directs the [http://my.vanderbilt.edu/nds Network and Data Science (NDS)] 
 
 ~~
 === 2024
- #- 10/2024: Gave an *invited talk* ``...'' in the [https://math.vanderbilt.edu/ellingmn/gtcsem.html Vanderbilt Graph Theory and Combinatorics Seminar]
+- 10/2024: Preprint [https://arxiv.org/abs/2410.19214 ``A Comprehensive Analysis of Social Tie Strength: Definitions, Prediction Methods, and Future Directions'']
+- 10/2024: Preprint [https://arxiv.org/abs/2410.16882 ``Large Language Model-based Augmentation for Imbalanced Node Classification on Text-Attributed Graphs'']
+- 10/2024: Gave an *invited keynote* ``Demystifying the Node-Level Link Prediction Variability of Graph Neural Networks'' at the [https://oars-workshop.github.io/ Online and Adaptive Recommender Systems (OARS) Workshop] at CIKM2024
+- 10/2024: Gave an *invited talk* ``Ethical AI in Recommender Systems: Fairness, Diversity, and Explainability'' at the [https://kil-workshop.github.io/KG-STAR/ Knowledge Graphs for Responsible AI (KG-STAR) Workshop] at CIKM2024
+- 10/2024: We presented our [https://nds-vu.github.io/tutorials/cikm24/ tutorial] on Data Quality-Aware Graph Machine Learning at CIKM2024
+- 10/2024: Our paper [https://arxiv.org/abs/2406.11685 ``Edge Classification on Graphs: New Directions in Topological Imbalance''] is accepted at *WSDM2025*
+- 10/2024: Gave an *invited talk* ``Demystifying the Node-Level Link Prediction Variability of Graph Neural Networks'' in the [https://math.vanderbilt.edu/ellingmn/gtcsem.html Vanderbilt Graph Theory and Combinatorics Seminar]
+- 10/2024: Preprint [https://arxiv.org/abs/2410.08985 ``Towards Trustworthy Knowledge Graph Reasoning: An Uncertainty Aware Perspective'']
 - 9/2024: Our paper [https://www.welqrate.org/ WelQrate: Defining the Gold Standard in Small Molecule Drug Discovery Benchmarking] is accepted at *NeurIPS2024*
 - 9/2024: Our paper [https://arxiv.org/pdf/2406.15283v1 FT-AED: Benchmark Dataset for Early Freeway Traffic Anomalous Event Detection] is accepted at *NeurIPS2024*
 - 9/2024: Our paper [https://arxiv.org/abs/2311.14934 Robust Graph Neural Networks via Unbiased Aggregation] is accepted at *NeurIPS2024*
 - 9/2024: Our paper ``FairNNV: The Neural Network Verification Tool For Certifying Fairness'' is accepted at ACM Conference on AI in Finance (*ICAIF2024*)
-#- 9/2024: Invited to judge for VandyHacks 2024 (VU's premier student hackathon)
-- 9/2024: Will give an *invited talk* at the [https://kil-workshop.github.io/KG-STAR/ Knowledge Graphs for Responsible AI (KG-STAR) Workshop] at CIKM2024
 - 8/2024: Our paper [https://arxiv.org/abs/2308.16375 ``A Survey on Privacy in Graph Neural Networks: Attacks, Preservation, and Applications''] is accepted at *IEEE TKDE*
-- 8/2024: Will give an *invited talk* at the [https://oars-workshop.github.io/ Online and Adaptive Recommender Systems (OARS) Workshop] at CIKM2024
 - 8/2024: Invited to serve as *Associate Editor* for ACM Transactions on Knowledge Discovery from Data (*TKDD*)
 - 8/2024: Gave an *invited keynote* ``Ethical AI in Recommender Systems: Fairness, Diversity, and Explainability'' at the [https://ai-activities.github.io/EAI-workshop-24/keynote/ Ethical Artificial Intelligence Methods and Applications (EAI-KDD) Workshop] at KDD2024
 - 8/2024: Preprint [https://arxiv.org/pdf/2408.01129 ``A Survey of Mamba'']
