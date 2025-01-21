@@ -2,6 +2,61 @@
 = Tyler Derr - News Before Current Year 
 
 ~~
+=== 2023
+- 12/2023: Honored to receive *Vanderbilt's Provost Immersion Grant for Faculty*
+- 12/2023: Our paper  [https://arxiv.org/abs/2308.11730 ``Knowledge Graph Prompting for Multi-Document Question Answering''] received the *Best Paper Award* by the New Frontiers in Graph Learning (GLFrontiers) Workshop at NeurIPS2023
+- 12/2023: Our paper [https://arxiv.org/abs/2402.12541 ``Leveraging Opposite Gender Interaction Ratio as a Path Towards Fairness in Online Dating Recommendations Based on User Sexual Orientation''] is accepted at *AAAI2024*
+- 12/2023: Our paper [https://arxiv.org/abs/2308.11730 ``Knowledge Graph Prompting for Multi-Document Question Answering''] in collaboration with Adobe Research is accepted at *AAAI2024*
+- 11/2023: Our tutorial ``Data-Quality-Aware Graph Machine Learning'' is accepted at *SDM2024*
+- 11/2023: Invited to serve as *Associate Editor* for Tsinghua Science and Technology
+- 11/2023: Our paper ``An Analysis of the Dynamics of Ties on Twitter'' is accepted at IEEE BigData2023
+- 11/2023: Invited to participate in the Global Academic Reputation Survey by *Times Higher Education (THE)* contributing to the next World University Rankings
+- 11/2023: Preprint [https://arxiv.org/pdf/2310.04612.pdf ``Robust Graph Neural Networks via Unbiased Aggregation'']
+- 11/2023: Invited to serve as *Student Travel Chair for KDD2024* 
+- 11/2023: Will give an *invited keynote* at the Graph Techniques for Adversarial Activity Analytics (GTA3) Workshop at IEEE BigData'23
+- 11/2023: Our workshop [https://mlog-workshop.github.io/ Machine Learning on Graphs (MLoG)] is accepted at *WSDM2024* (5th iteration)
+- 11/2023: Our paper [https://arxiv.org/abs/2308.11730 ``Knowledge Graph Prompting for Multi-Document Question Answering''] is accepted by the New Frontiers in Graph Learning (GLFrontiers) Workshop for oral presentation at NeurIPS2023
+- 11/2023: Gave an *invited talk* ``Data-Centric AI for Real-World Graph Applications'' in the ORNL Core Universities AI Workshop at Georgia Tech 
+- 10/2023: Preprint [https://arxiv.org/pdf/2310.04612.pdf ``A Topological Perspective on Demystifying GNN-Based Link Prediction Performance''] 
+- 10/2023: Invited to serve as *Publicity Chair for DSAA2024* 
+- 10/2023: NeuroGraph [https://pytorch-geometric.readthedocs.io/en/latest/generated/torch_geometric.datasets.NeuroGraphDataset.html datasets] are now available in *PyG* 
+- 10/2023: Our paper [https://arxiv.org/abs/2310.12169 ``Enhanced Graph Neural Networks with Ego-Centric Spectral Subgraph Embeddings Augmentation''] is accepted at IEEE ICMLA2023
+- 9/2023: Our paper [https://arxiv.org/pdf/2306.06202.pdf ``NeuroGraph: Benchmarks for Graph Machine
+Learning in Brain Connectomics''] is accepted at *NeurIPS2023* Datasets and Benchmark Track
+- 9/2023: Preprint [https://arxiv.org/abs/2310.02164 ``Graph Unlearning: A Review''] 
+- 9/2023: Gave an *invited talk* ``Computational Social Science Topics in the NDS Lab: An Introduction'' in Vanderbilt's Quantitative Methods Colloquium
+- 9/2023: Gave an *invited talk* ``Data Quality-Aware Learning on Graphs'' in the Computer Science Speaker Series at Brandeis University
+- 9/2023: Invited to serve as *Associate Editor* for IEEE Transactions on Big Data
+- 8/2023: Invited to a small group faculty salon *dinner with VU Chancellor Diermeier* in the West End Tower
+- 8/2023: Preprint [https://arxiv.org/abs/2308.16375 ``A Survey on Privacy in Graph Neural Networks: Attacks, Preservation, and Applications''] 
+- 8/2023: Gave an *invited talk* ``Enhancing Graph Neural Networks with Data Quality-Aware Learning'' at the Institute for Artificial Intelligence, Tsinghua University
+- 8/2023: Preprint [https://arxiv.org/abs/2308.11730 ``Knowledge Graph Prompting for Multi-Document Question Answering'']
+- 8/2023: Invited to serve as *Student Travel Award Chair of WSDM2024*
+- 8/2023: My PhD student [https://yuyingzhao.github.io Yuying Zhao]'s *KDD2023 Blog* article [https://kdd.org/kdd2023/blog-changes-women-in-stem/ ''Progress and Promise for The Shifting Landscape of Gender in STEM''] is now online
+- 7/2023: Preprint [https://arxiv.org/abs/2307.04644 ``Fairness and Diversity in Recommender Systems: A Survey'']
+- 7/2023: Gave an *invited talk* ``A Survey of Recent Machine Learning Frontiers for Advancing Computer-Aided Drug Discovery'' at the AI for Drug Discovery Workshop held by Meiler Lab 
+- 6/2023: Catherine's paper ``The Friendship Paradox: An Analysis on Signed Social Networks with Positive and Negative Links'' is accepted to *KDD2023 Undergraduate Consortium*
+- 6/2023: Our paper [https://www.mlgworkshop.org/2023/papers/MLG__KDD_2023_paper_22.pdf Fair Online Dating Recommendations for Sexually Fluid Users via Leveraging Opposite Gender Interaction Ratio] is accepted by the MLG Workshop at KDD2023
+- 6/2023: Honored to receive the *NSF CAREER Award*! News @: Vanderbilt's [https://engineering.vanderbilt.edu/news/2023/vanderbilt-researcher-wins-nsf-career-award-to-close-a-gap-in-network-analysis-by-better-modeling-negative-online-interactions-like-unfollowing-and-blocking/ School of Engineering] and [https://www.vanderbilt.edu/autismandinnovation/2023/06/16/frist-center-faculty-fellow-tyler-derr-wins-prestigious-nsf-career-award/ Frist Center]
+- 6/2023: Will give an *invited talk* ``Towards Data-Centric Graph Learning for Real-World Applications'' at Max Planck Institute for Mathematics in the Sciences (MPI MiS)
+- 6/2023: Preprint [https://arxiv.org/pdf/2306.06202.pdf ``NeuroGraph: Benchmarks for Graph Machine
+Learning in Brain Connectomics''] with code and data publicly availabe [https://anwar-said.github.io/anwarsaid/neurograph.html here] 
+- 6/2023: Gave an *invited talk* ``Advanced Graph Analytics for Real-World Applications'' in the Griffiss Institute's Tech Talks at Air Force Research Lab Information Directorate
+- 5/2023: Congratulations to my PhD student [https://yuyingzhao.github.io/ Yuying Zhao] for being awarded *Vanderbilt's C. F. Chen Best Paper Runner-Up Award* in Computer Science for her AAAI'23 paper [https://arxiv.org/pdf/2212.03840.pdf `Fairness and Explainability: Bridging the Gap Towards Fair Model Explanations']
+- 4/2023: Congratulations to my PhD student [https://yuwvandy.github.io/ Yu Wang] for being awarded *Vanderbilt's 2023 Graduate Leadership Anchor Award for Research* 
+- 4/2023: Our paper ``Adversarial Attacks for Black-box Recommender Systems via Copying Transferable Cross-domain User Profiles'' is accepted in *IEEE TKDE*
+- 4/2023: Gave an *invited talk* ``Creating and Leveraging Knowledge Graphs in Real-World Applications'' in the [https://www2023.thewebconf.org/special/knowledge-graph-day/ Knowledge Graph Day] at *ACM Web Conference*
+- 3/2023: Selected for the Visiting Faculty Research Program (*VRFP*) of The Air Force Research Laboratory's Information Directorate (*AFRL\/RI*) and Information Institute (II) during Summer 2023
+#- 3/2023: My PhD student [https://yuyingzhao.github.io/ Yuying Zhao] will present her work ``Learning Beyond Utility for Social Good: Fairness, Explainability, and Diversity'' at SDM'23 Doctoral Forum
+- 3/2023: Our paper ``ADEPT: Autoencoder with Differentially Expressed Genes and Imputation for a Robust Spatial Transcriptomics Clustering'' is accepted at RECOMB-Seq 2023 and published in *iScience*
+- 3/2023: My PhD student [https://yunchaoliu.github.io/ Yunchao (Lance) Liu]'s gave an [https://www.youtube.com/watch?v=P73oEikxI3Y&list=PLoVkjhDgBOt11Q3wu8lr6fwWHn5Vh3cHJ&index=4 (recorded) invited talk] at *Molecular Modeling and Drug Discovery (M2D2)* organized by Mila and Valance Discovery presenting our work MolKGNN
+- 3/2023: Our workshop [https://mlog-workshop.github.io/ Machine Learning on Graphs (MLoG)] is accepted at *ICDM2023* (4th iteration)
+- 1/2023: Our paper [https://arxiv.org/abs/2207.06221 ``Collaboration-Aware Graph Neural Networks for Recommendation Systems''] is accepted at *ACM Web Conference (WWW2023)*
+- 2023: Invited and served (multiple times) as an external reviewer for *Research Grants Council (RGC) of Hong Kong* during 2023.
+- 2023: Invited (multiple) and served (twice) as a grant proposal panelist for *NSF* during 2023
+~~
+
+~~
 === 2022
 - 12/2022: My PhD student [https://yuwvandy.github.io/ Yu Wang] was awarded The American Bureau of Shipping (ABS) Scholarship through Vanderbilt University
 - 11/2022: Gave an *invited keynote* ``Overcoming Data Quality Issues in Graph Learning'' in the Knowledge Graph Workshop at ICDM2022
@@ -14,7 +69,7 @@
 - 10/2022: Our paper [papers/icdmw22-degreebiaslinkpred.pdf ``Degree-related Bias in Link Prediction''] is accepted at IEEE ICDMW2022
 - 10/2022: Gave an *invited talk* ``Overcoming Data Quality Issues in Graph Learning'' in the ORNL Core Universities AI Workshop at Virginia Tech
 - 10/2022: Our workshop [https://mlog-workshop.github.io/ Machine Learning on Graphs (MLoG)] is accepted at *WSDM2023* (3rd iteration)
-- 10/2021: Invited to be a judge for VandyHacks 2022 (VU's premier student hackathon)
+- 10/2022: Invited to be a judge for VandyHacks 2022 (VU's premier student hackathon)
 - 9/2022: Our paper [papers/icdm22-think.pdf ``THINK: Temporal Hypergraph Hyperbolic Network''] is accepted at IEEE *ICDM2022*
 - 9/2022: Our paper ``Decision Boundaries of Deep Neural Networks'' is accepted at IEEE ICMLA2022
 - 8/2022: Our paper ``Enhancing Individual Fairness through Propensity Score Matching'' is accepted at IEEE DSAA2022
