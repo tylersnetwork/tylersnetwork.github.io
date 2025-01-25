@@ -8,7 +8,6 @@ Ruiyi Zhang, Jiuxiang Gu, /Tyler Derr/, Hongjie Chen, Junda Wu, Xiang Chen, Zich
 . [https://arxiv.org/abs/2410.19214 A Comprehensive Analysis of Social Tie Strength: Definitions, Prediction Methods, and Future Directions]. \n Xueqi Cheng, Catherine Yang, Yuying Zhao, Yu Wang, Hamid Karimi, /Tyler Derr/. \n
 . [https://arxiv.org/abs/2410.16882 Large Language Model-based Augmentation for Imbalanced Node Classification on Text-Attributed Graphs]. \n Leyao Wang\*, Yu Wang\*, Bo Ni\*, Yuying Zhao, /Tyler Derr/. \n
 . [https://arxiv.org/pdf/2408.01129 A Survey of Mamba]. \n Haohao Qu, Liangbo Ning, Rui An, Wenqi Fan, /Tyler Derr/, Hui Liu, Xin Xu, Qing Li. \n
-. [https://arxiv.org/abs/2406.05109 Large Graph Generative Models]. \n Yu Wang, Ryan Rossi, Namyong Park, Huiyuan Chen, Nesreen K.Ahmed, Puja Trivedi, Franck Dernoncourt, Danai Koutra, and /Tyler Derr/.
 . [https://arxiv.org/abs/2310.02164 Graph Unlearning: A Review]. \n Anwar Said, /Tyler Derr/, Mudassir Shabbir, Waseem Abbas, Xenofon Koutsoukos. \n 
 . [https://www.biorxiv.org/content/10.1101/2023.04.17.537185v1 Integrating Expert Knowledge with Deep Learning Improves QSAR Models for CADD Modeling.] \n
 Yunchao ``Lance'' Liu, Rocco Moretti, Yu Wang, Bobby Bodenheimer, /Tyler Derr/, Jens Meiler. \n
@@ -25,8 +24,10 @@ Haochen Liu, /Tyler Derr/, Zitao Liu, and Jiliang Tang. \n
 
 
 == 2025
+. Demystifying the Power of Large Language Models in Graph Generation. \n Yu Wang, Ryan A. Rossi, Namyong Park, Nesreen K. Ahmed, Danai Koutra, Franck Dernoncourt, /Tyler Derr/. \n In Findings of the Association for Computational Linguistics: *NAACL*, Albuquerque, NM, USA, April 29 - May 4, 2025. \n
+. [https://arxiv.org/abs/2406.05109 A Large-scale Training Paradigm for Graph Generative Models]. \n Yu Wang, Ryan Rossi, Namyong Park, Huiyuan Chen, Nesreen K.Ahmed, Puja Trivedi, Franck Dernoncourt, Danai Koutra, and /Tyler Derr/. \n In Proceedings of the 13th International Conference on Learning Representations (*ICLR*), Singapore, April 24-28, 2025. \n
 . [https://arxiv.org/abs/2410.08985 Towards Trustworthy Knowledge Graph Reasoning: An Uncertainty Aware Perspective]. \n Bo Ni, Yu Wang, Lu Cheng, Erik Blasch, /Tyler Derr/. \n
-In Proceedings of the 39th AAAI Conference on Artificial Intelligence (*AAAI*), Philadelphia, PA, USA February 25 - March 4, 2025. \n
+In Proceedings of the 39th AAAI Conference on Artificial Intelligence (*AAAI*), Philadelphia, PA, USA, February 25 - March 4, 2025. \n
 \[Code [https://github.com/Arstanley/UAG repo]\]
 . [https://arxiv.org/abs/2406.11685 Edge Classification on Graphs: New Directions in Topological Imbalance]. \n Xueqi Cheng, Yu Wang, Yunchao Liu, Yuying Zhao, Charu C. Aggarwal, /Tyler Derr/. \n In Proceedings of the 18th ACM International Conference on Web Search and Data Mining (*WSDM*), Hannover, Germany, March 10-14, 2025. \n
 \[Code [https://github.com/XueqiC/TopoEdge repo]\]
