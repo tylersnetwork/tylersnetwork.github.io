@@ -2,6 +2,7 @@
 = Tyler Derr - Publications
 
 == Preprints
+. [https://arxiv.org/abs/2508.01128 Towards Bridging Review Sparsity in Recommendation with Textual Edge Graph Representation]. \n Leyao Wang*, Xutao Mao*, Xuhui Zhang, Yuying Zhao, Bo Ni, Ryan Rossi, Nesreen Ahmed, /Tyler Derr/. \n
 . [https://arxiv.org/abs/2505.01695 SimAug: Enhancing Recommendation with Pretrained Language Models for Dense and Balanced Data Augmentation]. \n Yuying Zhao, Xiaodong Yang, Huiyuan Chen, Xiran Fan, Yu Wang, Yiwei Cai, /Tyler Derr/. \n
 . [https://arxiv.org/abs/2505.01698 Amplifying Your Social Media Presence: Personalized Influential Content Generation with LLMs]. \n Yuying Zhao, Yu Wang, Xueqi Cheng, Anne Marie Tumlin, Yunchao Liu, Damin Xia, Meng Jiang, /Tyler Derr/. \n
 . [https://www.biorxiv.org/content/10.1101/2024.11.18.624208v1 SuperWater: Predicting Water Molecule Positions on Protein Structures by Generative AI]. \n Xiaohan Kuang, Zhaoqian Su, Yunchao (Lance) Liu, Xiaobo Lin, Jesse Spencer-Smith, /Tyler Derr/, Yinghao Wu, Jens Meiler. \n 
@@ -21,9 +22,10 @@ Haochen Liu, /Tyler Derr/, Zitao Liu, and Jiliang Tang. \n
 
 
 == 2025
+. Explanation Difference: Bridging Procedural and Distributional Fairness. \n Joe Germino, Yuying Zhao, /Tyler Derr/, Nuno Moniz, Nitesh V. Chawla. \n AAAI/ACM Conference on AI, Ethics, and Society (AIES), Madrid, Spain, October 20-22, 2025. \n
 . Edges Matter: An Analysis of Graph Time-Series Representations for Temporal Networks. \n Hongjie Chen, Ryan A. Rossi, Nesreen K. Ahmed, Namyong Park, Yu Wang, /Tyler Derr/, Hoda Eldardiry. \n IEEE Transactions on Network Science and Engineering (*TNSE*), 2025. \n
 . [https://arxiv.org/abs/2411.00027 Personalization of Large Language Models: A Survey]. \n Zhehao Zhang, Ryan A. Rossi, Branislav Kveton, Yijia Shao, Diyi Yang, Hamed Zamani, Franck Dernoncourt, Joe Barrow, Tong Yu, Sungchu Kim,Ruiyi Zhang, Jiuxiang Gu, /Tyler Derr/, Hongjie Chen, Junda Wu, Xiang Chen, Zichao Wang, Subrata Mitra, Nedim Lipka, Nesreen Ahmed, Yu Wang. \n Transactions on Machine Learning Research (*TMLR*), 2025. \n
-. [https://arxiv.org/abs/2410.1921 BTS: A Comprehensive Benchmark for Tie Strength Prediction]. \n Xueqi Cheng, Catherine Yang, Yuying Zhao, Yu Wang, Hamid Karimi, /Tyler Derr/. \n In Proceedings of the 31st ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (*KDD*), Toronto, ON, Canada, August 3-7, 2025. \n
+. [https://arxiv.org/abs/2410.19214 BTS: A Comprehensive Benchmark for Tie Strength Prediction]. \n Xueqi Cheng, Catherine Yang, Yuying Zhao, Yu Wang, Hamid Karimi, /Tyler Derr/. \n In Proceedings of the 31st ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (*KDD*), Toronto, ON, Canada, August 3-7, 2025. \n
 . [https://pubs.acs.org/doi/10.1021/acs.jcim.5c00822 Advancements in Ligand-Based Virtual Screening through the Synergistic Integration of Graph Neural Networks and Expert-Crafted Descriptors.] \n
 Yunchao ``Lance'' Liu, Rocco Moretti, Yu Wang, Ha Dong, Bailu Yan, Bobby Bodenheimer, /Tyler Derr/, Jens Meiler. \n Journal of Chemical Information and Modeling (*JCIM*), 2025. \n
 . [https://dl.acm.org/doi/10.1145/3716550.3725156 Real-Time Freeway Traffic Anomalous Event Detection System via Radar Detector Sensors]. \n Austin Coursey, Junyi Ji, Zhiyao Zhang, William Barbour, Marcos Quinones-Grueiro, /Tyler Derr/, Gautam Biswas and Daniel Work. \n ACM/IEEE International Conference on Cyber-Physical Systems (*ICCPS*), Irvine, CA, USA, May 6 - 9, 2025. \n
