@@ -7,6 +7,15 @@ Much of today's big data can be best represented as networks, which has led to t
 This project is focused on the advancement of methods, theories, models, and measurements, for networks with negative links, known as, signed networks. The project will provide dedicated efforts towards deeper analysis and better predictions on networks with negative links while spanning the four main pillars of network analytics. Specifically, novel network theories are proposed and built upon the complex positive/negative link interactions, dedicated signed graph neural networks will be developed for overcoming existing challenges in prior models, improved signed network modeling towards better synthetic generation and evaluation, and finally robust signed network measurements. The project is motivated by unprecedented opportunities to harness the additive power of negative links to improve network analytics, but also in solving the research challenges associated with mining and learning on signed networks. Each of the proposed research directions is positioned to advance network analytics through investigating original unexplored problems and developing novel theories and methodologies.
 
 == Publications
+- Edges Matter: An Analysis of Graph Time-Series Representations for Temporal Networks. \n Hongjie Chen, Ryan A. Rossi, Nesreen K. Ahmed, Namyong Park, Yu Wang, *Tyler Derr*, Hoda Eldardiry. \n IEEE Transactions on Network Science and Engineering (TNSE), 2025. \n
+- [https://arxiv.org/abs/2406.05109 A Large-scale Training Paradigm for Graph Generative Models]. \n Yu Wang, Ryan Rossi, Namyong Park, Huiyuan Chen, Nesreen K.Ahmed, Puja Trivedi, Franck Dernoncourt, Danai Koutra, and *Tyler Derr*. \n In Proceedings of the 13th International Conference on Learning Representations (ICLR), Singapore, April 24-28, 2025. \n
+- [https://arxiv.org/abs/2410.19214 BTS: A Comprehensive Benchmark for Tie Strength Prediction]. \n Xueqi Cheng, Catherine Yang, Yuying Zhao, Yu Wang, Hamid Karimi, *Tyler Derr*. \n In Proceedings of the 31st ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD), Toronto, ON, Canada, August 3-7, 2025. \n
+- Demystifying the Power of Large Language Models in Graph Generation. \n Yu Wang, Ryan A. Rossi, Namyong Park, Nesreen K. Ahmed, Danai Koutra, Franck Dernoncourt, *Tyler Derr*. \n In Findings of the Association for Computational Linguistics: *NAACL*, Albuquerque, NM, USA, April 29 - May 4, 2025. \n
+- [https://arxiv.org/abs/2406.11685 Edge Classification on Graphs: New Directions in Topological Imbalance]. \n Xueqi Cheng, Yu Wang, Yunchao Liu, Yuying Zhao, Charu C. Aggarwal, *Tyler Derr*. \n In Proceedings of the 18th ACM International Conference on Web Search and Data Mining (WSDM), Hannover, Germany, March 10-14, 2025. \n
+- Signed Network Dataset Repository: Extracting Signed Relations From Social Networks. \n Aikta Arya, Pradumn Kumar Pandey, *Tyler Derr*. IEEE International Conference on Communications (ICC), Montreal, Canada, June 8-12, 2025. \n
+- [https://arxiv.org/abs/2405.17602 Augmenting Textual Generation via Topology Aware Retrieval]. \n Yu Wang, Nedim Lipka, Ruiyi Zhang, Alexa Siu, Yuying Zhao, Bo Ni, Xin Wang, Ryan Rossi, and *Tyler Derr*. \n In Proceedings of the 33rd ACM International Conference on Information and Knowledge Management (CIKM), Boise, ID, USA, October 21-25, 2024. \n
+- [https://arxiv.org/abs/2410.08985 Towards Trustworthy Knowledge Graph Reasoning: An Uncertainty Aware Perspective]. \n Bo Ni, Yu Wang, Lu Cheng, Erik Blasch, *Tyler Derr*. \n In Proceedings of the 39th AAAI Conference on Artificial Intelligence (AAAI), Philadelphia, PA, USA, February 25 - March 4, 2025. \n
+- [https://www.welqrate.org WelQrate: Defining the Gold Standard in Small Molecule Drug Discovery Benchmarking]. \n Yunchao Liu, Ha Dong, Xin Wang, Rocco Moretti, Yu Wang, Zhaoqian Su, Jiawei Gu, Bobby Bodenheimer, Charles Weaver, Jens Meiler, *Tyler Derr*. \n  Advances in Neural Information Processing (NeurIPS), Vancouver, BC, Canada, December 9 - 15, 2024. \n
 - EDGE-UP: Enhanced Dynamic GNN Ensemble for Unfollow Prediction in Online Social Networks. \n Soheila Farokhi, Arash Azizian Foumani, Xiaojun Qi, *Tyler Derr*, Hamid Karimi. \n In Proceedings of the 2024 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM), Calabria, Italy, September 2-5, 2024. \n
 - [https://arxiv.org/abs/2307.04644 Fairness and Diversity in Recommender Systems: A Survey.] \n Yuying Zhao, Yu Wang, Yunchao Liu, Xueqi Cheng, Charu Aggarwal, and *Tyler Derr*. \n
 ACM Transactions on Intelligent Systems and Technology (TIST). \n
@@ -37,9 +46,16 @@ Anwar Said, Roza G. Bayrak, *Tyler Derr*, Mudassir Shabbir, Daniel Moyer, Catie 
 
 
 == News and Awards
+- Yu received the 2025 ACM SIGKDD Dissertation Award Honorable Mention
+- Tyler is named a Vanderbilt CARE Fellow
+- Tyler gave invited talks over the past year at : KDD 2024 (EAI-KDD Workshop), CIKM 2024 (OARS and KD-STAR Workshops), NTU Singapore (College of Computing and Data Science), CUHK-Shenzhen (School of Data Science), Vanderbilt University (Graph Theory and Combinatorics Seminar).
+- Tyler is the sole recipient of the university-wide 2025 VU Career Catalyst Impact Award for student mentorship
+- Leyao received a 2024-25 CRA Outstanding Undergraduate Researcher Award Honorable Mention
+- Undergraduates from my data-centric AI related course received 1st and 3rd Prize out of 42 teams in the Vanderbilt CS Immersion Showcase
+- New course developed Projects in Data-Centric AI and Mining
+- We presented a tutorial on Data Quality-Aware Graph Machine Learning at CIKM 2024
 - We presented a tutorial on Data Quality-Aware Graph Machine Learning at SDM 2024
 - Yu received the Best Doctoral Forum Poster Runner-Up Award at SDM 2024
-- Catherine successfully defended her MS thesis ``An Analysis of Local Neighborhood-based Paradoxes in Signed Social Networks''
 - Yu Was awarded Vanderbilt's Outstanding Doctoral Student Award (one of three for the whole university)
 - Laura was selected for the Vanderbilt Undergraduate Summer Research Program (VUSRP)
 - Tyler gave an invited talk on ``Network Science for Social Good'' in the Frist Center for Autism and Innovation Salon Series
@@ -52,26 +68,54 @@ Anwar Said, Roza G. Bayrak, *Tyler Derr*, Mudassir Shabbir, Daniel Moyer, Catie 
 
 == Project Members
 - [https://tylersnetwork.github.io Tyler Derr] (PI)
-- [https://yuwvandy.github.io/ Yu Wang] (PhD, Graduated)
-- [https://yuyingzhao.github.io/ Yuying Zhao] (PhD)
-- [https://xueqic.github.io/ Xueqi Cheng] (PhD)
+- [https://yuwvandy.github.io/ Yu Wang] (PhD, Graduated) \n
+Dissertation: ``Data-Quality Aware Graph Machine Learning'' \n
+Next Position: Assistant Professor at University of Oregon
+- [https://yuyingzhao.github.io/ Yuying Zhao] (PhD, Graduated) \n
+Dissertation: ``Learning Beyond Utility: Fairness, Explainability, and Diversity'' \n
+Next Position: Senior Research Scientist at Accenture
 - [https://arstanley.github.io/ Bo Ni] (PhD)
-- [https://www.linkedin.com/in/catherine-yang127/ Catherine Yang] (Masters, Graduated)
-- [https://www.linkedin.com/in/qinwen-ge/ Qinwen Ge] (Masters)
-- [https://www.linkedin.com/in/leyao-wang-77ab45262/ Leyao (Laura) Wang] (Undergraduate)
+- [https://www.linkedin.com/in/qinwen-ge/ Qinwen Ge] (PhD, Graduated Masters) \n
+MS Thesis: ``Enhanced Brain Graph Construction in Neuroimaging: A Data-Centric AI Approach'' \n
+Next Position: Staying for PhD
+- [https://www.linkedin.com/in/catherine-yang127/ Catherine Yang] (Masters, Graduated) \n
+Thesis: ``An Analysis of Local Neighborhood-based Paradoxes in Signed Social Networks'' \n 
+Next Position: Microsoft
+- [https://xueqic.github.io/ Xueqi Cheng] (MS, Graduated) \n
+Thesis: ``Edge-Centric Network Analytics'' \n
+Next Position: Phd at University of Florida
+- Xin (Allen) Wang (MS, Graduated) \n
+Thesis: ``Data-Centric AI for Small Molecule Drug Discovery'' \n
+Next Position: PhD at Yale
+- [https://www.linkedin.com/in/leyao-wang-77ab45262/ Leyao (Laura) Wang] (Undergraduate, Graduated) \n
+Next Position: MS/PhD Yale
 
 === Collaborators:
 Industry:
-- Adobe Research: Nedim Lipka, Ryan A. Rossi, Alexa Siu, Ruiyi Zhang
+- Adobe Research: Franck Dernoncourt, Nedim Lipka, Ryan A. Rossi, Alexa Siu, Ruiyi Zhang
 - IBM T.J. Watson Research Center: Charu C. Aggarwal
+- Intel Labs: Nesreen K. Ahmed
 - Snap Inc: Neil Shah, Tong Zhao
 - The Home Depot: Janani Balaji, Xiquan Cui, Amin Javari, Walid Shalaby
-- Visa Research: Yiwei Cai, Huiyuan Chen, Yuzhong Chen, Rashidul Islam, Minghua Xu
+- Visa Research: Yiwei Cai, Huiyuan Chen, Yuzhong Chen, Xiran Fan, Rashidul Islam, Minghua Xu, Xiaodong Yang
+- Anonymous Industry Affiliates: Namyong Park (Meta), Damin Xia (LinkedIn)
+
+Government Research:
+- Air Force Research Laboratory (AFRL): Erik Blasch
 
 Academia:
+- Amherst College: Ha Dong
+- Indian Institute of Technology, Roorkee: Aikta Arya, Padumn Kumar Pandey
+- MD Anderson Cancer Center: Jiawei Gu
+- University of Illinois, Chicago: Lu Cheng
+- University of Michigan: Puja Trivedi, Danai Koutra
+- University of Notre Dame: Meng Jiang
+- University of Oregon: Yu Wang
+- University of Utah: Hamid Karimi
 - University of Texas at Dallas: Waseem Abbas
 - Utah State University: Soheila Farokhi, Muhammad Fawad Akbar Khan, Arash Azizian Foumani, Hamid Karimi, Kiana Kheiri, Xiaojun Qi
-- Vanderbilt University: Roza G. Bayrak, Catie Chang, Xenofon Koutsoukos, Yunchao Liu, Daniel Moyer, Anwar Said, Mudassir Shabbir, Pamela Wisniewski, Yi Zhang
+- Vanderbilt University: Roza G. Bayrak, Bobby Bodenheimer, Catie Chang, Xenofon Koutsoukos, Yunchao Liu, Jens Meiler, Rocco Moretti, Daniel Moyer, Anwar Said, Mudassir Shabbir, Zhaoqian Su, Anne Tumlin, Charles Weaver, Pamela Wisniewski, Yi Zhang
+- Virginia Tech: Hongjie Chen, Hoda Eldardiry
 
 == Acknowledgements
 This project is supported by the National Science Foundation (NSF) under Grant [https://www.nsf.gov/awardsearch/showAward?AWD_ID=2239881 IIS-2239881]. Any opinions, findings, and conclusions or recommendations expressed here are those of the author(s) and do not necessarily reflect the views of the National Science Foundation.
