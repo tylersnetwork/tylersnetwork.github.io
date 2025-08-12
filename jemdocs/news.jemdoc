@@ -2,6 +2,63 @@
 = Tyler Derr - News Before Current Year 
 
 ~~
+=== 2024
+- 12/2024: Honored to receive the *NVIDIA Academic Grant Program Award* for our project ``Cyclic Peptide Design with NVIDIA's BioNeMo Platform''
+- 12/2024: PhD student [https://arstanley.github.io/ Bo Ni]'s first paper since joining NDS ``Towards Trustworthy Knowledge Graph Reasoning: An Uncertainty Aware Perspective'' is accepted at *AAAI2025*
+- 12/2024: BS student Leyao Wang received an *Honorable Mention* for the 2024-2025 *CRA Outstanding Undergraduate Researcher Award*
+- 12/2024: Congratulations to the two teams from my course, Project in Data Centric-AI and Mining, who won *1st* and *3rd* place FortyAU Awards out of 44 teams in Vanderbilt's CS Immersion Showcase
+- 11/2024: PhD student [https://www.liuyunchao.com/ Yunchao (Lance) Liu] successfully defended his PhD dissertation ``*Geometric Deep Learning in Drug Discovery*'' -- congratulations, Dr. Liu! /Next Position/: Computational Scientist/Postdoc at Broad Institute of MIT and Harvard
+- 11/2024: Preprint [https://www.biorxiv.org/content/10.1101/2024.11.18.624208v1 ``SuperWater: Predicting Water Molecule Positions on Protein Structures by Generative AI'']
+- 11/2024: Preprint [https://arxiv.org/abs/2411.00027 ``Personalization of Large Language Models: A Survey'']
+- 11/2024: Gave an *invited talk* ``Data Quality-Aware Graph Machine Learning'' in the College of Computing and Data Science at [https://www.ntu.edu.sg/computing Nanyang Technological University]
+- 10/2024: Preprint [https://arxiv.org/abs/2410.19214 ``A Comprehensive Analysis of Social Tie Strength: Definitions, Prediction Methods, and Future Directions'']
+- 10/2024: Preprint [https://arxiv.org/abs/2410.16882 ``Large Language Model-based Augmentation for Imbalanced Node Classification on Text-Attributed Graphs'']
+- 10/2024: Gave an *invited keynote* ``Demystifying the Node-Level Link Prediction Variability of Graph Neural Networks'' at the [https://oars-workshop.github.io/ Online and Adaptive Recommender Systems (OARS) Workshop] at CIKM2024
+- 10/2024: Gave an *invited talk* ``Ethical AI in Recommender Systems: Fairness, Diversity, and Explainability'' at the [https://kil-workshop.github.io/KG-STAR/ Knowledge Graphs for Responsible AI (KG-STAR) Workshop] at CIKM2024
+- 10/2024: We presented our [https://nds-vu.github.io/tutorials/cikm24/ tutorial] on Data Quality-Aware Graph Machine Learning at CIKM2024
+- 10/2024: Our paper [https://arxiv.org/abs/2406.11685 ``Edge Classification on Graphs: New Directions in Topological Imbalance''] is accepted at *WSDM2025*
+- 10/2024: Gave an *invited talk* ``Demystifying the Node-Level Link Prediction Variability of Graph Neural Networks'' in the [https://math.vanderbilt.edu/ellingmn/gtcsem.html Vanderbilt Graph Theory and Combinatorics Seminar]
+- 10/2024: Preprint [https://arxiv.org/abs/2410.08985 ``Towards Trustworthy Knowledge Graph Reasoning: An Uncertainty Aware Perspective'']
+- 9/2024: Our paper [https://www.welqrate.org/ WelQrate: Defining the Gold Standard in Small Molecule Drug Discovery Benchmarking] is accepted at *NeurIPS2024*
+- 9/2024: Our paper [https://arxiv.org/pdf/2406.15283v1 FT-AED: Benchmark Dataset for Early Freeway Traffic Anomalous Event Detection] is accepted at *NeurIPS2024*
+- 9/2024: Our paper [https://arxiv.org/abs/2311.14934 Robust Graph Neural Networks via Unbiased Aggregation] is accepted at *NeurIPS2024*
+- 9/2024: PhD student [https://atumlin.github.io/ Anne Tumlin]'s first paper since joining NDS ``FairNNV: The Neural Network Verification Tool For Certifying Fairness'' is accepted at ACM Conference on AI in Finance (*ICAIF2024*)
+- 8/2024: Our paper [https://arxiv.org/abs/2308.16375 ``A Survey on Privacy in Graph Neural Networks: Attacks, Preservation, and Applications''] is accepted at *IEEE TKDE*
+- 8/2024: Invited to serve as *Associate Editor* for ACM Transactions on Knowledge Discovery from Data (*TKDD*)
+- 8/2024: Gave an *invited keynote* ``Ethical AI in Recommender Systems: Fairness, Diversity, and Explainability'' at the [https://ai-activities.github.io/EAI-workshop-24/keynote/ Ethical Artificial Intelligence Methods and Applications (EAI-KDD) Workshop] at KDD2024
+- 8/2024: Preprint [https://arxiv.org/pdf/2408.01129 ``A Survey of Mamba'']
+- 8/2024: Invited to serve as *Doctoral Forum Chair for SDM2025*
+- 8/2024: Gave an *invited talk* ``Data Quality-Aware Graph Machine Learning'' in the School of Data Science at [https://sds.cuhk.edu.cn/en The Chinese University of Hong Kong, Shenzhen] in their Discover CUHK-Shenzhen-ZJU Elite Students Summer Camp
+- 8/2024: Visited [https://www.polyu.edu.hk/comp/ The Hong Kong Polytechnic University (PolyU)]
+- 7/2024: Our paper [https://arxiv.org/abs/2405.17602 ``Augmenting Textual Generation via Topology Aware Retrieval''] is accepted at *CIKM2024*
+- 7/2024: Taught an invited seminar series on Social Network Analysis at [http://en.scit.bjtu.edu.cn/ Beijing Jiaotong University]
+- 7/2024: Our tutorial [https://nds-vu.github.io/tutorials/cikm24/ ``Data-Quality-Aware Graph Machine Learning''] is accepted at *CIKM2024*
+- 7/2024: Our paper ``EDGE-UP: Enhanced Dynamic GNN Ensemble for Unfollow Prediction in Online Social Networks'' is accepted at *ASONAM2024*
+- 6/2024: Our dataset and interactive visualization for early freeway traffic anomalous event detection (FT-AED) is now available ([https://vu.edu/ft-aed/ link]), which is the first large-scale lane-level freeway traffic dataset for anomaly detection
+- 6/2024: Preprint [https://arxiv.org/pdf/2406.15283v1 ``FT-AED: Benchmark Dataset for Early Freeway Traffic Anomalous Event Detection''] 
+- 6/2024: Preprint [https://arxiv.org/abs/2406.11685 ``Edge Classification on Graphs: New Directions in Topological Imbalance'']
+- 6/2024: Awarded *NSF* grant to support student travel for US-based students to attend KDD2024
+- 6/2024: Our LGGM Text2Graph Generation [https://lggm-lg.github.io/ demo] is now live, which is the first large graph generative model that supports generating graphs from textual descriptions
+- 6/2024: Preprint [https://arxiv.org/abs/2406.05109 ``Large Graph Generative Models'']
+- 5/2024: Preprint [https://arxiv.org/abs/2405.17602 ``Augmenting Textual Generation via Topology Aware Retrieval'']
+- 5/2024: Invited to serve as *Student Travel Chair for WSDM2025*
+- 4/2024: PhD student [https://yunchaoliu.github.io/ Yunchao (Lance) Liu]'s team won *1st place* in the AI Showcase at VU Data Science Institute presenting the project DiffWater
+- 4/2024: We presented out *tutorial* on [https://nds-vu.github.io/tutorials/sdm24/ Data Quality-Aware Graph Machine Learning] at *SDM2024*
+- 4/2024: PhD student [https://yuwvandy.github.io/ Yu Wang] received the *Best Doctoral Forum Poster Runner-Up* award at SDM2024 
+- 4/2024: PhD student [https://atumlin.github.io/ Anne Tumlin] was awarded the [https://www.energy.gov/science/articles/welcoming-new-computational-science-graduate-fellows Department of Energy *(DOE) Computational Science Graduate Fellowship*]!
+- 4/2024: Our paper [https://arxiv.org/abs/2307.04644 ``Fairness and Diversity in Recommender Systems: A Survey''] is accepted at *ACM TIST*
+- 3/2024: MS student [https://www.linkedin.com/in/catherine-yang127/ Catherine Yang] successfully defended her MS thesis ``*An Analysis of Local Neighborhood-based Paradoxes in Signed Social Networks*'' -- congratulations! Next Position: Software Engineer at Microsoft 
+- 3/2024: PhD student [https://yuwvandy.github.io/ Yu Wang] was awarded *Vanderbilt's Outstanding Doctoral Student Award* (one of three for the whole university)
+- 3/2023: Invited to serve as *Student Travel Chair for CIKM2024* 
+- 3/2024: *PhD student [https://yuwvandy.github.io/ Yu Wang] will be joining University of Oregon as a Tenure-track Assistant Professor in Computer Science starting in Fall'24* - congratulations, Prof. Wang! 
+- 2/2024: Congratulations to Laura Wang who was selected for the *Vanderbilt Undergraduate Summer Research Program* (VUSRP) for her proposed research in the NDS Lab 
+- 2/2024: Our paper ``Knowledge Graph-based Session Recommendation with Session-Adaptive Propagation'' in collaboration with The Home Depot is accepted at *WWW2024* 
+- 1/2024: Our paper [https://arxiv.org/abs/2402.13495 ``Can One Embedding Fit All? A Multi-Interest Learning Paradigm Towards Improving User Interest Diversity Fairness''] in collaboration with Visa Research is accepted at *WWW2024*
+- 1/2024: Gave an *invited talk* ``Network Science for Social Good'' in the Frist Center Salon Series 
+- 1/2024: Our paper [https://arxiv.org/abs/2310.04612 A Topological Perspective on Demystifying GNN-Based Link Prediction Performance] in collaboration with Snap Inc. is accepted at *ICLR2024*
+~~
+
+~~
 === 2023
 - 12/2023: Honored to receive *Vanderbilt's Provost Immersion Grant for Faculty*
 - 12/2023: Our paper  [https://arxiv.org/abs/2308.11730 ``Knowledge Graph Prompting for Multi-Document Question Answering''] received the *Best Paper Award* by the New Frontiers in Graph Learning (GLFrontiers) Workshop at NeurIPS2023

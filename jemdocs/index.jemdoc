@@ -7,14 +7,13 @@
 #{}{img_left}{images/TylerDerr_zoomed.png}{Image ofTyler}{175}{175}{images/TylerDerr_zoomed.png}
 
 Assistant Professor \n
-Computer Science, Data Science \n
-[https://engineering.vanderbilt.edu/cs/ Department of CS],
-[https://www.vanderbilt.edu/datascience/ Data Science Institute] \n
+[https://engineering.vanderbilt.edu/cs/ Department of Computer Science],
+[https://www.vanderbilt.edu/chancellor/initiatives-and-outreach/growth/connected-computing/ College of Connected Computing] \n
 [https://www.vanderbilt.edu/ Vanderbilt University] \n
 
 [http://my.vanderbilt.edu/nds Network and Data Science (NDS) Lab]
 
-Email: Tyler (dot) Derr (at) vanderbilt (dot) edu\n
+Email: (first).(last)@vanderbilt.edu\n
 Mail: 400 24th Ave S Rm 254, Nashville, TN 37212
 
 
@@ -24,24 +23,18 @@ Mail: 400 24th Ave S Rm 254, Nashville, TN 37212
 ~~
 
 \n
-== Bio
+== Short Bio
 
-Dr. Tyler Derr is an Assistant Professor in the [https://engineering.vanderbilt.edu/cs/ Department of Computer Science], Teaching and Affiliate Faculty in the [https://www.vanderbilt.edu/datascience/ Data Science Institute], and Faculty Fellow in the [https://www.vanderbilt.edu/autismandinnovation/ Frist Center for Autism and Innovation] at [https://www.vanderbilt.edu/ Vanderbilt University]. Before that, he received his PhD in Computer Science from Michigan State University in 2020 under the supervision of [http://www.cse.msu.edu/~tangjili Dr. Jiliang Tang]. He has published 50+ papers in highly ranked journals and top conference proceedings, with h-index 30 and i10-index 55 ([https://scholar.google.com/citations?user=et6IhFcAAAAJ Google Scholar]).
-
-Tyler directs the [http://my.vanderbilt.edu/nds Network and Data Science (NDS)] lab, which conducts research in the areas of data mining and machine learning, with emphasis on social network analysis, deep learning on graphs, and data science for social good with applications in drug discovery, education, political science, and neurodiversity. He has mentored his Ph.D. students to receive numerous honors and awards, including Vanderbilt’s C. F. Chen Best Paper Award in 2022 and Runner-Up Award in 2023, the sole recipient of Vanderbilt’s Graduate Leadership Anchor Award for Research in 2023, Finalist in Vanderbilt’s Three Minute Thesis (3MT) Competition in 2023, 1st place in Vanderbilt’s AI Showcase in 2024, and Vanderbilt’s Outstanding Doctoral Student Award in 2024. They have also received the NVIDIA Academic Hardware Grants in 2022 and the DOE Computational Science Graduate Fellowship in 2024.
-
-He is actively involved in the research community, both through publishing extensively at top conferences and serving as a reviewer and committee member (AC\/SPC\/PC), earning three Best Reviewer Awards. His research has also been recognized with the Best Paper Award at the GLFrontiers Workshop at NeurIPS’23, the Best Student Poster Award at SDM’19, and Paper Digest selections for top-10 Most Influential Papers at CIKM’22 and WWW’23. He has served on organizing committees for major international conferences, including CIKM, DSAA, KDD, SDM, and WSDM, and co-founded the Machine Learning on Graphs (MLoG) Workshop series, which has run for six iterations. In addition, he serves as an Associate Editor for Tsinghua Science and Technology, ACM Transactions on Knowledge Discovery from Data, and IEEE Transactions on Big Data.
-
-Passionate about education and dissemination, he has delivered tutorials on Graph Neural Networks at AAAI, CIKM, KDD, and SDM, and given numerous invited talks at places including the ACM Web Conference’s Knowledge Graph Day, Tsinghua University's Foundation Model Research Center, Max Planck Institute for Mathematics in the Sciences, and Nanyang Technological University (NTU). 
-
-Tyler has been recognized for research excellence through several prestigious honors, including the [https://engineering.vanderbilt.edu/news/2023/vanderbilt-researcher-wins-nsf-career-award-to-close-a-gap-in-network-analysis-by-better-modeling-negative-online-interactions-like-unfollowing-and-blocking/ NSF CAREER Award] (2023), an NVIDIA Academic Grant Program Award (2024), Young Investigator Best Paper Award from KDD Health Day (2025), and selection for the Visiting Faculty Research Program at AFRL/RI (2023). Additionally, he has received multiple Vanderbilt awards for excellence in teaching and mentorship, including the School of Engineering’s Fall 2020 [https://engineering.vanderbilt.edu/news/2021/five-engineering-faculty-recognized-with-innovative-teaching-awards/ Teaching Innovation Award], the 2024 Provost Immersion Grant for Faculty, and the 2025 Career Catalyst Impact Award.
+Dr. Tyler Derr is an Assistant Professor of Computer Science at Vanderbilt University and Director of the Network and Data Science Lab. His research advances graph machine learning and data-centric AI, with applications such as social networks, recommender systems, and drug discovery. He has published 60+ papers in top AI\/DM\/ML venues, received the NSF CAREER Award and numerous other research accolades, and is active in the research community through major conference leadership, tutorials, and mentoring award-winning students.
+(Extended versions can be found [bios.html here].)
 
 
-== Recent News (before 2024 can be seen [news.html here])
+== Recent News
+(before 2025 can be seen [news.html here])
 
 ~~
 === 2025
-- 8/2025: Honored to receive a *Young Investigator Best Paper Award* (3rd) from KDD'25 Health Day supported by the Computing Community Consortium (CCC) for my Blue Sky Ideas paper ``Referral Required: When AI Blocks Access to Human Doctors'' 
+- 8/2025: Honored to receive a *Young Investigator Best Paper Award* (3rd) from KDD'25 Health Day for my Blue Sky paper ``Referral Required: When AI Blocks Access to Human Doctors'' 
 - 8/2025: Preprint [https://arxiv.org/abs/2508.01128 ``Towards Bridging Review Sparsity in Recommendation with Textual Edge Graph Representation'']
 - 8/2025: Honored to serve as *Senator* in [https://www.vanderbilt.edu/faculty-senate/find-your-senator/ Vanderbilt's Faculty Senate] as a School of Engineering representative
 - 7/2025: Honored to receive an *NSF* grant for the project [https://www.nsf.gov/awardsearch/showAward?AWD_ID=2524380 Towards Well-Rounded Graph Retrieval for Retrieval-Augmented Generation]
@@ -70,62 +63,6 @@ Expert-Crafted Descriptors] is accepted in the Journal of Chemical Information a
 - 1/2025: Our paper ``Demystifying the Power of Large Language Models in Graph Generation'' is accepted at *NAACL2025* Findings
 ~~
 
-~~
-=== 2024
-- 12/2024: Honored to receive the *NVIDIA Academic Grant Program Award* for our project ``Cyclic Peptide Design with NVIDIA's BioNeMo Platform''
-- 12/2024: PhD student [https://arstanley.github.io/ Bo Ni]'s first paper since joining NDS ``Towards Trustworthy Knowledge Graph Reasoning: An Uncertainty Aware Perspective'' is accepted at *AAAI2025*
-- 12/2024: BS student Leyao Wang received an *Honorable Mention* for the 2024-2025 *CRA Outstanding Undergraduate Researcher Award*
-- 12/2024: Congratulations to the two teams from my course, Project in Data Centric-AI and Mining, who won *1st* and *3rd* place FortyAU Awards out of 44 teams in Vanderbilt's CS Immersion Showcase
-- 11/2024: PhD student [https://www.liuyunchao.com/ Yunchao (Lance) Liu] successfully defended his PhD dissertation ``*Geometric Deep Learning in Drug Discovery*'' -- congratulations, Dr. Liu! /Next Position/: Computational Scientist/Postdoc at Broad Institute of MIT and Harvard
-- 11/2024: Preprint [https://www.biorxiv.org/content/10.1101/2024.11.18.624208v1 ``SuperWater: Predicting Water Molecule Positions on Protein Structures by Generative AI'']
-- 11/2024: Preprint [https://arxiv.org/abs/2411.00027 ``Personalization of Large Language Models: A Survey'']
-- 11/2024: Gave an *invited talk* ``Data Quality-Aware Graph Machine Learning'' in the College of Computing and Data Science at [https://www.ntu.edu.sg/computing Nanyang Technological University]
-- 10/2024: Preprint [https://arxiv.org/abs/2410.19214 ``A Comprehensive Analysis of Social Tie Strength: Definitions, Prediction Methods, and Future Directions'']
-- 10/2024: Preprint [https://arxiv.org/abs/2410.16882 ``Large Language Model-based Augmentation for Imbalanced Node Classification on Text-Attributed Graphs'']
-- 10/2024: Gave an *invited keynote* ``Demystifying the Node-Level Link Prediction Variability of Graph Neural Networks'' at the [https://oars-workshop.github.io/ Online and Adaptive Recommender Systems (OARS) Workshop] at CIKM2024
-- 10/2024: Gave an *invited talk* ``Ethical AI in Recommender Systems: Fairness, Diversity, and Explainability'' at the [https://kil-workshop.github.io/KG-STAR/ Knowledge Graphs for Responsible AI (KG-STAR) Workshop] at CIKM2024
-- 10/2024: We presented our [https://nds-vu.github.io/tutorials/cikm24/ tutorial] on Data Quality-Aware Graph Machine Learning at CIKM2024
-- 10/2024: Our paper [https://arxiv.org/abs/2406.11685 ``Edge Classification on Graphs: New Directions in Topological Imbalance''] is accepted at *WSDM2025*
-- 10/2024: Gave an *invited talk* ``Demystifying the Node-Level Link Prediction Variability of Graph Neural Networks'' in the [https://math.vanderbilt.edu/ellingmn/gtcsem.html Vanderbilt Graph Theory and Combinatorics Seminar]
-- 10/2024: Preprint [https://arxiv.org/abs/2410.08985 ``Towards Trustworthy Knowledge Graph Reasoning: An Uncertainty Aware Perspective'']
-- 9/2024: Our paper [https://www.welqrate.org/ WelQrate: Defining the Gold Standard in Small Molecule Drug Discovery Benchmarking] is accepted at *NeurIPS2024*
-- 9/2024: Our paper [https://arxiv.org/pdf/2406.15283v1 FT-AED: Benchmark Dataset for Early Freeway Traffic Anomalous Event Detection] is accepted at *NeurIPS2024*
-- 9/2024: Our paper [https://arxiv.org/abs/2311.14934 Robust Graph Neural Networks via Unbiased Aggregation] is accepted at *NeurIPS2024*
-- 9/2024: PhD student [https://atumlin.github.io/ Anne Tumlin]'s first paper since joining NDS ``FairNNV: The Neural Network Verification Tool For Certifying Fairness'' is accepted at ACM Conference on AI in Finance (*ICAIF2024*)
-- 8/2024: Our paper [https://arxiv.org/abs/2308.16375 ``A Survey on Privacy in Graph Neural Networks: Attacks, Preservation, and Applications''] is accepted at *IEEE TKDE*
-- 8/2024: Invited to serve as *Associate Editor* for ACM Transactions on Knowledge Discovery from Data (*TKDD*)
-- 8/2024: Gave an *invited keynote* ``Ethical AI in Recommender Systems: Fairness, Diversity, and Explainability'' at the [https://ai-activities.github.io/EAI-workshop-24/keynote/ Ethical Artificial Intelligence Methods and Applications (EAI-KDD) Workshop] at KDD2024
-- 8/2024: Preprint [https://arxiv.org/pdf/2408.01129 ``A Survey of Mamba'']
-- 8/2024: Invited to serve as *Doctoral Forum Chair for SDM2025*
-- 8/2024: Gave an *invited talk* ``Data Quality-Aware Graph Machine Learning'' in the School of Data Science at [https://sds.cuhk.edu.cn/en The Chinese University of Hong Kong, Shenzhen] in their Discover CUHK-Shenzhen-ZJU Elite Students Summer Camp
-- 8/2024: Visited [https://www.polyu.edu.hk/comp/ The Hong Kong Polytechnic University (PolyU)]
-- 7/2024: Our paper [https://arxiv.org/abs/2405.17602 ``Augmenting Textual Generation via Topology Aware Retrieval''] is accepted at *CIKM2024*
-- 7/2024: Taught an invited seminar series on Social Network Analysis at [http://en.scit.bjtu.edu.cn/ Beijing Jiaotong University]
-- 7/2024: Our tutorial [https://nds-vu.github.io/tutorials/cikm24/ ``Data-Quality-Aware Graph Machine Learning''] is accepted at *CIKM2024*
-- 7/2024: Our paper ``EDGE-UP: Enhanced Dynamic GNN Ensemble for Unfollow Prediction in Online Social Networks'' is accepted at *ASONAM2024*
-- 6/2024: Our dataset and interactive visualization for early freeway traffic anomalous event detection (FT-AED) is now available ([https://vu.edu/ft-aed/ link]), which is the first large-scale lane-level freeway traffic dataset for anomaly detection
-- 6/2024: Preprint [https://arxiv.org/pdf/2406.15283v1 ``FT-AED: Benchmark Dataset for Early Freeway Traffic Anomalous Event Detection''] 
-- 6/2024: Preprint [https://arxiv.org/abs/2406.11685 ``Edge Classification on Graphs: New Directions in Topological Imbalance'']
-- 6/2024: Awarded *NSF* grant to support student travel for US-based students to attend KDD2024
-- 6/2024: Our LGGM Text2Graph Generation [https://lggm-lg.github.io/ demo] is now live, which is the first large graph generative model that supports generating graphs from textual descriptions
-- 6/2024: Preprint [https://arxiv.org/abs/2406.05109 ``Large Graph Generative Models'']
-- 5/2024: Preprint [https://arxiv.org/abs/2405.17602 ``Augmenting Textual Generation via Topology Aware Retrieval'']
-- 5/2024: Invited to serve as *Student Travel Chair for WSDM2025*
-- 4/2024: PhD student [https://yunchaoliu.github.io/ Yunchao (Lance) Liu]'s team won *1st place* in the AI Showcase at VU Data Science Institute presenting the project DiffWater
-- 4/2024: We presented out *tutorial* on [https://nds-vu.github.io/tutorials/sdm24/ Data Quality-Aware Graph Machine Learning] at *SDM2024*
-- 4/2024: PhD student [https://yuwvandy.github.io/ Yu Wang] received the *Best Doctoral Forum Poster Runner-Up* award at SDM2024 
-- 4/2024: PhD student [https://atumlin.github.io/ Anne Tumlin] was awarded the [https://www.energy.gov/science/articles/welcoming-new-computational-science-graduate-fellows Department of Energy *(DOE) Computational Science Graduate Fellowship*]!
-- 4/2024: Our paper [https://arxiv.org/abs/2307.04644 ``Fairness and Diversity in Recommender Systems: A Survey''] is accepted at *ACM TIST*
-- 3/2024: MS student [https://www.linkedin.com/in/catherine-yang127/ Catherine Yang] successfully defended her MS thesis ``*An Analysis of Local Neighborhood-based Paradoxes in Signed Social Networks*'' -- congratulations! Next Position: Software Engineer at Microsoft 
-- 3/2024: PhD student [https://yuwvandy.github.io/ Yu Wang] was awarded *Vanderbilt's Outstanding Doctoral Student Award* (one of three for the whole university)
-- 3/2023: Invited to serve as *Student Travel Chair for CIKM2024* 
-- 3/2024: *PhD student [https://yuwvandy.github.io/ Yu Wang] will be joining University of Oregon as a Tenure-track Assistant Professor in Computer Science starting in Fall'24* - congratulations, Prof. Wang! 
-- 2/2024: Congratulations to Laura Wang who was selected for the *Vanderbilt Undergraduate Summer Research Program* (VUSRP) for her proposed research in the NDS Lab 
-- 2/2024: Our paper ``Knowledge Graph-based Session Recommendation with Session-Adaptive Propagation'' in collaboration with The Home Depot is accepted at *WWW2024* 
-- 1/2024: Our paper [https://arxiv.org/abs/2402.13495 ``Can One Embedding Fit All? A Multi-Interest Learning Paradigm Towards Improving User Interest Diversity Fairness''] in collaboration with Visa Research is accepted at *WWW2024*
-- 1/2024: Gave an *invited talk* ``Network Science for Social Good'' in the Frist Center Salon Series 
-- 1/2024: Our paper [https://arxiv.org/abs/2310.04612 A Topological Perspective on Demystifying GNN-Based Link Prediction Performance] in collaboration with Snap Inc. is accepted at *ICLR2024*
-~~
 
 
 
