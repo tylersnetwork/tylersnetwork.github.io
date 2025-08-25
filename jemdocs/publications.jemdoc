@@ -2,6 +2,9 @@
 = Tyler Derr - Publications
 
 == Preprints
+. [https://arxiv.org/abs/2508.06734 Mitigating Distribution Shift in Graph-Based Android Malware Classification via Function Metadata and LLM Embeddings]. \n Ngoc N. Tran, Anwar Said, Waseem Abbas, /Tyler Derr/, Xenofon Koutsoukos. \n
+. [https://arxiv.org/abs/2508.12533 Defining and Benchmarking a Data-Centric Design Space for Brain Graph Construction]. \n Qinwen Ge, Roza G. Bayrak, Anwar Said, Catie Chang, Xenofon Koutsoukos, /Tyler Derr/. \n
+. [https://arxiv.org/abs/2508.12466 Inverse-LLaVA: Eliminating Alignment Pre-training Through Text-to-Vision Mapping]. \n Xuhui Zhan, /Tyler Derr/. \n
 . [https://arxiv.org/abs/2508.01128 Towards Bridging Review Sparsity in Recommendation with Textual Edge Graph Representation]. \n Leyao Wang*, Xutao Mao*, Xuhui Zhang, Yuying Zhao, Bo Ni, Ryan Rossi, Nesreen Ahmed, /Tyler Derr/. \n
 . [https://arxiv.org/abs/2505.01695 SimAug: Enhancing Recommendation with Pretrained Language Models for Dense and Balanced Data Augmentation]. \n Yuying Zhao, Xiaodong Yang, Huiyuan Chen, Xiran Fan, Yu Wang, Yiwei Cai, /Tyler Derr/. \n
 . [https://arxiv.org/abs/2505.01698 Amplifying Your Social Media Presence: Personalized Influential Content Generation with LLMs]. \n Yuying Zhao, Yu Wang, Xueqi Cheng, Anne Marie Tumlin, Yunchao Liu, Damin Xia, Meng Jiang, /Tyler Derr/. \n
@@ -31,7 +34,7 @@ Yunchao ``Lance'' Liu, Rocco Moretti, Yu Wang, Ha Dong, Bailu Yan, Bobby Bodenhe
 . [https://dl.acm.org/doi/10.1145/3716550.3725156 Real-Time Freeway Traffic Anomalous Event Detection System via Radar Detector Sensors]. \n Austin Coursey, Junyi Ji, Zhiyao Zhang, William Barbour, Marcos Quinones-Grueiro, /Tyler Derr/, Gautam Biswas and Daniel Work. \n ACM/IEEE International Conference on Cyber-Physical Systems (*ICCPS*), Irvine, CA, USA, May 6 - 9, 2025. \n
 . Signed Network Dataset Repository: Extracting Signed Relations From Social Networks. \n Aikta Arya, Pradumn Kumar Pandey, /Tyler Derr/. IEEE International Conference on Communications (*ICC*), Montreal, Canada, June 8-12, 2025. \n
 . Demystifying the Power of Large Language Models in Graph Generation. \n Yu Wang, Ryan A. Rossi, Namyong Park, Nesreen K. Ahmed, Danai Koutra, Franck Dernoncourt, /Tyler Derr/. \n In Findings of the Association for Computational Linguistics: *NAACL*, Albuquerque, NM, USA, April 29 - May 4, 2025. \n
-. [https://arxiv.org/abs/2406.05109 A Large-scale Training Paradigm for Graph Generative Models]. \n Yu Wang, Ryan Rossi, Namyong Park, Huiyuan Chen, Nesreen K.Ahmed, Puja Trivedi, Franck Dernoncourt, Danai Koutra, and /Tyler Derr/. \n In Proceedings of the 13th International Conference on Learning Representations (*ICLR*), Singapore, April 24-28, 2025. \n
+. [https://arxiv.org/abs/2406.05109 A Large-scale Training Paradigm for Graph Generative Models]. \n Yu Wang, Ryan Rossi, Namyong Park, Huiyuan Chen, Nesreen K.Ahmed, Puja Trivedi, Franck Dernoncourt, Danai Koutra, /Tyler Derr/. \n In Proceedings of the 13th International Conference on Learning Representations (*ICLR*), Singapore, April 24-28, 2025. \n
 . [https://arxiv.org/abs/2410.08985 Towards Trustworthy Knowledge Graph Reasoning: An Uncertainty Aware Perspective]. \n Bo Ni, Yu Wang, Lu Cheng, Erik Blasch, /Tyler Derr/. \n
 In Proceedings of the 39th AAAI Conference on Artificial Intelligence (*AAAI*), Philadelphia, PA, USA, February 25 - March 4, 2025. \n
 \[Code [https://github.com/Arstanley/UAG repo]\]
