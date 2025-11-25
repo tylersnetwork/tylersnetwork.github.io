@@ -25,7 +25,7 @@ Mail: 400 24th Ave S Rm 254, Nashville, TN 37212
 \n
 == Short Bio
 
-Dr. Tyler Derr is an Assistant Professor of Computer Science at Vanderbilt University and Director of the Network and Data Science Lab. His research advances graph machine learning and data-centric AI, with applications such as social networks, recommender systems, and drug discovery. He has published 60+ papers in top AI\/DM\/ML venues, received the NSF CAREER Award and numerous other research accolades, and is active in the research community through major conference leadership, tutorials, and mentoring award-winning students.
+Dr. Tyler Derr is an Assistant Professor of Computer Science at Vanderbilt University and Director of the Network and Data Science Lab. His research develops new methods in graph machine learning, large language models and AI agents, and data-centric \& trustworthy AI, which are applied to domains including social networks, recommender systems, and computational drug discovery. He has published 60+ papers in top AI\/DM\/ML venues, received the NSF CAREER Award and other research distinctions, and is active in the research community through major conference leadership, tutorials, and mentorship of award-winning students.
 (Extended bios can be found [bios.html here].)
 
 
@@ -38,9 +38,9 @@ Dr. Tyler Derr is an Assistant Professor of Computer Science at Vanderbilt Unive
 - 11/2025: Honored to receive *Vanderbilt's Provost Immersion Grant for Faculty* to support our work ``Building Trustworthy AI: Ensuring Privacy and Security in Language Models''
 - 11/2025: Our paper ``Graph2Video: Leveraging Video Models to Model Dynamic Graph Evolution'' is accepted at *AAAI2026*
 - 11/2025: Our paper ``SuperWater as a Generative AI Framework to Predict Water Molecule Positions on Protein Structures'' is accepted at *Communications Chemistry* 
-- 10/2025: Preprint Scaffold-Aware Generative Augmentation and Reranking for Enhanced Virtual Screening
+- 10/2025: Preprint [https://www.arxiv.org/abs/2510.16306 Scaffold-Aware Generative Augmentation and Reranking for Enhanced Virtual Screening]
 - 10/2025: Invited to serve as a member of the [https://www.learning4graphs.org/ IEEE Task Force on Learning for Graphs] 
-- 10/2025: Recognized on the 2025 [https://topscinet.com/scientist_profile/Derr,%20Tyler/2017/?stype=single_year Stanford/Elsevier list of the World's Top 2% Scientists]
+- 10/2025: Recognized on the *2025 Stanford\/Elsevier  [https://topscinet.com/scientist_profile/Derr,%20Tyler/2017/?stype=single_year list] of the World's Top 2\% Scientists*
 - 9/2025: Preprint [papers/LLM-based_User_Simulated_Data_Generation_Survey.pdf Large Language Models for Conversational User Simulation: A Comprehensive Survey] 
 - 8/2025: Preprint [https://arxiv.org/abs/2508.06734 Mitigating Distribution Shift in Graph-Based Android Malware Classification via Function Metadata and LLM Embeddings]
 - 8/2025: Preprint [https://arxiv.org/abs/2508.12533 Defining and Benchmarking a Data-Centric Design Space for Brain Graph Construction]
@@ -53,7 +53,7 @@ Dr. Tyler Derr is an Assistant Professor of Computer Science at Vanderbilt Unive
 - 7/2025: Honored to receive an *NSF* grant for the project [https://www.nsf.gov/awardsearch/showAward?AWD_ID=2524380 Towards Well-Rounded Graph Retrieval for Retrieval-Augmented Generation]
 - 7/2025: Our paper ``Explanation Difference: Bridging Procedural and Distributional Fairness'' is accepted at AAAI\/ACM Conference on AI, Ethics, and Society (*AIES*)
 - 6/2025: Invited to give a *KDD'25 Health Day Blue Sky Spotlight talk* ``Referral Required: When AI Blocks Access to Human Doctors''
-- 6/2025: Recognized as a 2024 *Top Scholar by ScholarGPS*, ranking in the top 0.5% worldwide overall and top 100 in Data Mining
+- 6/2025: Recognized as a *2024 Top Scholar by ScholarGPS*, ranking in the top 0.5% worldwide overall and ranked top 50 in Data Mining over the past five years
 - 6/2025: Our paper ``Edges Matter: An Analysis of Graph Time-Series Representations for Temporal Networks'' is accepted in IEEE Transactions on Network Science and Engineering (*TNSE*)
 - 5/2025: Our paper [https://arxiv.org/abs/2411.00027 ``Personalization of Large Language Models: A Survey''] is accepted in Transactions on Machine Learning Research (*TMLR*)
 - 5/2025: Our paper [https://arxiv.org/abs/2410.19214 ``BTS: A Comprehensive Benchmark for Tie Strength Prediction''] is accepted at *KDD2025*
