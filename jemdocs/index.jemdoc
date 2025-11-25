@@ -26,7 +26,7 @@ Mail: 400 24th Ave S Rm 254, Nashville, TN 37212
 == Short Bio
 
 Dr. Tyler Derr is an Assistant Professor of Computer Science at Vanderbilt University and Director of the Network and Data Science Lab. His research advances graph machine learning and data-centric AI, with applications such as social networks, recommender systems, and drug discovery. He has published 60+ papers in top AI\/DM\/ML venues, received the NSF CAREER Award and numerous other research accolades, and is active in the research community through major conference leadership, tutorials, and mentoring award-winning students.
-(Extended versions can be found [bios.html here].)
+(Extended bios can be found [bios.html here].)
 
 
 == Recent News
@@ -34,6 +34,14 @@ Dr. Tyler Derr is an Assistant Professor of Computer Science at Vanderbilt Unive
 
 ~~
 === 2025
+- 11/2025: Our paper [https://arxiv.org/abs/2410.16882 SAVE-TAG: Semantic-Aware Vicinal Risk Minimization for Long-Tailed Text-Attributed Graphs] is accepted at *KDD2026*
+- 11/2025: Honored to receive *Vanderbilt's Provost Immersion Grant for Faculty* to support our work ``Building Trustworthy AI: Ensuring Privacy and Security in Language Models''
+- 11/2025: Our paper ``Graph2Video: Leveraging Video Models to Model Dynamic Graph Evolution'' is accepted at *AAAI2026*
+- 11/2025: Our paper ``SuperWater as a Generative AI Framework to Predict Water Molecule Positions on Protein Structures'' is accepted at *Communications Chemistry* 
+- 10/2025: Preprint Scaffold-Aware Generative Augmentation and Reranking for Enhanced Virtual Screening
+- 10/2025: Invited to serve as a member of the [https://www.learning4graphs.org/ IEEE Task Force on Learning for Graphs] 
+- 10/2025: Recognized on the 2025 [https://topscinet.com/scientist_profile/Derr,%20Tyler/2017/?stype=single_year Stanford/Elsevier list of the World's Top 2% Scientists]
+- 9/2025: Preprint [papers/LLM-based_User_Simulated_Data_Generation_Survey.pdf Large Language Models for Conversational User Simulation: A Comprehensive Survey] 
 - 8/2025: Preprint [https://arxiv.org/abs/2508.06734 Mitigating Distribution Shift in Graph-Based Android Malware Classification via Function Metadata and LLM Embeddings]
 - 8/2025: Preprint [https://arxiv.org/abs/2508.12533 Defining and Benchmarking a Data-Centric Design Space for Brain Graph Construction]
 - 8/2025: Preprint [https://arxiv.org/abs/2508.12466 Inverse-LLaVA: Eliminating Alignment Pre-training Through Text-to-Vision Mapping]
