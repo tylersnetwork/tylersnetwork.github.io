@@ -25,7 +25,7 @@ Mail: 400 24th Ave S Rm 254, Nashville, TN 37212
 \n
 == Short Bio
 
-Dr. Tyler Derr is an Assistant Professor of Computer Science at Vanderbilt University and Director of the Network and Data Science Lab. His research develops new methods in graph machine learning, large language models and AI agents, and data-centric \& trustworthy AI, which are applied to domains including social networks, recommender systems, and computational drug discovery. He has published 60+ papers in top AI\/DM\/ML venues, received the NSF CAREER Award and other research distinctions, and is active in the research community through major conference leadership, tutorials, and mentorship of award-winning students.
+Dr. Tyler Derr is an Assistant Professor of Computer Science at Vanderbilt University and Director of the Network and Data Science Lab. His research develops new methods in graph machine learning, large language models and AI agents, and data-centric \& trustworthy AI, which are applied to domains including social networks, recommender systems, and computational drug discovery. He has published 70+ papers in top AI\/DM\/ML venues, received the NSF CAREER Award and other research distinctions, and is active in the research community through major conference leadership, tutorials, and mentorship of award-winning students.
 (Extended bios can be found [bios.html here].)
 
 
@@ -33,7 +33,14 @@ Dr. Tyler Derr is an Assistant Professor of Computer Science at Vanderbilt Unive
 (before 2025 can be seen [news.html here])
 
 ~~
+=== 2026
+- 1/2026: Our survey [papers/LLM-based_User_Simulated_Data_Generation_Survey.pdf Large Language Models for Conversational User Simulation: A Comprehensive Survey] is accepted at *EACL* (Main)
+- 1/2026: Our paper [https://arxiv.org/abs/2512.03100 Ensemble Privacy Defense for Knowledge-Intensive LLMs against Membership Inference Attacks] is accepted at *EACL* (Findings)
+~~
+
+~~
 === 2025
+- 12/2025: Preprint [https://arxiv.org/abs/2512.03100 Ensemble Privacy Defense for Knowledge-Intensive LLMs against Membership Inference Attacks]
 - 11/2025: Our paper [https://arxiv.org/abs/2410.16882 SAVE-TAG: Semantic-Aware Vicinal Risk Minimization for Long-Tailed Text-Attributed Graphs] is accepted at *KDD2026*
 - 11/2025: Honored to receive *Vanderbilt's Provost Immersion Grant for Faculty* to support our work ``Building Trustworthy AI: Ensuring Privacy and Security in Language Models''
 - 11/2025: Our paper ``Graph2Video: Leveraging Video Models to Model Dynamic Graph Evolution'' is accepted at *AAAI2026*
@@ -71,6 +78,7 @@ Expert-Crafted Descriptors] is accepted in the Journal of Chemical Information a
 - 3/2025 Our work [https://www.biorxiv.org/content/10.1101/2024.11.18.624208v1 SuperWater: Predicting Water Molecule Positions on Protein Structures by Generative AI] was accepted and presented at *NVIDIA GTC AI Conference*
 - 3\/2025: Our demo paper [https://dl.acm.org/doi/10.1145/3716550.3725156 Real-Time Freeway Traffic Anomalous Event Detection System via Radar Detector Sensors] is accepted at ACM/IEEE International Conference on Cyber-Physical Systems (*ICCPS2025*)
 - 2/2025: Our workshop [https://mlgraphworkshop.github.io/ Machine Learning on Graphs in the Era of Artificial General Intelligence] is accepted at *KDD2025*
+- 2/2025: Preprint [https://arxiv.org/abs/2502.06872 Towards Trustworthy Retrieval Augmented Generation for Large Language Models: A Survey]
 - 1/2025: Our paper [https://aikta-arya.github.io/SigNET-/ Signed Network Dataset Repository: Extracting Signed Relations from Social Networks] is accepted at IEEE *ICC2025*
 - 1/2025: Our paper [https://arxiv.org/abs/2406.05109 A Large-scale Training Paradigm for Graph Generative Models] is accepted at *ICLR2025*
 - 1/2025: Our paper ``Demystifying the Power of Large Language Models in Graph Generation'' is accepted at *NAACL2025* Findings
