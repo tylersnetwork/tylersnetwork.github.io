@@ -13,7 +13,6 @@
 . [https://arxiv.org/abs/2505.01698 Amplifying Your Social Media Presence: Personalized Influential Content Generation with LLMs]. \n Yuying Zhao, Yu Wang, Xueqi Cheng, Anne Marie Tumlin, Yunchao Liu, Damin Xia, Meng Jiang, /Tyler Derr/. \n
 . [https://arxiv.org/abs/2502.06872 Towards Trustworthy Retrieval Augmented Generation for Large Language Models: A Survey]. \n Bo Ni, Zheyuan Liu, Leyao Wang, Yongjia Lei, Yuying Zhao, Xueqi Cheng, Qingkai Zeng, Luna Dong, Yinglong Xia, Krishnaram Kenthapadi, \n Ryan Rossi, Franck Dernoncourt, Md Mehrab Tanjim, Nesreen Ahmed, Xiaorui Liu, Wenqi Fan, Erik Blasch, Yu Wang, Meng Jiang, /Tyler Derr/. \n
 \[Code [https://github.com/Arstanley/RAG-Trust-Benchmark repo]\]
-. [https://arxiv.org/pdf/2408.01129 A Survey of Mamba]. \n Haohao Qu, Liangbo Ning, Rui An, Wenqi Fan, /Tyler Derr/, Hui Liu, Xin Xu, Qing Li. \n
 . [https://arxiv.org/abs/2310.02164 Graph Unlearning: A Review]. \n Anwar Said, Ngoc N. Tran (co-first author), Yuying Zhao, /Tyler Derr/, Mudassir Shabbir, Waseem Abbas, Xenofon Koutsoukos. \n 
 . [https://yuwvandy.github.io/paper/dpgnn.pdf Distance-wise Prototypical Graph Neural Network for Imbalanced Node Classification.] \n
 Yu Wang, Charu Aggarwal, and /Tyler Derr/. \n
@@ -26,7 +25,11 @@ Haochen Liu, Zhiwei Wang, /Tyler Derr/, Zitao Liu, and Jiliang Tang. \n
 . [https://arxiv.org/abs/1909.06044 Say What I Want: Towards the Dark Side of Neural Dialogue Models.] \n
 Haochen Liu, /Tyler Derr/, Zitao Liu, and Jiliang Tang. \n
 
+
 == 2026
+. A Survey on Signed Network Reconstruction Modeling and its Applications. \n Aikta Arya, Pradumn Kumar Pandey, Niloy Ganguly, /Tyler Derr/. \n ACM Transactions on Knowledge Discovery from Data (*TKDD*), 2026. \n 
+. [https://arxiv.org/pdf/2408.01129 A Survey of Mamba]. \n Haohao Qu, Liangbo Ning, Rui An, Wenqi Fan, /Tyler Derr/, Hui Liu, Xin Xu, Qing Li. \n ACM Transactions on Intelligent Systems and Technology (*TIST*), 2026. \n
+. Referral Required: When AI Blocks Access to Human Doctors \n /Tyler Derr./ ACM AI Letters (*AILET*), 2026. \n
 . [papers/LLM-based_User_Simulated_Data_Generation_Survey.pdf Large Language Models for Conversational User Simulation: A Comprehensive Survey] \n Bo Ni, Leyao Wang, Yu Wang, Branislav Kveton, Franck Dernoncourt, Yu Xia, Hongjie Chen, Reuben Leura, Samyadeep Basu, Subhojyoti Mukherjee, \n Puneet Mathur, Nesreen Ahmed, Junda Wu, Li Li, Huixin Zhang, Ruiyi Zhang, Tong Yu, Sungchul Kim, Jiuxiang Gu, Zhengzhong Tu, Alexa Siu, \n Zichao Wang, David Seunghyun Yoon, Nedim Lipka, Namyong Park, Zihao Lin, Trung Bui, Yue Zhao, /Tyler Derr/, Ryan A. Rossi. \n In Proceedings of the 19th Conference of the European Chapter of the Association for Computational Linguistics (*EACL*), Rabat, Morocco, March 24-29, 2026. \n
 \[Survey [https://github.com/Arstanley/Awesome-LLM-Conversation-Simulation repo]\]
 . [https://arxiv.org/abs/2512.03100 Ensemble Privacy Defense for Knowledge-Intensive LLMs against Membership Inference Attacks] \n Haowei Fu, Bo Ni (co-first author), Han Xu, Kunpeng Liu, Dan Lin, /Tyler Derr/. \n In Findings of the Association for Computational Linguistics: *EACL*, Rabat, Morocco, March 24-29, 2026. \n
