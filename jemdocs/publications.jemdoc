@@ -2,6 +2,10 @@
 = Tyler Derr - Publications
 
 == Preprints
+. [https://arxiv.org/abs/2604.24996 Sparse Personalized Text Generation with Multi-Trajectory Reasoning] \n Bo Ni, Haowei Fu, Qinwen Ge, Franck Dernoncourt, Samyadeep Basu, Nedim Lipka, Seunghyun Yoon, Yu Wang, Nesreen K Ahmed, Subhojyoti Mukherjee, Puneet Mathur, Ryan A Rossi, /Tyler Derr/. \n
+. [https://arxiv.org/abs/2604.18955v1 Assessing Capabilities of Large Language Models in Social Media Analytics: A Multi-task Quest]. \n Ramtin Davoudi, Kartik Thakkar, Nazanin Donyapour, /Tyler Derr/, Hamid Karimi. \n 
+. [https://hal.science/hal-05555227v1/file/Figure_Captioning_and_Reasoning_Survey__ARR_Jan_6__without_SoC.pdf Figure Captioning with Large Generative Models: A Survey]. \n Chan-Wei Hu, Reuben Luera, Franck Dernoncourt, Huanjiang Liu, Seon Gyeom Kim, Ashish Singh, Puneet Mathur, Bo Ni, Samyadeep Basu, Hongjie Chen, Tak Yeon Lee, Edward Hsu, Seunghyun Yoon, Nesreen K. Ahmed, Li Li, Tong Yu, Sungchul Kim, Branislav Kveton, Subhojyoti Mukherjee, Jiuxiang Gu, Jihyung Kil, Zhehao Zhang, Junda Wu, Ashutosh Singh, Zichao Wang, Ruiyi Zhang, Yue Zhao, Nedim Lipka, Thien Huu Nguyen, /Tyler Derr/, Zhengzhong Tu, Yu Wang, Ting-Hao Kenneth Huang, Ryan A. Rossi. \n
+. [https://arxiv.org/abs/2602.21219 Reasoning-Based Personalized Generation for Users with Sparse Data]. \n Bo Ni, Branislav Kveton, Samyadeep Basu, Subhojyoti Mukherjee, Leyao Wang, Franck Dernoncourt, Sungchul Kim, Seunghyun Yoon, Zichao Wang, Ruiyi Zhang, Puneet Mathur, Jihyung Kil, Jiuxiang Gu, Nedim Lipka, Yu Wang, Ryan A. Rossi, /Tyler Derr/. \n 
 . [https://www.arxiv.org/abs/2510.16306 Scaffold-Aware Generative Augmentation and Reranking for Enhanced Virtual Screening]. \n Xin Wang, Yu Wang, Yunchao(Lance)  Liu, Jens Meiler, /Tyler Derr/. \n 
 . [https://arxiv.org/abs/2508.06734 Mitigating Distribution Shift in Graph-Based Android Malware Classification via Function Metadata and LLM Embeddings]. \n Ngoc N. Tran, Anwar Said, Waseem Abbas, /Tyler Derr/, Xenofon Koutsoukos. \n
 . [https://arxiv.org/abs/2508.12533 Defining and Benchmarking a Data-Centric Design Space for Brain Graph Construction]. \n Qinwen Ge, Roza G. Bayrak, Anwar Said, Catie Chang, Xenofon Koutsoukos, /Tyler Derr/. \n
@@ -27,7 +31,8 @@ Haochen Liu, /Tyler Derr/, Zitao Liu, and Jiliang Tang. \n
 
 
 == 2026
-. A Survey on Signed Network Reconstruction Modeling and its Applications. \n Aikta Arya, Pradumn Kumar Pandey, Niloy Ganguly, /Tyler Derr/. \n ACM Transactions on Knowledge Discovery from Data (*TKDD*), 2026. \n 
+. Risk-Controlled Event-Driven Cascading Updates for Knowledge Graph Consistency Restoration. \n Bo Ni, Qinwen Ge, Haowei Fu, Ryan A. Rossi, Xiaorui Liu, Jiejun Xu, /Tyler Derr/. \n In Findings of the Association for Computational Linguistics: *ACL*, San Diego, CA, USA, July 2-7, 2026. \n 
+. [https://dl.acm.org/doi/abs/10.1145/3803550 A Survey on Signed Network Reconstruction Modeling and its Applications]. \n Aikta Arya, Pradumn Kumar Pandey, Niloy Ganguly, /Tyler Derr/. \n ACM Transactions on Knowledge Discovery from Data (*TKDD*), 2026. \n 
 . [https://arxiv.org/pdf/2408.01129 A Survey of Mamba]. \n Haohao Qu, Liangbo Ning, Rui An, Wenqi Fan, /Tyler Derr/, Hui Liu, Xin Xu, Qing Li. \n ACM Transactions on Intelligent Systems and Technology (*TIST*), 2026. \n
 . Referral Required: When AI Blocks Access to Human Doctors \n /Tyler Derr./ ACM AI Letters (*AILET*), 2026. \n
 . [papers/LLM-based_User_Simulated_Data_Generation_Survey.pdf Large Language Models for Conversational User Simulation: A Comprehensive Survey] \n Bo Ni, Leyao Wang, Yu Wang, Branislav Kveton, Franck Dernoncourt, Yu Xia, Hongjie Chen, Reuben Leura, Samyadeep Basu, Subhojyoti Mukherjee, \n Puneet Mathur, Nesreen Ahmed, Junda Wu, Li Li, Huixin Zhang, Ruiyi Zhang, Tong Yu, Sungchul Kim, Jiuxiang Gu, Zhengzhong Tu, Alexa Siu, \n Zichao Wang, David Seunghyun Yoon, Nedim Lipka, Namyong Park, Zihao Lin, Trung Bui, Yue Zhao, /Tyler Derr/, Ryan A. Rossi. \n In Proceedings of the 19th Conference of the European Chapter of the Association for Computational Linguistics (*EACL*), Rabat, Morocco, March 24-29, 2026. \n
@@ -36,7 +41,7 @@ Haochen Liu, /Tyler Derr/, Zitao Liu, and Jiliang Tang. \n
 \[Code [https://github.com/RageFu2004/Ensemble-Privacy-Defense repo]\]
 . [https://arxiv.org/abs/2410.16882 SAVE-TAG: Semantic-Aware Vicinal Risk Minimization for Long-Tailed Text-Attributed Graphs]. \n Leyao Wang, Yu Wang, Bo Ni, Yuying Zhao, Hanyu Wang, Yao Ma, /Tyler Derr/. \n In Proceedings of the 32nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (*KDD*), Jeju, Korea, August 9 - 13, 2026. \n
 \[Code [https://github.com/LWang-Laura/SaVe-TAG repo]\]
-. Graph2Video: Leveraging Video Models to Model Dyanmic Graph Evolution. \n Hua Liu, Yanbin Wei, Fei Xing, /Tyler Derr/, Haoyu Han, and Yu Zhang. \n In Proceedings of the 40th AAAI Conference on Artificial Intelligence (*AAAI*), Singapore, January 20 - 27, 2026. \n
+. [https://arxiv.org/abs/2603.13360 Graph2Video: Leveraging Video Models to Model Dyanmic Graph Evolution]. \n Hua Liu, Yanbin Wei, Fei Xing, /Tyler Derr/, Haoyu Han, and Yu Zhang. \n In Proceedings of the 40th AAAI Conference on Artificial Intelligence (*AAAI*), Singapore, January 20 - 27, 2026. \n
 
 == 2025
 . [https://www.nature.com/articles/s42004-025-01789-4 SuperWater as a Generative AI Framework to Predict Water Molecule Positions on Protein Structures]. \n Zhaoqian Su, Xiaohan Kuang, Yunchao Liu, Xiaobo Lin, Jesse Spencer-Smith, /Tyler Derr/, Yinghao Wu, Jens Meiler, Yongbo Hu, and Hans Bitter. \n Communications Chemistry, 2025.
