@@ -1,7 +1,11 @@
-# jemdoc: menu{MENU}{publicAations.html}A
+A# jemdoc: menu{MENU}{publicAations.html}A
 = Tyler Derr - Publications
 
 == Preprints
+. [https://arxiv.org/abs/2606.20846 Adverse Online Social Interactions: A Multi-Level Evolutionary Analysis of Local Patterns, Diffusion, and Community Disruption]. \n Xueqi Cheng, Qinwen Ge, Hamid Karimi, Yushun Dong, Tyler Derr. \n 
+. [https://www.medrxiv.org/content/10.64898/2026.05.20.26353690v1 Evaluating Large Language Models for Translating Multimodal Phenotype Documentations into Executable EHR Phenotyping Algorithms]. \n Chao Yan, Yi Xin, Wu-Chen Su, Srushti Gangireddy, Shravani Durbhakula, Stephen P Bruehl, Alyson L Dickson, Lang Li, QiPing Feng, Bradley A Malin, /Tyler Derr/, Wei-Qi Wei. \n 
+. [https://arxiv.org/abs/2605.11290 ReAD: Reinforcement-Guided Capability Distillation for Large Language Models]. \n Xueqi Cheng, Xugui Zhou, \Tyler Derr\, Yushun Dong. \n
+. [https://arxiv.org/abs/2605.11317 SOMA: Efficient Multi-turn LLM Serving via Small Language Model]. \n Xueqi Cheng, Qiong Wu, Zhengyi Zhou, Xugui Zhou, \Tyler Derr\, Yushun Dong. \n
 . [https://arxiv.org/abs/2604.24996 Sparse Personalized Text Generation with Multi-Trajectory Reasoning] \n Bo Ni, Haowei Fu, Qinwen Ge, Franck Dernoncourt, Samyadeep Basu, Nedim Lipka, Seunghyun Yoon, Yu Wang, Nesreen K Ahmed, Subhojyoti Mukherjee, Puneet Mathur, Ryan A Rossi, /Tyler Derr/. \n
 . [https://arxiv.org/abs/2604.18955v1 Assessing Capabilities of Large Language Models in Social Media Analytics: A Multi-task Quest]. \n Ramtin Davoudi, Kartik Thakkar, Nazanin Donyapour, /Tyler Derr/, Hamid Karimi. \n 
 . [https://hal.science/hal-05555227v1/file/Figure_Captioning_and_Reasoning_Survey__ARR_Jan_6__without_SoC.pdf Figure Captioning with Large Generative Models: A Survey]. \n Chan-Wei Hu, Reuben Luera, Franck Dernoncourt, Huanjiang Liu, Seon Gyeom Kim, Ashish Singh, Puneet Mathur, Bo Ni, Samyadeep Basu, Hongjie Chen, Tak Yeon Lee, Edward Hsu, Seunghyun Yoon, Nesreen K. Ahmed, Li Li, Tong Yu, Sungchul Kim, Branislav Kveton, Subhojyoti Mukherjee, Jiuxiang Gu, Jihyung Kil, Zhehao Zhang, Junda Wu, Ashutosh Singh, Zichao Wang, Ruiyi Zhang, Yue Zhao, Nedim Lipka, Thien Huu Nguyen, /Tyler Derr/, Zhengzhong Tu, Yu Wang, Ting-Hao Kenneth Huang, Ryan A. Rossi. \n
@@ -15,8 +19,6 @@
 . [https://arxiv.org/abs/2508.01128 Towards Bridging Review Sparsity in Recommendation with Textual Edge Graph Representation]. \n Leyao Wang\*, Xutao Mao\*, Xuhui Zhang, Yuying Zhao, Bo Ni, Ryan Rossi, Nesreen Ahmed, /Tyler Derr/. \n
 . [https://arxiv.org/abs/2505.01695 SimAug: Enhancing Recommendation with Pretrained Language Models for Dense and Balanced Data Augmentation]. \n Yuying Zhao, Xiaodong Yang, Huiyuan Chen, Xiran Fan, Yu Wang, Yiwei Cai, /Tyler Derr/. \n
 . [https://arxiv.org/abs/2505.01698 Amplifying Your Social Media Presence: Personalized Influential Content Generation with LLMs]. \n Yuying Zhao, Yu Wang, Xueqi Cheng, Anne Marie Tumlin, Yunchao Liu, Damin Xia, Meng Jiang, /Tyler Derr/. \n
-. [https://arxiv.org/abs/2502.06872 Towards Trustworthy Retrieval Augmented Generation for Large Language Models: A Survey]. \n Bo Ni, Zheyuan Liu, Leyao Wang, Yongjia Lei, Yuying Zhao, Xueqi Cheng, Qingkai Zeng, Luna Dong, Yinglong Xia, Krishnaram Kenthapadi, \n Ryan Rossi, Franck Dernoncourt, Md Mehrab Tanjim, Nesreen Ahmed, Xiaorui Liu, Wenqi Fan, Erik Blasch, Yu Wang, Meng Jiang, /Tyler Derr/. \n
-\[Code [https://github.com/Arstanley/RAG-Trust-Benchmark repo]\]
 . [https://arxiv.org/abs/2310.02164 Graph Unlearning: A Review]. \n Anwar Said, Ngoc N. Tran (co-first author), Yuying Zhao, /Tyler Derr/, Mudassir Shabbir, Waseem Abbas, Xenofon Koutsoukos. \n 
 . [https://yuwvandy.github.io/paper/dpgnn.pdf Distance-wise Prototypical Graph Neural Network for Imbalanced Node Classification.] \n
 Yu Wang, Charu Aggarwal, and /Tyler Derr/. \n
@@ -31,6 +33,10 @@ Haochen Liu, /Tyler Derr/, Zitao Liu, and Jiliang Tang. \n
 
 
 == 2026
+. Personalized Auto-Research: Towards a True AI Co-Scientist. \n Bo Ni, Franck Derononcourt, Hongjie Chen, Yu Wang, Nesreen Ahmed, Zhengzhong Tu, Tyler Derr and Ryan Rossi. \n In Proceedings of the 1st ACM AI Leadership Summit, Atlanta, USA, August 30 - September 2, 2026. \n 
+. [https://arxiv.org/abs/2502.06872 Towards Trustworthy Retrieval Augmented Generation for Large Language Models: A Survey]. \n Bo Ni, Zheyuan Liu, Leyao Wang, Yongjia Lei, Yuying Zhao, Xueqi Cheng, Qingkai Zeng, Luna Dong, Yinglong Xia, Krishnaram Kenthapadi, \n Ryan Rossi, Franck Dernoncourt, Md Mehrab Tanjim, Nesreen Ahmed, Xiaorui Liu, Wenqi Fan, Erik Blasch, Yu Wang, Meng Jiang, /Tyler Derr/. \n ACM Computing Surveys (*CSUR*), 2026. \n
+. Reachability-Based Formal Verification of Graph Neural Networks with Node and Edge Features. \n Anne M. Tumlin, Ben Wooding, Zhenxuan Shao, Diego Manzanas Lopez, /Tyler Derr/,  Taylor T. Johnson. In International Symposium on AI Verification (*SAIV*), Lisbon, Portugal, July 24-25, 2026. \n
+. Mapping Relative Proximity within an Internalizing Symptoms Network. \n Gabrielle E. Reimann, Bergen Allee, /Tyler Derr/, Hee Jung Jeong, Camille Archer, E. Leighton Durham, Kaitlynn E. Ellis, Catie Chang, Antonia N. Kaczkurkin. \n Journal of Anxiety Disorders, 2026. \n
 . Risk-Controlled Event-Driven Cascading Updates for Knowledge Graph Consistency Restoration. \n Bo Ni, Qinwen Ge, Haowei Fu, Ryan A. Rossi, Xiaorui Liu, Jiejun Xu, /Tyler Derr/. \n In Findings of the Association for Computational Linguistics: *ACL*, San Diego, CA, USA, July 2-7, 2026. \n 
 . [https://dl.acm.org/doi/abs/10.1145/3803550 A Survey on Signed Network Reconstruction Modeling and its Applications]. \n Aikta Arya, Pradumn Kumar Pandey, Niloy Ganguly, /Tyler Derr/. \n ACM Transactions on Knowledge Discovery from Data (*TKDD*), 2026. \n 
 . [https://arxiv.org/pdf/2408.01129 A Survey of Mamba]. \n Haohao Qu, Liangbo Ning, Rui An, Wenqi Fan, /Tyler Derr/, Hui Liu, Xin Xu, Qing Li. \n ACM Transactions on Intelligent Systems and Technology (*TIST*), 2026. \n

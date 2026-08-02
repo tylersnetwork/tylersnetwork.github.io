@@ -25,7 +25,7 @@ Mail: 400 24th Ave S Rm 254, Nashville, TN 37212
 \n
 == Short Bio
 
-Dr. Tyler Derr is an Assistant Professor of Computer Science at Vanderbilt University and Director of the Network and Data Science Lab. His research focuses on graph machine learning, large language models and AI agents, data-centric AI, and trustworthy and responsible AI, with applications in social networks, recommender systems, and computational drug discovery. He has published 70+ papers in top AI\/DM\/ML venues and received the NSF CAREER Award (see Selected Honors \& Leadership below). \[Extended bios can be found [bios.html here].\]
+Dr. Tyler Derr is an Assistant Professor of Computer Science at Vanderbilt University and Director of the Network and Data Science Lab. His research spans on graph machine learning, large language models and AI agents, data-centric AI, and trustworthy and responsible AI, with applications in social networks, recommender systems, and computational drug discovery. He has published 70+ papers in leading AI, data mining, and machine learning venues, and has received numerous research, teaching, and professional honors. \[Extended [bios.html bios].\]
 
 
 == Recent News
@@ -33,13 +33,22 @@ Dr. Tyler Derr is an Assistant Professor of Computer Science at Vanderbilt Unive
 
 ~~
 === 2026
+- 7/2026: Our paper ``Personalized Auto-Research: Towards a True AI Co-Scientist'' is accepted in the Visionary Papers category of the inaugural ACM AI Leadership Summit
+- 7/2026: Our paper [https://arxiv.org/abs/2502.06872 Towards Trustworthy Retrieval Augmented Generation for Large Language Models: A Survey] is accepted in ACM Computing Surveys (*CSUR*)
+- 7/2026: I'll be serving as Academic Policies and Services (APS) Committee Co-Chair for the upcoming year in the VU Faculty Senate
+- 6/2026: Our paper ``Mapping Relative Proximity within an Internalizing Symptoms Network'' is accepted in the Journal of Anxiety Disorders
+- 6/2026: Preprint [https://arxiv.org/abs/2606.20846 Adverse Online Social Interactions: A Multi-Level Evolutionary Analysis of Local Patterns, Diffusion, and Community Disruption]
+- 5/2026: Our paper ``Reachability-Based Formal Verification of Graph Neural Networks with Node and Edge Features'' is accepted at the Symposium on AI Verification (*SAIV2026*)
+- 5/2026: Our work ``Evaluating Large Language Models for Generating Executable Phenotyping Algorithms from Multimodal Phenotype Documentation'' was selected for a podium abstract presentation at *AMIA2026*
 - 5/2026: Congratulations to BS student Haowei Fu who received the College of Computing's 2026 *Best in Program* Runner-up Award!
-- 5/2026: Seleced for the *IJCAI-ECAI Early Career Spotlight (ECS)*, recognizing those with significant contributions and future promise in AI
+- 5/2026: Honored to be seleced for the *IJCAI-ECAI Early Career Spotlight (ECS)*, recognizing those with significant contributions and future promise in AI
+- 5/2026: Preprint [https://arxiv.org/abs/2605.11290 ReAD: Reinforcement-Guided Capability Distillation for Large Language Models]
+- 5/2026: Preprint [https://arxiv.org/abs/2605.11317 SOMA: Efficient Multi-turn LLM Serving via Small Language Model]
 - 4/2026: Honored to receive support through the *Google Cloud Research Credits Program* for our project ``A Multi-Agent AI Scientist for Autonomous Knowledge Discovery via Iterative Hypothesis Generation and Testing''
 - 4/2026: Preprint [https://arxiv.org/abs/2604.24996 Sparse Personalized Text Generation with Multi-Trajectory Reasoning]
 - 4/2026: Congratulations to the team from my Project in Machine Learning course for winning *1st place in Vanderbilt's CS Immersion Showcase* (sponsored by FortyAU)
 - 4/2026: Preprint [https://arxiv.org/abs/2604.18955v1 Assessing Capabilities of Large Language Models in Social Media Analytics: A Multi-task Quest]
-- 4/2026: Our paper ``Risk-Controlled Event-Driven Cascading Updates for Knowledge Graph Consistency Restoration'' is accepted at *ACL* (Findings)
+- 4/2026: Our paper ``Risk-Controlled Event-Driven Cascading Updates for Knowledge Graph Consistency Restoration'' is accepted at *ACL2026* (Findings)
 - 3/2026: Preprint [https://hal.science/hal-05555227v1/file/Figure_Captioning_and_Reasoning_Survey__ARR_Jan_6__without_SoC.pdf Figure Captioning with Large Generative Models: A Survey]
 - 3/2026: Invited to serve as *Doctoral Consortium Co-Chair for WSDM2027*
 - 3/2026: Our paper [https://dl.acm.org/doi/abs/10.1145/3803550 A Survey on Signed Network Reconstruction Modeling and its Applications] is accepted in ACM Transactions on Knowledge Discovery from Data (*TKDD*)
@@ -48,8 +57,8 @@ Dr. Tyler Derr is an Assistant Professor of Computer Science at Vanderbilt Unive
 - 3/2026: Our paper ``Referral Required: When AI Blocks Access to Human Doctors'' is accepted in the inaugural issue of *ACM AI Letters*
 - 2/2026: Invited to serve as *Publicity Co-Chair for SDM2026*
 - 1/2026: Preprint [https://arxiv.org/abs/2602.21219 Reasoning-Based Personalized Generation for Users with Sparse Data]
-- 1/2026: Our paper [papers/LLM-based_User_Simulated_Data_Generation_Survey.pdf Large Language Models for Conversational User Simulation: A Comprehensive Survey] is accepted at *EACL* (Main)
-- 1/2026: Our paper [https://arxiv.org/abs/2512.03100 Ensemble Privacy Defense for Knowledge-Intensive LLMs against Membership Inference Attacks] is accepted at *EACL* (Findings)
+- 1/2026: Our paper [papers/LLM-based_User_Simulated_Data_Generation_Survey.pdf Large Language Models for Conversational User Simulation: A Comprehensive Survey] is accepted at *EACL2026* (Main)
+- 1/2026: Our paper [https://arxiv.org/abs/2512.03100 Ensemble Privacy Defense for Knowledge-Intensive LLMs against Membership Inference Attacks] is accepted at *EACL2026* (Findings)
 ~~
 
 ~~
@@ -72,7 +81,7 @@ Dr. Tyler Derr is an Assistant Professor of Computer Science at Vanderbilt Unive
 - 8/2025: Preprint [https://arxiv.org/abs/2508.01128 ``Towards Bridging Review Sparsity in Recommendation with Textual Edge Graph Representation'']
 - 8/2025: Honored to serve as *Senator* in [https://www.vanderbilt.edu/faculty-senate/find-your-senator/ Vanderbilt's Faculty Senate] as a School of Engineering representative
 - 7/2025: Honored to receive an *NSF* grant for the project [https://www.nsf.gov/awardsearch/showAward?AWD_ID=2524380 Towards Well-Rounded Graph Retrieval for Retrieval-Augmented Generation]
-- 7/2025: Our paper ``Explanation Difference: Bridging Procedural and Distributional Fairness'' is accepted at AAAI\/ACM Conference on AI, Ethics, and Society (*AIES*)
+- 7/2025: Our paper ``Explanation Difference: Bridging Procedural and Distributional Fairness'' is accepted at AAAI\/ACM Conference on AI, Ethics, and Society (*AIES2025*)
 - 6/2025: Invited to give a *KDD'25 Health Day Blue Sky Spotlight talk* ``Referral Required: When AI Blocks Access to Human Doctors''
 - 6/2025: Recognized as a *2024 Top Scholar by ScholarGPS*, ranking in the top 0.5% worldwide overall and ranked top 50 in Data Mining over the past five years
 - 6/2025: Our paper ``Edges Matter: An Analysis of Graph Time-Series Representations for Temporal Networks'' is accepted in IEEE Transactions on Network Science and Engineering (*TNSE*)
