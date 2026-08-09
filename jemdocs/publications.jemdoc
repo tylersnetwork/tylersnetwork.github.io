@@ -1,4 +1,4 @@
-A# jemdoc: menu{MENU}{publicAations.html}A
+# jemdoc: menu{MENU}{publicAations.html}A
 = Tyler Derr - Publications
 
 == Preprints
@@ -36,7 +36,7 @@ Haochen Liu, /Tyler Derr/, Zitao Liu, and Jiliang Tang. \n
 . Personalized Auto-Research: Towards a True AI Co-Scientist. \n Bo Ni, Franck Derononcourt, Hongjie Chen, Yu Wang, Nesreen Ahmed, Zhengzhong Tu, Tyler Derr and Ryan Rossi. \n In Proceedings of the 1st ACM AI Leadership Summit, Atlanta, USA, August 30 - September 2, 2026. \n 
 . [https://arxiv.org/abs/2502.06872 Towards Trustworthy Retrieval Augmented Generation for Large Language Models: A Survey]. \n Bo Ni, Zheyuan Liu, Leyao Wang, Yongjia Lei, Yuying Zhao, Xueqi Cheng, Qingkai Zeng, Luna Dong, Yinglong Xia, Krishnaram Kenthapadi, \n Ryan Rossi, Franck Dernoncourt, Md Mehrab Tanjim, Nesreen Ahmed, Xiaorui Liu, Wenqi Fan, Erik Blasch, Yu Wang, Meng Jiang, /Tyler Derr/. \n ACM Computing Surveys (*CSUR*), 2026. \n
 . Reachability-Based Formal Verification of Graph Neural Networks with Node and Edge Features. \n Anne M. Tumlin, Ben Wooding, Zhenxuan Shao, Diego Manzanas Lopez, /Tyler Derr/,  Taylor T. Johnson. In International Symposium on AI Verification (*SAIV*), Lisbon, Portugal, July 24-25, 2026. \n
-. Mapping Relative Proximity within an Internalizing Symptoms Network. \n Gabrielle E. Reimann, Bergen Allee, /Tyler Derr/, Hee Jung Jeong, Camille Archer, E. Leighton Durham, Kaitlynn E. Ellis, Catie Chang, Antonia N. Kaczkurkin. \n Journal of Anxiety Disorders, 2026. \n
+. [https://www.sciencedirect.com/science/article/pii/S0887618526000927 Mapping Relative Proximity within an Internalizing Symptoms Network]. \n Gabrielle E. Reimann, Bergen Allee, /Tyler Derr/, Hee Jung Jeong, Camille Archer, E. Leighton Durham, Kaitlynn E. Ellis, Catie Chang, Antonia N. Kaczkurkin. \n Journal of Anxiety Disorders, 2026. \n
 . Risk-Controlled Event-Driven Cascading Updates for Knowledge Graph Consistency Restoration. \n Bo Ni, Qinwen Ge, Haowei Fu, Ryan A. Rossi, Xiaorui Liu, Jiejun Xu, /Tyler Derr/. \n In Findings of the Association for Computational Linguistics: *ACL*, San Diego, CA, USA, July 2-7, 2026. \n 
 . [https://dl.acm.org/doi/abs/10.1145/3803550 A Survey on Signed Network Reconstruction Modeling and its Applications]. \n Aikta Arya, Pradumn Kumar Pandey, Niloy Ganguly, /Tyler Derr/. \n ACM Transactions on Knowledge Discovery from Data (*TKDD*), 2026. \n 
 . [https://arxiv.org/pdf/2408.01129 A Survey of Mamba]. \n Haohao Qu, Liangbo Ning, Rui An, Wenqi Fan, /Tyler Derr/, Hui Liu, Xin Xu, Qing Li. \n ACM Transactions on Intelligent Systems and Technology (*TIST*), 2026. \n
