@@ -1,0 +1,76 @@
+# jemdoc: menu{MENU}{graphretrieval.html}
+= Collaborative Research: III: Small: Towards Well-Rounded Graph Retrieval for Retrieval-Augmented Generation
+
+== Project Description
+Solutions to real-world problems, such as scientific document question-answering, cybersecurity diagnosis, and e-commerce personalization, can often be improved by augmenting the underlying generative artificial intelligence-based (Gen-AI) systems with retrieved external knowledge. Much of this external knowledge is organized in graph-structured formats that encode unique relational signals. For example, citation links among scientific papers reveal their deep intellectual dependencies across different fields. Recurring co-occurrences among software components and vulnerability reports can reveal latent causal chains triggering security flaws. Online human interactions, such as liking, commenting, or reposting, reflect individual traits and preferences. This project pioneers retrieval techniques that locate the appropriate graph-structured knowledge and infuse it to assist Gen-AI systems with solving downstream problems, closing critical knowledge gaps, and enabling more useful, trustworthy, and diverse predictions, discovery, and decision-making. In personalization, the proposed retrieval techniques could give a social e-commerce platform a holistic view of each customer and support highly personalized recommendations. In cybersecurity, hidden dependencies among vulnerabilities and defenses could be exploited, allowing security operators to trace multi-step attack chains and harden critical systems against emerging threats. In scientific discovery and innovation, the relational knowledge in graph-level retrieval could facilitate exploration of multifaceted content and provide diverse insights that push existing knowledge boundaries.
+
+To meet these goals, this project pioneers a transformative roadmap to build well-rounded graph retrieval techniques for retrieval-augmented generation (RAG) systems that advance three dimensions: (1) improving utility by harmonizing knowledge between structured knowledge in graphs and neural knowledge in large language models via structured knowledge checking, aligning retrieval emphasis with user interests by estimating continuously evolving trends, and incorporating agentic planning and reasoning capabilities for intelligent multi-round graph-structured traversal; (2) safeguarding trustworthiness by reliably retrieving error-controlled graph-structured knowledge, disclosing vulnerability by designing structure-informed threat models, and improving safety with data-centric textual subgraph anomaly detection and model-centric neighborhood trend filtering; and (3) promoting knowledge diversity through multi-agent collaborative exploration at both the conceptual subgraph and individual entity level. Together, these innovations aim to advance graph algorithms, retrieval modeling, and graph-structured knowledge representations for applications including healthcare, scientific innovation, personalization, and cyber defense.
+
+== Publications
+- [https://arxiv.org/abs/2502.06872 Towards Trustworthy Retrieval Augmented Generation for Large Language Models: A Survey]. \n Bo Ni, Zheyuan Liu, Yongjia Lei, Leyao Wang, Yuying Zhao, Xueqi Cheng, Qingkai Zeng, Xin Dong, Yinglong Xia, Krishnaram Kenthapadi, Ryan A. Rossi, Franck Dernoncourt, Mehrab Tanjim, Nesreen K. Ahmed, Xiaorui Liu, Wenqi Fan, Erik Blasch, Yu Wang, Meng Jiang, *Tyler Derr*. \n ACM Computing Surveys (CSUR), 2026. \n
+
+- [https://aclanthology.org/2026.findings-acl.2111/ Risk-Controlled Event-Driven Cascading Updates for Knowledge Graph Consistency Restoration]. \n Bo Ni, Qinwen Ge, Haowei Fu, Ryan A. Rossi, Xiaorui Liu, Jiejun Xu, *Tyler Derr*. \n In Findings of the Association for Computational Linguistics: ACL, San Diego, CA, USA, July 2-7, 2026. \n
+\[Code and Datasets [https://github.com/Arstanley/cascadekg repo]\]
+
+- A Survey on LLM-based Conversational User Simulation. \n Bo Ni, Yu Wang, Leyao Wang, Branislav Kveton, Franck Dernoncourt, Yu Xia, Hongjie Chen, Reuben Luera, Samyadeep Basu, Subhojyoti Mukherjee, Puneet Mathur, Nesreen K. Ahmed, Junda Wu, Li Li, Huixin Zhang, Ruiyi Zhang, Tong Yu, Sungchul Kim, Jiuxiang Gu, Zhengzhong Tu, Alexa Siu, Zichao Wang, David Seunghyun Yoon, Nedim Lipka, Namyong Park, Zihao Lin, Trung Bui, Yue Zhao, *Tyler Derr*, Ryan A. Rossi. \n In Proceedings of the 19th Conference of the European Chapter of the Association for Computational Linguistics (EACL), Rabat, Morocco, March 24-29, 2026. \n
+\[Survey [https://github.com/Arstanley/Awesome-LLM-Conversation-Simulation repo]\]
+
+- [https://arxiv.org/abs/2512.03100 Ensemble Privacy Defense for Knowledge-Intensive LLMs against Membership Inference Attacks]. \n Haowei Fu\*, Bo Ni\*, Han Xu, Kunpeng Liu, Dan Lin, *Tyler Derr*. \n In Findings of the Association for Computational Linguistics: EACL, 2026. \n
+\[Code [https://github.com/RageFu2004/Ensemble-Privacy-Defense repo]\]
+
+- [https://arxiv.org/abs/2604.24996 Sparse Personalized Text Generation with Multi-Trajectory Reasoning]. \n Bo Ni, Haowei Fu, Qinwen Ge, Franck Dernoncourt, Samyadeep Basu, Nedim Lipka, Seunghyun Yoon, Yu Wang, Nesreen K. Ahmed, Subhojyoti Mukherjee, Puneet Mathur, Ryan A. Rossi, *Tyler Derr*. \n Preprint / under review, 2026. \n
+
+- [https://arxiv.org/abs/2602.21219 Reasoning-Based Personalized Generation for Users with Sparse Data]. \n Bo Ni, Branislav Kveton, Samyadeep Basu, Subhojyoti Mukherjee, Leyao Wang, Franck Dernoncourt, Sungchul Kim, Seunghyun Yoon, Zichao Wang, Ruiyi Zhang, Puneet Mathur, Jihyung Kil, Jiuxiang Gu, Nedim Lipka, Yu Wang, Ryan A. Rossi, *Tyler Derr*. \n Preprint / under review, 2026. \n
+
+== News and Awards
+- Tyler received the International Neural Network Society's 2025 Aharon Katzir Young Investigator Award, presented at the 2026 IEEE World Congress on Computational Intelligence
+- Tyler was recognized among the 2025 World's Top 2% Scientists by Stanford/Elsevier, with research supported through this NSF award contributing to the broader research portfolio underlying the recognition
+- Our survey ``Towards Trustworthy Retrieval Augmented Generation for Large Language Models: A Survey'' was published in ACM Computing Surveys
+- Our paper ``Risk-Controlled Event-Driven Cascading Updates for Knowledge Graph Consistency Restoration'' was published in Findings of ACL 2026, introducing the ICEWS14-Event and YAGO-Event benchmark datasets for evolving knowledge graphs
+- Our paper ``Ensemble Privacy Defense for Knowledge-Intensive LLMs against Membership Inference Attacks'' was published in Findings of EACL 2026
+- Our survey ``A Survey on LLM-based Conversational User Simulation'' was published at EACL 2026
+- We released two new preprints on graph-based sparse personalization and multi-trajectory reasoning for personalized generation
+- GraphRAG and personalized LLM research from the project is being incorporated into Tyler's Social Network Analysis course at Vanderbilt
+- Vanderbilt established the new College of Connected Computing, creating new opportunities for the project's graph learning, RAG, and generative AI research to contribute to emerging programs including the MS in AI
+- Tyler is awarded the NSF III Small Award ``Towards Well-Rounded Graph Retrieval for Retrieval-Augmented Generation''!
+
+== Project Members
+- [https://tylersnetwork.github.io Tyler Derr] (PI)
+- [https://arstanley.github.io/ Bo Ni] (PhD) \n Research areas: trustworthy RAG, knowledge graphs, graph-based personalization, and LLM reasoning
+- [https://www.linkedin.com/in/qinwen-ge/ Qinwen Ge] (PhD) \n Research areas: graph retrieval, knowledge graphs, personalized generation, and autonomous knowledge discovery
+- [https://www.linkedin.com/in/noah-dahle-1b2213236/ Noah Dahle] (PhD) \n Research areas: relational anomaly detection, data-centric AI, and trustworthy structured knowledge
+- Haowei Fu (Undergraduate) \n Research areas: RAG privacy, membership inference, and trustworthy knowledge-intensive LLMs
+
+=== Collaborators:
+Industry:
+- Adobe Research: Branislav Kveton, Franck Dernoncourt, Samyadeep Basu, Subhojyoti Mukherjee, Puneet Mathur, Ruiyi Zhang, Tong Yu, Sungchul Kim, Jiuxiang Gu, Alexa Siu, Zichao Wang, David Seunghyun Yoon, Nedim Lipka, Trung Bui, Ryan A. Rossi, Mehrab Tanjim, Jihyung Kil
+- Cisco AI Research: Nesreen K. Ahmed
+- Dolby Laboratories: Hongjie Chen
+- HRL Laboratories: Jiejun Xu
+- Meta: Xin Dong, Yinglong Xia
+- Oracle Health AI: Krishnaram Kenthapadi
+
+Government Research:
+- Air Force Research Laboratory (AFRL): Erik Blasch
+
+Academia:
+- Clemson University: Kunpeng Liu
+- Florida State University: Xueqi Cheng
+- North Carolina State University: Xiaorui Liu
+- Texas A&M University: Huixin Zhang, Zhengzhong Tu
+- University of Arizona: Han Xu
+- University of California, Berkeley: Reuben Luera
+- University of California, Davis: Zihao Lin
+- University of California, San Diego: Yu Xia
+- University of Notre Dame: Zheyuan Liu, Qingkai Zeng, Meng Jiang
+- University of Oregon: Yu Wang, Yongjia Lei
+- University of Southern California: Li Li, Yue Zhao
+- Vanderbilt University: Dan Lin, Junda Wu, Yuying Zhao
+- Yale University: Leyao Wang
+
+
+== Acknowledgements
+This project is supported by the National Science Foundation (NSF) under Grant [https://www.nsf.gov/awardsearch/showAward?AWD_ID=2524380 IIS-2524380]. Any opinions, findings, and conclusions or recommendations expressed here are those of the author(s) and do not necessarily reflect the views of the National Science Foundation.
+
+== Contact
+Tyler (dot) Derr (at) vanderbilt (dot) edu
